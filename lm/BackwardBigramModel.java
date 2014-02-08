@@ -18,21 +18,6 @@ public class BackwardBigramModel extends BigramModel {
 	super();
     }
 
-    /*
-    public void trainSentences (List<List<String>> sentences) {
-	for (List<String> sentence : sentences) {
-		ArrayList<String> rsentence = new ArrayList<>(sentence);
-		Collections.reverse(rsentence);
-	    trainSentence(rsentence);
-	}
-    }*/
-
-    /** Return bigram string as two tokens separated by a newline */
-    /*public String bigram (String prevToken, String token) {
-	if(prevToken.equals("<S>") || token.equals("</S>"))
-	    return token + "\n" + prevToken;
-	return prevToken + "\n" + token;
-    }*/
     public void train (List<List<String>> sentences) {
     	ArrayList<List<String>> reverseSentences = new ArrayList<List<String>>();
 	for(List<String> sentence : sentences){
