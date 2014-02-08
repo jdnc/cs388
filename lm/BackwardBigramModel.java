@@ -18,7 +18,7 @@ public class BackwardBigramModel extends BigramModel {
 	super();
     }
     
-    public static List<List<String>> reverse(List<List<String>> sentences){
+    public static ArrayList<List<String>> reverse(List<List<String>> sentences){
     	ArrayList<List<String>> reverseSentences = new ArrayList<List<String>>();
 	for(List<String> sentence : sentences){
 	    ArrayList<String> rsentence = new ArrayList<>(sentence);
