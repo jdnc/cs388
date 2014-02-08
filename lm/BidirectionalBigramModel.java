@@ -54,16 +54,21 @@ public class BidirectionalBigramModel {
 	for (int i = 0; i < sentence.size(); i++) {
 	    String tokenForward = sentence.get(i);
 	    String tokenBackward = rsentence.get(i);
-	    DoubleValue unigramVal = forwardModel.unigramMap.get(tokenForward);
-	    if (unigramVal == null) {
+	    DoubleValue unigramValForward = forwardModel.unigramMap.get(tokenForward);
+	    DoubleValue unigramValBackward = backwardModel.unigramMap.get(tokenBackward);
+	    if (unigramValForward == null) {
 		tokenForward = "<UNK>";
-		unigramVal = forwardModel.unigramMap.get(tokenForward);
+		unigramValForward = forwardModel.unigramMap.get(tokenForward);
+	    }
+	    if (unigramValBackward == null) {
+		tokenBackward = "<UNK>";
+		unigramValBackward = backwardModel.unigramMap.get(tokenBackward);
 	    }
 	    String bigramForward = forwardModel.bigram(prevTokenForward, tokenForward);
 	    String bigramBackward = backwardModel.bigram(prevTokenBackward, tokenBackward);
 	    DoubleValue bigramValForward = forwardModel.bigramMap.get(bigramForward);
 	    DoubleValue bigramValBackward = backwardModel.bigramMap.get(bigramBackward);
-	    double logProb = Math.log(interpolatedProb(unigramVal, bigramValForward, bigramValBackward));
+	    double logProb = Math.log(interpolatedProb(unigramValForward, unigramValBackward, bigramValForward, bigramValBackward));
 	    sentenceLogProb += logProb;
 	    prevTokenForward = tokenForward;
 	    prevTokenBackward = tokenBackward;
@@ -73,11 +78,11 @@ public class BidirectionalBigramModel {
 
 
     /** Interpolate bigram prob using bigram and unigram model predictions */	 
-    public double interpolatedProb(DoubleValue unigramVal, DoubleValue bigramValForward, DoubleValue bigramValBackward) {
+    public double interpolatedProb(DoubleValue unigramValForward, DoubleValue unigramValBackward, DoubleValue bigramValForward, DoubleValue bigramValBackward) {
     	double lambdaForward = 0.5;
     	double lambdaBackward = 0.5;
-    	double forwardProb = forwardModel.interpolatedProb(unigramVal, bigramValForward);
-    	double backwardProb = backwardModel.interpolatedProb(unigramVal, bigramValBackward);
+    	double forwardProb = forwardModel.interpolatedProb(unigramValForward, bigramValForward);
+    	double backwardProb = backwardModel.interpolatedProb(unigramValBackward, bigramValBackward);
     	return lambdaForward * forwardProb + lambdaBackward * backwardProb;
     }
     
