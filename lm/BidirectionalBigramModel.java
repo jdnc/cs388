@@ -12,12 +12,7 @@ import java.util.*;
 public class BidirectionalBigramModel {
 
     BigramModel forwardModel;
-  {
-	String prevToken = startToken;
-	double sentenceLogProb = 0;
-	for (String token : sentence) {
-	    DoubleValue unigramVal = unigramMap.get(token);
-	    if (unigramVal == null)    BackwardBigramModel backwardModel;
+    BackwardBigramModel backwardModel;
 
     public BidirectionalBigramModel(){
     	forwardModel = new BigramModel();
@@ -84,7 +79,14 @@ public class BidirectionalBigramModel {
     	double backwardProb = backwardModel.interpolatedProb(unigramVal, bigramValBackward);
     	return lambdaForward * forwardProb + lambdaBackward * backwardProb;
     }
-
+    
+    public static int wordCount (List<List<String>> sentences) {
+	int wordCount = 0;
+	for (List<String> sentence : sentences) {
+	    wordCount += sentence.size();
+	}
+	return wordCount;
+    }
 
     /** Train and test a bigram model.
      *  Command format: "nlp.lm.BigramModel [DIR]* [TestFrac]" where DIR 
@@ -115,16 +117,14 @@ public class BidirectionalBigramModel {
 			   " (# words = " + wordCount(trainSentences) + 
 			   ") \n# Test Sentences = " + testSentences.size() +
 			   " (# words = " + wordCount(testSentences) + ")");
-	// Create a bigram model and train it.
-	BigramModel model = new BigramModel();
+	// Create a bidirectional bigram model and train it.
+	BidirectionalBigramModel model = new BidirectionalBigramModel();
 	System.out.println("Training...");
 	model.train(trainSentences);
-	// Test on training data using test and test2
-	model.test(trainSentences);
+	// Test on training data using test2
 	model.test2(trainSentences);
 	System.out.println("Testing...");
-	// Test on test data using test and test2
-	model.test(testSentences);
+	// Test on test data using test2
 	model.test2(testSentences);
     }
 
