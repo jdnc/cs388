@@ -33,6 +33,18 @@ public class BackwardBigramModel extends BigramModel {
 	    return token + "\n" + prevToken;
 	return prevToken + "\n" + token;
     }*/
+    public void train (List<List<String>> sentences) {
+    	ArrayList<List<String>> reverseSentences = new ArrayList<List<String>>();
+	for(List<String> sentence : sentences){
+	    ArrayList<String> rsentence = new ArrayList<>(sentence);
+	    Collections.reverse(rsentence);
+	    reverseSentences.add(rsentence);
+	}
+	// Accumulate unigram and bigram counts in maps
+	trainSentences(reverseSentences);
+	// Compure final unigram and bigram probs from counts
+	calculateProbs();
+    }
 
     public static void main(String[] args) throws IOException {
 	// All but last arg is a file/directory of LDC tagged input data
@@ -43,19 +55,13 @@ public class BackwardBigramModel extends BigramModel {
 	double testFraction = Double.valueOf(args[args.length -1]);
 	// Get list of sentences from the LDC POS tagged input files
 	List<List<String>> sentences = 	POSTaggedFile.convertToTokenLists(files);
-	ArrayList<List<String>> reverseSentences = new ArrayList<List<String>>();
-	for(List<String> sentence : sentences){
-	    ArrayList<String> rsentence = new ArrayList<>(sentence);
-	    Collections.reverse(rsentence);
-	    reverseSentences.add(rsentence);
-	}
 	int numSentences = sentences.size();
 	// Compute number of test sentences based on TestFrac
 	int numTest = (int)Math.round(numSentences * testFraction);
 	// Take test sentences from end of data
-	List<List<String>> testSentences = reverseSentences.subList(numSentences - numTest, numSentences);
+	List<List<String>> testSentences = sentences.subList(numSentences - numTest, numSentences);
 	// Take training sentences from start of data
-	List<List<String>> trainSentences = reverseSentences.subList(0, numSentences - numTest);
+	List<List<String>> trainSentences = sentences.subList(0, numSentences - numTest);
 	System.out.println("# Train Sentences = " + trainSentences.size() + 
 			   " (# words = " + wordCount(trainSentences) + 
 			   ") \n# Test Sentences = " + testSentences.size() +
