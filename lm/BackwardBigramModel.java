@@ -30,10 +30,7 @@ public class BackwardBigramModel extends BigramModel {
 
     public void train (List<List<String>> sentences) {
     	
-	// Accumulate unigram and bigram counts in maps
-	trainSentences(reverse(sentences));
-	// Compure final unigram and bigram probs from counts
-	calculateProbs();
+	super.train(reverse(sentences));
     }
     
     /** Use sentences as a test set to evaluate the model. Print out perplexity
@@ -41,37 +38,13 @@ public class BackwardBigramModel extends BigramModel {
     public void test (List<List<String>> sentences) {
 	// Compute log probability of sentence to avoid underflow
 	ArrayList<List<String>> rsentences = reverse(sentences);
-	double totalLogProb = 0;
-	// Keep count of total number of tokens predicted
-	double totalNumTokens = 0;
-	// Accumulate log prob of all test sentences
-	for (List<String> sentence : rsentences) {
-	    // Num of tokens in sentence plus 1 for predicting </S>
-	    totalNumTokens += sentence.size() + 1;
-	    // Compute log prob of sentence
-	    double sentenceLogProb = sentenceLogProb(sentence);
-	    //	    System.out.println(sentenceLogProb + " : " + sentence);
-	    // Add to total log prob (since add logs to multiply probs)
-	    totalLogProb += sentenceLogProb;
-	}
-	// Given log prob compute perplexity
-	double perplexity = Math.exp(-totalLogProb / totalNumTokens);
-	System.out.println("Perplexity = " + perplexity );
+	super.test(rsentences);
     }
     
      /** Like test1 but excludes predicting end-of-sentence when computing perplexity */
     public void test2 (List<List<String>> sentences) {
     	ArrayList<List<String>> rsentences = reverse(sentences);
-	double totalLogProb = 0;
-	double totalNumTokens = 0;
-	for (List<String> sentence : rsentences) {
-	    totalNumTokens += sentence.size();
-	    double sentenceLogProb = sentenceLogProb2(sentence);
-	    //	    System.out.println(sentenceLogProb + " : " + sentence);
-	    totalLogProb += sentenceLogProb;
-	}
-	double perplexity = Math.exp(-totalLogProb / totalNumTokens);
-	System.out.println("Word Perplexity = " + perplexity );
+	super.test2(rsentences);
     }
     
 
