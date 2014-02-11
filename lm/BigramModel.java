@@ -54,6 +54,7 @@ public class BigramModel {
     /** Accumulate unigram and bigram counts for these sentences */
     public void trainSentences (List<List<String>> sentences) {
 	for (List<String> sentence : sentences) {
+	    System.out.println(sentence); //debug
 	    trainSentence(sentence);
 	}
     }
