@@ -23,11 +23,8 @@ public class BidirectionalBigramModel {
      *  Lists of String tokens */
     public void train (List<List<String>> sentences) {
 	// Accumulate unigram and bigram counts in maps
-	forwardModel.trainSentences(sentences);
-	backwardModel.trainSentences(sentences);
-	// Compure final unigram and bigram probs from counts
-	forwardModel.calculateProbs();
-	backwardModel.calculateProbs();
+	forwardModel.train(sentences);
+	backwardModel.train(sentences);
     }
 
     /** Like test1 but excludes predicting end-of-sentence when computing perplexity */
