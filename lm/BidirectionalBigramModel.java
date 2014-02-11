@@ -28,12 +28,12 @@ public class BidirectionalBigramModel {
     }
 
     /** Like test1 but excludes predicting end-of-sentence when computing perplexity */
-    public void test2 (List<List<String>> sentences) {
+    public void test2 (List<List<String>> sentences, double lambdaForward, double lambdaBackward) {
 	double totalLogProb = 0;
 	double totalNumTokens = 0;
 	for (List<String> sentence : sentences) {
 	    totalNumTokens += sentence.size();
-	    double sentenceLogProb = sentenceLogProb2(sentence);
+	    double sentenceLogProb = sentenceLogProb2(sentence, lambdaForward, lambdaBackward);
 	    //	    System.out.println(sentenceLogProb + " : " + sentence);
 	    totalLogProb += sentenceLogProb;
 	}
@@ -42,7 +42,7 @@ public class BidirectionalBigramModel {
     }
     
     /** Like sentenceLogProb but excludes predicting end-of-sentence when computing prob */
-  public double sentenceLogProb2 (List<String> sentence) {
+  public double sentenceLogProb2 (List<String> sentence, double lambdaForward, double lambdaBackward) {
   	ArrayList<String> rsentence = new ArrayList<>(sentence);
 	Collections.reverse(rsentence);
 	String prevTokenForward = forwardModel.startToken;
@@ -65,7 +65,7 @@ public class BidirectionalBigramModel {
 	    String bigramBackward = backwardModel.bigram(prevTokenBackward, tokenBackward);
 	    DoubleValue bigramValForward = forwardModel.bigramMap.get(bigramForward);
 	    DoubleValue bigramValBackward = backwardModel.bigramMap.get(bigramBackward);
-	    double logProb = Math.log(interpolatedProb(unigramValForward, unigramValBackward, bigramValForward, bigramValBackward));
+	    double logProb = Math.log(interpolatedProb(unigramValForward, unigramValBackward, bigramValForward, bigramValBackward, lambdaForward, lambdaBackward));
 	    sentenceLogProb += logProb;
 	    prevTokenForward = tokenForward;
 	    prevTokenBackward = tokenBackward;
@@ -75,9 +75,7 @@ public class BidirectionalBigramModel {
 
 
     /** Interpolate bigram prob using bigram and unigram model predictions */	 
-    public double interpolatedProb(DoubleValue unigramValForward, DoubleValue unigramValBackward, DoubleValue bigramValForward, DoubleValue bigramValBackward) {
-    	double lambdaForward = 0.7;
-    	double lambdaBackward = 0.3;
+    public double interpolatedProb(DoubleValue unigramValForward, DoubleValue unigramValBackward, DoubleValue bigramValForward, DoubleValue bigramValBackward, double lambdaForward, double lambdaBackward) {
     	double forwardProb = forwardModel.interpolatedProb(unigramValForward, bigramValForward);
     	double backwardProb = backwardModel.interpolatedProb(unigramValBackward, bigramValBackward);
     	return lambdaForward * forwardProb + lambdaBackward * backwardProb;
@@ -125,10 +123,16 @@ public class BidirectionalBigramModel {
 	System.out.println("Training...");
 	model.train(trainSentences);
 	// Test on training data using test2
-	model.test2(trainSentences);
+	List<double> lambdas = Arrays.asList(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9); 
+	for(int i = 0; i<9; i++){
+	double lambdaForward = lambdas[i];
+	double lambdaBackward = lambdas[9-i-1];
+	System.out.println("lambdaForward="+lambdaForward+"  lambdaBackward="+lambdaBackward);
+	model.test2(trainSentences, lambdaForward, lambdaBackward);
 	System.out.println("Testing...");
 	// Test on test data using test2
-	model.test2(testSentences);
+	model.test2(testSentences, lambdaForward, lambdaBackward);
+	}
     }
 
 }
