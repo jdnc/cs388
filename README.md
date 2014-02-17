@@ -15,14 +15,14 @@ Make sure that you are in the parent folder that contains the nlp folder.
 
 To compile the code::
 
-   javac nlp/lm/*.java
+     javac nlp/lm/*.java
 
 To run any model on any of the data::
    
-   java nlp.lm.<MODEL> /projects/nlp/penn-treebank3/tagged/pos/<DATA>/ 0.1
+     java nlp.lm.MODEL /projects/nlp/penn-treebank3/tagged/pos/DATA/ 0.1
   
 where you should replace 
-  <MODEL> := BigramModel | BackwardBigramModel | BidirectionalBigramModel
-  <DATA> := atis | wsj | brown
+  - MODEL := BigramModel | BackwardBigramModel | BidirectionalBigramModel
+  - DATA := atis | wsj | brown
 
 Note : you may also replace 0.1 by your choice of test data fraction.
