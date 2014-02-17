@@ -110,10 +110,12 @@ public class BidirectionalBigramModel {
 	int numSentences = sentences.size();
 	// Compute number of test sentences based on TestFrac
 	int numTest = (int)Math.round(numSentences * testFraction);
+	int numDev = (int)Math.round(numSentences * 0.2);
 	// Take test sentences from end of data
 	List<List<String>> testSentences = sentences.subList(numSentences - numTest, numSentences);
 	// Take training sentences from start of data
-	List<List<String>> trainSentences = sentences.subList(0, numSentences - numTest);
+	List<List<String>> trainSentences = sentences.subList(0, numSentences - numTest - numDev);
+	List<List<String>> devSentences = sentences.subList(numSentences - numTest - numDev, numSentences - numTest);
 	System.out.println("# Train Sentences = " + trainSentences.size() + 
 			   " (# words = " + wordCount(trainSentences) + 
 			   ") \n# Test Sentences = " + testSentences.size() +
@@ -122,16 +124,18 @@ public class BidirectionalBigramModel {
 	BidirectionalBigramModel model = new BidirectionalBigramModel();
 	System.out.println("Training...");
 	model.train(trainSentences);
-	// Test on training data using test2
-	List<double> lambdas = Arrays.asList(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9); 
+	// Test on development data using test2
+	double lambdas[] = new double[] {0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9}; 
 	for(int i = 0; i<9; i++){
 	double lambdaForward = lambdas[i];
-	double lambdaBackward = lambdas[9-i-1];
+	double lambdaBackward = lambdas[8-i];
+	System.out.println("++++++++++Experiment"+i+"+++++++++++");
 	System.out.println("lambdaForward="+lambdaForward+"  lambdaBackward="+lambdaBackward);
 	model.test2(trainSentences, lambdaForward, lambdaBackward);
 	System.out.println("Testing...");
 	// Test on test data using test2
-	model.test2(testSentences, lambdaForward, lambdaBackward);
+	model.test2(devSentences, lambdaForward, lambdaBackward);
+	System.out.println("==================\n");
 	}
     }
 
