@@ -4,13 +4,14 @@ import java.io.*;
 import java.util.*;
 
 /** 
- * @author Ray Mooney
- * A simple bigram language model that uses simple fixed-weight interpolation
- * with a unigram model for smoothing.
+ * An interpolation of both the forward and backward bigram model
 */
 
 public class BidirectionalBigramModel {
 
+    /**
+     *  Has a forward model class object and a backward model class object as members
+    */
     BigramModel forwardModel;
     BackwardBigramModel backwardModel;
 
@@ -19,38 +20,43 @@ public class BidirectionalBigramModel {
     	backwardModel = new BackwardBigramModel();
     }
 
-    /** Train the model on a List of sentences represented as
-     *  Lists of String tokens */
+    /**
+     * Call the train method of the individual models to 
+     * accumulate unigram/bigram counts
+    */
     public void train (List<List<String>> sentences) {
-	// Accumulate unigram and bigram counts in maps
 	forwardModel.train(sentences);
 	backwardModel.train(sentences);
     }
 
-    /** Like test1 but excludes predicting end-of-sentence when computing perplexity */
+    /** Keep only test2 that considers just the word perplexity metric*/
     public void test2 (List<List<String>> sentences) {
 	double totalLogProb = 0;
 	double totalNumTokens = 0;
 	for (List<String> sentence : sentences) {
 	    totalNumTokens += sentence.size();
 	    double sentenceLogProb = sentenceLogProb2(sentence);
-	    //	    System.out.println(sentenceLogProb + " : " + sentence);
 	    totalLogProb += sentenceLogProb;
 	}
 	double perplexity = Math.exp(-totalLogProb / totalNumTokens);
 	System.out.println("Word Perplexity = " + perplexity );
     }
     
-    /** Like sentenceLogProb but excludes predicting end-of-sentence when computing prob */
+    /** Interpolate probabilities from both the forward and backward model 
+     * for every token with each weight = 0.5.
+    */
   public double sentenceLogProb2 (List<String> sentence) {
   	ArrayList<String> rsentence = new ArrayList<>(sentence);
+  	// reverse the sentences for the backward model
 	Collections.reverse(rsentence);
+	// the forward and backward model have different start and end tokens
 	String prevTokenForward = forwardModel.startToken;
 	String prevTokenBackward = backwardModel.startToken;
 	double sentenceLogProb = 0;
 	for (int i = 0; i < sentence.size(); i++) {
 	    String tokenForward = sentence.get(i);
 	    String tokenBackward = rsentence.get(i);
+	    // use unigram maps from the individual models
 	    DoubleValue unigramValForward = forwardModel.unigramMap.get(tokenForward);
 	    DoubleValue unigramValBackward = backwardModel.unigramMap.get(tokenBackward);
 	    if (unigramValForward == null) {
@@ -61,10 +67,12 @@ public class BidirectionalBigramModel {
 		tokenBackward = "<UNK>";
 		unigramValBackward = backwardModel.unigramMap.get(tokenBackward);
 	    }
+	    //use bigram maps from the individual models
 	    String bigramForward = forwardModel.bigram(prevTokenForward, tokenForward);
 	    String bigramBackward = backwardModel.bigram(prevTokenBackward, tokenBackward);
 	    DoubleValue bigramValForward = forwardModel.bigramMap.get(bigramForward);
 	    DoubleValue bigramValBackward = backwardModel.bigramMap.get(bigramBackward);
+	    //return an interpolated probability from both the models
 	    double logProb = Math.log(interpolatedProb(unigramValForward, unigramValBackward, bigramValForward, bigramValBackward));
 	    sentenceLogProb += logProb;
 	    prevTokenForward = tokenForward;
@@ -74,7 +82,7 @@ public class BidirectionalBigramModel {
     }
 
 
-    /** Interpolate bigram prob using bigram and unigram model predictions */	 
+    /** Interpolate individual model probabilities with weights lambdaForward and lambdaBackward = 0.5 */	 
     public double interpolatedProb(DoubleValue unigramValForward, DoubleValue unigramValBackward, DoubleValue bigramValForward, DoubleValue bigramValBackward) {
     	double lambdaForward = 0.5;
     	double lambdaBackward = 0.5;
@@ -91,15 +99,7 @@ public class BidirectionalBigramModel {
 	return wordCount;
     }
 
-    /** Train and test a bigram model.
-     *  Command format: "nlp.lm.BigramModel [DIR]* [TestFrac]" where DIR 
-     *  is the name of a file or directory whose LDC POS Tagged files should be 
-     *  used for input data; and TestFrac is the fraction of the sentences
-     *  in this data that should be used for testing, the rest for training.
-     *  0 < TestFrac < 1
-     *  Uses the last fraction of the data for testing and the first part
-     *  for training.
-     */
+    /** Train and test the bidirectional model, similar to the forward model main method.*/
     public static void main(String[] args) throws IOException {
 	// All but last arg is a file/directory of LDC tagged input data
 	File[] files = new File[args.length - 1];
