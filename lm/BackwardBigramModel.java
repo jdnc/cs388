@@ -4,13 +4,16 @@ import java.io.*;
 import java.util.*;
 
 /** 
- * @author Ray Mooney
- * A simple bigram language model that uses simple fixed-weight interpolation
- * with a unigram model for smoothing.
+ * A play on the simple bigram language model so that it predicts sentences from right to left.
+ * Interpolated with a unigram model for smoothing
 */
 
 public class BackwardBigramModel extends BigramModel {
-
+	
+    /**
+     * Declare the start and end tokens as variables, so that they may be
+     * interchanged for the forward and backward model.
+    */
     public static String startToken = "</S>";
     public static String endToken = "<S>";
 
@@ -18,6 +21,11 @@ public class BackwardBigramModel extends BigramModel {
 	super();
     }
     
+    /**
+     * Static class method that given a list of sentences, reverses
+     * the word order in each sentence, and returns a new list
+     * containing the reversed sentences.
+    */
     public static ArrayList<List<String>> reverse(List<List<String>> sentences){
     	ArrayList<List<String>> reverseSentences = new ArrayList<List<String>>();
 	for(List<String> sentence : sentences){
@@ -28,26 +36,32 @@ public class BackwardBigramModel extends BigramModel {
 	return reverseSentences;
     }
 
+    /**
+     * Call the superclass train method, but with reversed sentences.
+    */
     public void train (List<List<String>> sentences) {
-    	
 	super.train(reverse(sentences));
     }
     
-    /** Use sentences as a test set to evaluate the model. Print out perplexity
-     *  of the model for this test data */
+    /**
+     * Call the superclass test method, but with reversed sentences.
+    */
     public void test (List<List<String>> sentences) {
-	// Compute log probability of sentence to avoid underflow
 	ArrayList<List<String>> rsentences = reverse(sentences);
 	super.test(rsentences);
     }
     
-     /** Like test1 but excludes predicting end-of-sentence when computing perplexity */
+    /**
+     * Call the superclass test2 method, but with reversed sentences.
+    */
     public void test2 (List<List<String>> sentences) {
     	ArrayList<List<String>> rsentences = reverse(sentences);
 	super.test2(rsentences);
     }
     
-
+    /**
+     * Similar to the forward model main method
+    */
     public static void main(String[] args) throws IOException {
 	// All but last arg is a file/directory of LDC tagged input data
 	File[] files = new File[args.length - 1];
@@ -68,7 +82,7 @@ public class BackwardBigramModel extends BigramModel {
 			   " (# words = " + wordCount(trainSentences) + 
 			   ") \n# Test Sentences = " + testSentences.size() +
 			   " (# words = " + wordCount(testSentences) + ")");
-	// Create a bigram model and train it.
+	// Create a backward bigram model and train it.
 	BackwardBigramModel model = new BackwardBigramModel();
 	System.out.println("Training...");
 	model.train(trainSentences);
