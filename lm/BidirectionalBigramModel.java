@@ -76,8 +76,8 @@ public class BidirectionalBigramModel {
 
     /** Interpolate bigram prob using bigram and unigram model predictions */	 
     public double interpolatedProb(DoubleValue unigramValForward, DoubleValue unigramValBackward, DoubleValue bigramValForward, DoubleValue bigramValBackward) {
-    	double lambdaForward = 0.7;
-    	double lambdaBackward = 0.3;
+    	double lambdaForward = 0.5;
+    	double lambdaBackward = 0.5;
     	double forwardProb = forwardModel.interpolatedProb(unigramValForward, bigramValForward);
     	double backwardProb = backwardModel.interpolatedProb(unigramValBackward, bigramValBackward);
     	return lambdaForward * forwardProb + lambdaBackward * backwardProb;
