@@ -11,8 +11,7 @@ public class PosToMallet {
 		//System.out.println("hello World");
 		//System.out.println(args[0]);
 		try{
-			Pattern keep = Pattern.compile("\\[\\s*(.+?)/(.+?)\\s+");
-			Pattern keep2 = Pattern.compile("\\s*(.+)/(.+)\\s+");
+			Pattern keep = Pattern.compile("([^\\s\\[\\]]+)/([^\\s\\[\\]]+)");
 			Pattern discard = Pattern.compile("\\[\\s*@.+/CD\\s*\\]");
 			Pattern newLine = Pattern.compile("=+");
 			String outFileName = args[0].substring(0, args[0].indexOf(".")) + ".txt";
@@ -24,7 +23,6 @@ public class PosToMallet {
 				//System.out.println("here");
 				System.out.println(line);
 				Matcher mKeep = keep.matcher(line);
-				Matcher mKeep2 =  keep2.matcher(line);
 				Matcher mDiscard = discard.matcher(line);
 				Matcher mNewLine = newLine.matcher(line);
 				if(mNewLine.find()){
@@ -35,15 +33,9 @@ public class PosToMallet {
 					System.out.println("in discard");
 					continue;
 				}
-				else if (mKeep.find()){
-					System.out.println("here");
-					outFile.write(mKeep.group(1) + " " + mKeep.group(2) + "\n");
-					while(mKeep.find())
-						outFile.write(mKeep.group(1) + " " + mKeep.group(2) + "\n");
-				}
-				else while (mKeep2.find()){
+				else while (mKeep.find()){
                                         System.out.println("here");
-                                        outFile.write(mKeep2.group(1) + " " + mKeep2.group(2) + "\n");                 
+                                        outFile.write(mKeep.group(1) + " " + mKeep.group(2) + "\n");                 
                                 }
 
 			}
