@@ -56,14 +56,26 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
   {
 		int numCorrectTokens;
 		int totalTokens;
-
+		int numOovTokens;
+		int numCorrectOovTokens;
+		boolean isOov = false;
 		Transducer transducer = trainer.getTransducer();
-		totalTokens = numCorrectTokens = 0;
+		totalTokens = numCorrectTokens = numOovTokens = numCorrectOovTokens = 0;
 		for (int i = 0; i < instances.size(); i++) {
 			Instance instance = instances.get(i);
 			Sequence input = (Sequence) instance.getData();
 			Sequence trueOutput = (Sequence) instance.getTarget();
 			assert (input.size() == trueOutput.size());
+			ArrayList<String> tokens = parseSentence(input.toString());
+			for (t : tokens){
+				if (!vocabulary.contains(t)){
+					numOovTokens++;
+					isOov = true;
+				if (trueOutput.get(i).equals(predOutput.get(i)))
+					numCorrectOovTokens++;
+					
+				}
+			}
 			//System.err.println ("TokenAccuracyEvaluator "+i+" length="+input.size());
 			Sequence predOutput = transducer.transduce (input);
 			assert (predOutput.size() == trueOutput.size());
@@ -76,9 +88,21 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 			//System.err.println ("TokenAccuracyEvaluator "+i+" numCorrectTokens="+numCorrectTokens+" totalTokens="+totalTokens+" accuracy="+((double)numCorrectTokens)/totalTokens);
 		}
 		double acc = ((double)numCorrectTokens)/totalTokens;
+		double oovAcc = ((double)numCorrectOovTokens)/numOovTokens;
+		double percentOov = ((double) numOovTokens)/totalTokens;
 		//System.err.println ("TokenAccuracyEvaluator accuracy="+acc);
 		accuracy.put(description, acc);
 		logger.info (description +" accuracy="+acc);
+		logger.info ("The OOV accuracy on test data="+oovAcc);
+		logger.info ("Percentage of OOV words="+percentOov);
+	}
+	
+	public static ArrayList<String> parseSentence(String sentence){
+		ArrayList<string> testWords;
+		for (String phrase : sentence.split("[\\r\\n]+"){
+			testWords.add(phrase.split("\\s+")[1]);
+		}
+		return testWords;
 	}
 
 	/**
