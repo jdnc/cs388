@@ -53,6 +53,8 @@ public class SimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(SimpleTagger.class.getName());
+    
+    public HashSet vocabulary = new HashSet();
 
   /**
    * No <code>SimpleTagger</code> objects allowed.
@@ -300,6 +302,13 @@ public class SimpleTagger
       String forbidden, String allowed,
       boolean connected, int iterations, double var, CRF crf)
   {
+    for(Instance inst : training){
+       String[][] tokens= parseSentence(inst.getData().toString());
+       for(String[] tok : tokens){
+          vocabulary.add(tok[1]);
+          System.out.println(tok[1]);
+       }
+    }
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
     if (crf == null) {
@@ -405,7 +414,7 @@ public class SimpleTagger
   public static void test(TransducerTrainer tt, TransducerEvaluator eval,
       InstanceList testing)
   {
-    eval.evaluateInstanceList(tt, testing, "Testing");
+    eval.evaluateInstanceList(tt, testing, "Testing", vocabulary);
   }
 
   /**
