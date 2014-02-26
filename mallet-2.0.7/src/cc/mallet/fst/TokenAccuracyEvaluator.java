@@ -14,7 +14,8 @@
 
 package cc.mallet.fst;
 
-
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.HashMap;
 import java.util.logging.Logger;
 
@@ -52,7 +53,11 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 		this (new InstanceList[] {instanceList1, instanceList2, instanceList3}, new String[] {description1, description2, description3});
 	}
 
-	public void evaluateInstanceList (TransducerTrainer trainer, InstanceList instances, String description, HashSet vocabulary) 
+	public void evaluateInstanceList (TransducerTrainer trainer, InstanceList instances, String description){
+		return;
+	}
+
+	public void evaluateInstanceList2 (TransducerTrainer trainer, InstanceList instances, String description, HashSet vocabulary) 
   {
 		int numCorrectTokens;
 		int totalTokens;
@@ -66,8 +71,11 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 			Sequence input = (Sequence) instance.getData();
 			Sequence trueOutput = (Sequence) instance.getTarget();
 			assert (input.size() == trueOutput.size());
-			ArrayList<String> tokens = parseSentence(input.toString());
-			for (t : tokens){
+			Sequence predOutput = transducer.transduce (input);
+			assert (predOutput.size() == trueOutput.size());
+			String[] tokens = input.toString().split("[\\r\\n]+");
+			for (String t : tokens){
+				String word = t.split("\\s+")[1];
 				if (!vocabulary.contains(t)){
 					numOovTokens++;
 					isOov = true;
@@ -77,8 +85,7 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 				}
 			}
 			//System.err.println ("TokenAccuracyEvaluator "+i+" length="+input.size());
-			Sequence predOutput = transducer.transduce (input);
-			assert (predOutput.size() == trueOutput.size());
+			
 
 			for (int j = 0; j < trueOutput.size(); j++) {
 				totalTokens++;
@@ -98,8 +105,8 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 	}
 	
 	public static ArrayList<String> parseSentence(String sentence){
-		ArrayList<string> testWords;
-		for (String phrase : sentence.split("[\\r\\n]+"){
+		ArrayList<String> testWords;
+		for (String phrase : sentence.split("[\\r\\n]+")){
 			testWords.add(phrase.split("\\s+")[1]);
 		}
 		return testWords;

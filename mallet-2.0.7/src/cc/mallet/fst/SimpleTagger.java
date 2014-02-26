@@ -16,6 +16,7 @@ import java.io.ObjectOutputStream;
 import java.io.Reader;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Random;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -53,14 +54,15 @@ public class SimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(SimpleTagger.class.getName());
+  
+  public static HashSet vocabulary = new HashSet();  
     
-    public HashSet vocabulary = new HashSet();
-
   /**
    * No <code>SimpleTagger</code> objects allowed.
    */
   private SimpleTagger()
   {
+  
   }
 
   /**
@@ -414,7 +416,7 @@ public class SimpleTagger
   public static void test(TransducerTrainer tt, TransducerEvaluator eval,
       InstanceList testing)
   {
-    eval.evaluateInstanceList(tt, testing, "Testing", vocabulary);
+    eval.evaluateInstanceList2(tt, testing, "Testing", vocabulary);
   }
 
   /**
