@@ -39,6 +39,7 @@ import cc.mallet.util.CommandOption;
 import cc.mallet.util.MalletLogger;
 import cc.mallet.fst.OovUtils;
 
+
 /**
  * This class's main method trains, tests, or runs a generic HMM-based
  * sequence tagger.
