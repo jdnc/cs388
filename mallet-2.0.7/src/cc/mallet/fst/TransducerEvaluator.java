@@ -14,6 +14,8 @@
 
 package cc.mallet.fst;
 
+import java.util.HashSet;
+
 import java.util.logging.Logger;
 
 import cc.mallet.types.InstanceList;
@@ -21,6 +23,7 @@ import cc.mallet.types.InstanceList;
 import cc.mallet.optimize.Optimizable;
 
 import cc.mallet.util.MalletLogger;
+
 
 /**
  * An abstract class to evaluate a transducer model.
@@ -79,6 +82,6 @@ public abstract class TransducerEvaluator
 	}
 
   public abstract void evaluateInstanceList (TransducerTrainer transducer, InstanceList instances, String description);
-
+  public void evaluateInstanceList2 (TransducerTrainer transducer, InstanceList instances, String description, HashSet vocabulary) {}
 
 }

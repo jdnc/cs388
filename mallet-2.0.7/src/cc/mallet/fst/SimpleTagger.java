@@ -37,6 +37,7 @@ import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.util.CommandOption;
 import cc.mallet.util.MalletLogger;
 
+import cc.mallet.fst.OovUtils;
 /**
  * This class's main method trains, tests, or runs a generic CRF-based
  * sequence tagger.
@@ -305,10 +306,9 @@ public class SimpleTagger
       boolean connected, int iterations, double var, CRF crf)
   {
     for(Instance inst : training){
-       String[][] tokens= parseSentence(inst.getData().toString());
-       for(String[] tok : tokens){
-          vocabulary.add(tok[1]);
-          System.out.println(tok[1]);
+     ArrayList<String> tokens = OovUtils.getWords(inst.getData().toString());
+       for(String tok : tokens){
+          vocabulary.add(tok);
        }
     }
     Pattern forbiddenPat = Pattern.compile(forbidden);

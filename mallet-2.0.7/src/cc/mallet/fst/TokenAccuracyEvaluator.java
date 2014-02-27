@@ -24,6 +24,8 @@ import cc.mallet.types.InstanceList;
 import cc.mallet.types.Sequence;
 
 import cc.mallet.util.MalletLogger;
+import cc.mallet.fst.OovUtils;
+
 
 /**
  * Evaluates a transducer model based on predictions of individual tokens.
@@ -57,7 +59,7 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 		return;
 	}
 
-	public void evaluateInstanceList2 (TransducerTrainer trainer, InstanceList instances, String description, HashSet vocabulary) 
+	public void evaluateInstanceList (TransducerTrainer trainer, InstanceList instances, String description, HashSet vocabulary) 
   {
 		int numCorrectTokens;
 		int totalTokens;
@@ -73,9 +75,8 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 			assert (input.size() == trueOutput.size());
 			Sequence predOutput = transducer.transduce (input);
 			assert (predOutput.size() == trueOutput.size());
-			String[] tokens = input.toString().split("[\\r\\n]+");
+			ArrayList<String> tokens  = OovUtils.getWords(input.toString());
 			for (String t : tokens){
-				String word = t.split("\\s+")[1];
 				if (!vocabulary.contains(t)){
 					numOovTokens++;
 					isOov = true;
@@ -104,13 +105,6 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 		logger.info ("Percentage of OOV words="+percentOov);
 	}
 	
-	public static ArrayList<String> parseSentence(String sentence){
-		ArrayList<String> testWords;
-		for (String phrase : sentence.split("[\\r\\n]+")){
-			testWords.add(phrase.split("\\s+")[1]);
-		}
-		return testWords;
-	}
 
 	/**
 	 * Returns the accuracy from the last time test() or evaluate() was called
