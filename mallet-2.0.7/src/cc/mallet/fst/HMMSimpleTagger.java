@@ -39,7 +39,6 @@ import cc.mallet.util.CommandOption;
 import cc.mallet.util.MalletLogger;
 import cc.mallet.fst.OovUtils;
 
-
 /**
  * This class's main method trains, tests, or runs a generic HMM-based
  * sequence tagger.
@@ -343,6 +342,7 @@ public class HMMSimpleTagger
 //	}    
 //    hmm.train(training, null, testing, eval);
       for(Instance inst : training){
+	System.out.println(inst.getData().toString());
      ArrayList<String> tokens = OovUtils.getWords(inst.getData().toString());
        for(String tok : tokens){
           vocabulary.add(tok);
