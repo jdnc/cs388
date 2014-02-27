@@ -1,0 +1,5507 @@
+
+List VB
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Seattle NNP
+that WDT
+stop VBP
+in IN
+Minneapolis NNP
+
+
+Does VBZ
+this DT
+flight NN
+serve VB
+dinner NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+to TO
+Seattle NNP
+leaving VBG
+from IN
+Baltimore NNP
+making VBG
+a DT
+stop NN
+in IN
+Minneapolis NNP
+
+
+I PRP
+need VBP
+to TO
+have VB
+dinner NN
+served VBN
+
+
+I PRP
+have VBP
+two CD
+friends NNS
+that WDT
+would MD
+like VB
+to TO
+visit VB
+me PRP
+on IN
+Wednesday NNP
+here RB
+in IN
+Washington NNP
+D NNP
+C NNP
+one CD
+of IN
+them PRP
+lives VBZ
+in IN
+Denver NNP
+and CC
+the DT
+other JJ
+lives VBZ
+in IN
+Miami NNP
+
+
+I PRP
+have VBP
+a DT
+friend NN
+living VBG
+in IN
+Denver NNP
+that WDT
+would MD
+like VB
+to TO
+visit VB
+me PRP
+here RB
+in IN
+Washington NNP
+D NNP
+C NNP
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Indianapolis NNP
+to TO
+Houston NNP
+on IN
+T NNP
+W NNP
+A NNP
+
+
+The DT
+flight NN
+should MD
+be VB
+eleven CD
+a.m RB
+tomorrow NN
+
+
+The DT
+flight NN
+should MD
+arrive VB
+at IN
+eleven CD
+a.m RB
+tomorrow NN
+
+
+The DT
+flight NN
+should MD
+arrive VB
+at IN
+around RB
+eleven CD
+a.m RB
+tomorrow NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Atlanta NNP
+to TO
+Charlotte NNP
+North NNP
+Carolina NNP
+next JJ
+Monday NNP
+
+
+I PRP
+need VBP
+to TO
+arrive VB
+at IN
+Charlotte NNP
+at IN
+around RB
+five CD
+p.m RB
+
+
+I PRP
+need VBP
+to TO
+return VB
+on IN
+Tuesday NNP
+
+
+The DT
+return NN
+flight NN
+should MD
+leave VB
+at IN
+around RB
+seven CD
+p.m RB
+
+
+How WRB
+much RB
+extra JJ
+would MD
+a DT
+first JJ
+class NN
+fare NN
+cost VB
+
+
+How WRB
+much RB
+would MD
+the DT
+coach NN
+fare NN
+cost VB
+
+
+I PRP
+would MD
+like VB
+to TO
+find VB
+a DT
+flight NN
+that WDT
+goes VBZ
+from IN
+Boston NNP
+to TO
+Orlando NNP
+I PRP
+would MD
+like VB
+it PRP
+to TO
+have VB
+a DT
+stop NN
+in IN
+New NNP
+York NNP
+and CC
+I PRP
+would MD
+like VB
+a DT
+flight NN
+that WDT
+serves VBZ
+breakfast NN
+
+
+I PRP
+would MD
+like VB
+to TO
+find VB
+a DT
+flight NN
+that WDT
+goes VBZ
+from IN
+La NNP
+Guardia NNP
+airport NN
+to TO
+San NNP
+Jose NNP
+I PRP
+would MD
+like VB
+the DT
+flight NN
+to TO
+be VB
+on IN
+United NNP
+Airlines NNP
+and CC
+arrive VB
+in IN
+San NNP
+Jose NNP
+around IN
+ten CD
+p.m RB
+
+
+I PRP
+would MD
+like VB
+to TO
+find VB
+out RP
+the DT
+flight NN
+number NN
+for IN
+the DT
+United NNP
+flight NN
+that WDT
+arrives VBZ
+in IN
+San NNP
+Jose NNP
+around IN
+ten CD
+p.m RB
+
+
+Show VB
+me PRP
+all PDT
+the DT
+flights NNS
+leaving VBG
+Baltimore NNP
+
+
+Show VB
+me PRP
+all PDT
+the DT
+flights NNS
+that WDT
+go VB
+from IN
+Baltimore NNP
+to TO
+Seattle NNP
+
+
+Of IN
+those DT
+flights NNS
+which WDT
+ones NNS
+stop VBP
+in IN
+Minneapolis NNP
+
+
+Does VBZ
+that DT
+flight NN
+serve VB
+dinner NN
+
+
+What WP
+are VBP
+the DT
+flights NNS
+from IN
+Milwaukee NNP
+to TO
+Tampa NNP
+
+
+Which WDT
+of IN
+these DT
+stop VBP
+in IN
+Nashville NNP
+
+
+Which WDT
+of IN
+these DT
+serve VBP
+dinner NN
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Newark NNP
+to TO
+Los NNP
+Angeles NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Newark NNP
+New NNP
+Jersey NNP
+to TO
+Ontario NNP
+International NNP
+next JJ
+Saturday NNP
+
+
+Which WDT
+of IN
+these DT
+leave VBP
+after IN
+noon NN
+and CC
+stop VBP
+in IN
+Phoenix NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Montreal NNP
+to TO
+Chicago NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Chicago NNP
+to TO
+Indianapolis NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Indianapolis NNP
+to TO
+Montreal NNP
+
+
+Tell VB
+me PRP
+about IN
+the DT
+ground NN
+ground NN
+transportation NN
+in IN
+Chicago NNP
+
+
+What WP
+about IN
+in IN
+Indianapolis NNP
+
+
+What WDT
+flights NNS
+do VBP
+you PRP
+have VB
+from IN
+Milwaukee NNP
+to TO
+Tampa NNP
+
+
+Which WDT
+ones NNS
+stop VBP
+in IN
+Nashville NNP
+
+
+What WDT
+airline NN
+is VBZ
+this DT
+
+
+Thank VB
+you PRP
+what WDT
+time NN
+is VBZ
+it PRP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Seattle NNP
+
+
+Which WDT
+are VBP
+the DT
+flights NNS
+that WDT
+make VBP
+a DT
+stop NN
+in IN
+Minneapolis NNP
+
+
+Does VBZ
+that DT
+flight NN
+serve VB
+dinner NN
+
+
+Book VB
+that DT
+flight NN
+
+
+I PRP
+would MD
+like VB
+to TO
+travel VB
+from IN
+Indianapolis NNP
+to TO
+Houston NNP
+
+
+The DT
+flight NN
+should MD
+arrive VB
+around IN
+ten CD
+or CC
+eleven CD
+a.m RB
+
+
+Are VBP
+there EX
+any DT
+flights NNS
+arriving VBG
+after IN
+eleven CD
+a.m RB
+
+
+Show VB
+me PRP
+the DT
+T NNP
+W NNP
+A NNP
+flight NN
+
+
+Show VB
+me PRP
+the DT
+first JJ
+one NN
+
+
+Which WDT
+is VBZ
+the DT
+aircraft NN
+used VBN
+by IN
+this DT
+flight NN
+
+
+I PRP
+am VBP
+interested JJ
+in IN
+a DT
+flight NN
+from IN
+Cincinnati NNP
+to TO
+Burbank NNP
+the DT
+flight NN
+should MD
+be VB
+American NNP
+and CC
+leave VB
+in IN
+the DT
+afternoon NN
+I PRP
+need VBP
+to TO
+know VB
+the DT
+aircraft NN
+and CC
+flight NN
+number NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Los NNP
+Angeles NNP
+to TO
+Charlotte NNP
+today NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Charlotte NNP
+to TO
+Newark NNP
+leaving VBG
+today NN
+evening NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Newark NNP
+to TO
+Los NNP
+Angeles NNP
+leaving VBG
+tomorrow NN
+evening NN
+
+
+What WDT
+flights NNS
+do VBP
+you PRP
+have VB
+from IN
+Ontario NNP
+
+
+I PRP
+would MD
+like VB
+to TO
+travel VB
+to TO
+Westchester NNP
+
+
+Do VBP
+any DT
+flights NNS
+stop VB
+in IN
+Chicago NNP
+
+
+What WDT
+meals NNS
+are VBP
+served VBN
+on IN
+these DT
+flights NNS
+
+
+What WDT
+flights NNS
+do VBP
+you PRP
+have VB
+from IN
+Burbank NNP
+to TO
+to TO
+Tacoma NNP
+Washington NNP
+
+
+I PRP
+would MD
+like VB
+to TO
+fly VB
+on IN
+the DT
+ninth JJ
+of IN
+July NNP
+
+
+Where WRB
+do VBP
+these DT
+flights NNS
+stop VB
+
+
+How WRB
+much RB
+is VBZ
+the DT
+cost NN
+of IN
+the DT
+round JJ
+trip NN
+flight NN
+on IN
+Alaska NNP
+
+
+How WRB
+much RB
+is VBZ
+the DT
+cost NN
+of IN
+the DT
+round JJ
+trip NN
+flight NN
+on IN
+United NNP
+Airlines NNP
+
+
+Please UH
+list VB
+all DT
+details NNS
+of IN
+the DT
+A NNP
+P NNP
+fifty CD
+seven CD
+flight NN
+
+
+Where WRB
+does VBZ
+this DT
+flight NN
+stop VB
+
+
+List VB
+American NNP
+Airlines NNP
+flights NNS
+from IN
+New NNP
+York NNP
+Newark NNP
+to TO
+Nashville NNP
+
+
+List VB
+all DT
+flights NNS
+between IN
+five CD
+and CC
+seven CD
+p.m RB
+
+
+What WP
+is VBZ
+the DT
+aircraft NN
+type NN
+for IN
+the DT
+American NNP
+flight NN
+
+
+Okay UH
+I PRP
+'d MD
+like VB
+to TO
+make VB
+a DT
+reservation NN
+on IN
+flight NN
+six CD
+oh CD
+six CD
+on IN
+Delta NNP
+
+
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+the DT
+coach NN
+discount NN
+class NN
+
+
+The DT
+eighth JJ
+of IN
+July NNP
+
+
+Do VBP
+I PRP
+have VB
+a DT
+reservation NN
+on IN
+flight NN
+six CD
+oh CD
+six CD
+from IN
+Tampa NNP
+to TO
+Montreal NNP
+
+
+July NNP
+sixteenth JJ
+please UH
+
+
+I PRP
+'d MD
+like VB
+a DT
+flight NN
+tomorrow NN
+from IN
+San NNP
+Diego NNP
+to TO
+Toronto NNP
+
+
+What WDT
+type NN
+of IN
+aircraft NN
+is VBZ
+Alaska NNP
+'s POS
+flight NN
+two CD
+eighty CD
+two CD
+
+
+Thanks UH
+
+
+I PRP
+'d MD
+like VB
+a DT
+flight NN
+tomorrow NN
+from IN
+Columbus NNP
+to TO
+Houston NNP
+with IN
+a DT
+stopover NN
+in IN
+Nashville NNP
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+have VBP
+the DT
+longest JJS
+layover NN
+in IN
+Nashville NNP
+
+
+Does VBZ
+this DT
+flight NN
+serve VB
+dinner NN
+
+
+Is VBZ
+dinner NN
+served VBN
+on IN
+the DT
+first JJ
+leg NN
+or CC
+the DT
+second JJ
+leg NN
+
+
+Is VBZ
+this DT
+flight NN
+for IN
+tomorrow NN
+
+
+Is VBZ
+there EX
+a DT
+flight NN
+tomorrow NN
+morning NN
+from IN
+Columbus NNP
+to TO
+to TO
+Nashville NNP
+
+
+Is VBZ
+there EX
+a DT
+flight NN
+from IN
+Nashville NNP
+to TO
+Houston NNP
+in IN
+the DT
+evening NN
+tomorrow NN
+
+
+Does VBZ
+American NNP
+'s POS
+flight NN
+eighteen CD
+twenty CD
+five CD
+serve VB
+dinner NN
+
+
+Does VBZ
+the DT
+other JJ
+American NNP
+flight NN
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Nashville NNP
+to TO
+Houston NNP
+tomorrow NN
+evening NN
+that WDT
+serve VBP
+dinner NN
+
+
+Thanks UH
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Kansas NNP
+City NNP
+to TO
+Newark NNP
+on IN
+the DT
+first JJ
+of IN
+July NNP
+
+
+I PRP
+prefer VBP
+a DT
+morning NN
+flight NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+the DT
+next JJ
+day NN
+from IN
+Newark NNP
+to TO
+Orlando NNP
+
+
+Which WDT
+are VBP
+the DT
+morning NN
+flights NNS
+
+
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+back RB
+to TO
+Kansas NNP
+City NNP
+the DT
+next JJ
+day NN
+
+
+Which WDT
+is VBZ
+the DT
+latest JJS
+flight NN
+that WDT
+Continental NNP
+has VBZ
+
+
+Thanks UH
+
+
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+from IN
+Tampa NNP
+to TO
+Montreal NNP
+
+
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+next JJ
+Friday NNP
+
+
+Which WDT
+ones NNS
+go VBP
+through IN
+New NNP
+York NNP
+
+
+Does VBZ
+the DT
+twelve CD
+fourteen CD
+flight NN
+serve VB
+lunch NN
+
+
+Does VBZ
+the DT
+ten CD
+thirty CD
+five CD
+flight NN
+serve VB
+lunch NN
+
+
+How WRB
+about IN
+the DT
+one NN
+that WDT
+leaves VBZ
+at IN
+ten CD
+thirty CD
+five CD
+
+
+I PRP
+meant VBD
+ten CD
+thirty CD
+five CD
+a.m RB
+
+
+I PRP
+'m VBP
+in IN
+Miami NNP
+and CC
+I PRP
+'d MD
+like VB
+to TO
+travel VB
+to TO
+Las NNP
+Vegas NNP
+on IN
+Sunday NNP
+
+
+On IN
+Monday NNP
+I PRP
+'d MD
+like VB
+to TO
+travel VB
+from IN
+Las NNP
+Vegas NNP
+to TO
+Detroit NNP
+Michigan NNP
+
+
+Can MD
+you PRP
+list VB
+the DT
+nonstop JJ
+afternoon NN
+flights NNS
+
+
+On IN
+Tuesday NNP
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+from IN
+Detroit NNP
+to TO
+Saint NNP
+Petersburg NNP
+
+
+Which WDT
+of IN
+those DT
+are VBP
+nonstop JJ
+
+
+On IN
+Thursday NNP
+I PRP
+'d MD
+like VB
+to TO
+return VB
+home RB
+to TO
+Miami NNP
+as RB
+early RB
+as IN
+possible JJ
+
+
+I PRP
+'d MD
+like VB
+to TO
+fly VB
+from IN
+Columbus NNP
+to TO
+Nashville NNP
+tomorrow NN
+morning NN
+
+
+Can MD
+you PRP
+show VB
+me PRP
+evening NN
+flights NNS
+from IN
+Nashville NNP
+to TO
+Houston NNP
+that WDT
+serve VBP
+dinner NN
+
+
+Flight NN
+from IN
+Saint NNP
+Petersburg NNP
+to TO
+Milwaukee NNP
+and CC
+also RB
+flight NN
+from IN
+Milwaukee NNP
+to TO
+Tacoma NNP
+stay NN
+in IN
+Milwaukee NNP
+direct JJ
+flight NN
+same JJ
+airline NN
+
+
+Airline NN
+and CC
+flight NN
+number NN
+from IN
+Columbus NNP
+to TO
+Minneapolis NNP
+
+
+Tomorrow NN
+
+
+Flight NN
+numbers NNS
+from IN
+Columbus NNP
+to TO
+Minneapolis NNP
+tomorrow NN
+
+
+Flight NN
+numbers NNS
+from IN
+Minneapolis NNP
+to TO
+Long NNP
+Beach NNP
+on IN
+June NNP
+twenty CD
+six CD
+
+
+Flight NN
+from IN
+Long NNP
+Beach NNP
+to TO
+Columbus NNP
+on IN
+twenty CD
+seventh JJ
+
+
+I PRP
+want VBP
+a DT
+flight NN
+from IN
+Ontario NNP
+to TO
+Chicago NNP
+
+
+I PRP
+actually RB
+want VBP
+to TO
+go VB
+from IN
+Ontario NNP
+to TO
+Chicago NNP
+I PRP
+mean VBP
+Ontario NNP
+to TO
+Westchester NNP
+via IN
+Chicago NNP
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+serves VBZ
+dinner NN
+
+
+I PRP
+'d MD
+like VB
+a DT
+flight NN
+on IN
+American NNP
+from IN
+Newark NNP
+to TO
+Nashville NNP
+
+
+I PRP
+plan VBP
+to TO
+leave VB
+on IN
+July NNP
+first JJ
+around IN
+six CD
+thirty CD
+in IN
+the DT
+evening NN
+
+
+I PRP
+need VBP
+a DT
+nonstop JJ
+flight NN
+from IN
+San NNP
+Diego NNP
+to TO
+Phoenix NNP
+
+
+I PRP
+want VBP
+to TO
+leave VB
+Monday NNP
+morning NN
+
+
+Now RB
+I PRP
+need VBP
+a DT
+flight NN
+on IN
+Tuesday NNP
+from IN
+Phoenix NNP
+to TO
+Detroit NNP
+
+
+Which WDT
+ones NNS
+leave VBP
+in IN
+the DT
+morning NN
+
+
+Which WDT
+ones NNS
+arrive VBP
+early RB
+in IN
+the DT
+day NN
+
+
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Phoenix NNP
+to TO
+Detroit NNP
+leaving VBG
+Monday NNP
+evening NN
+
+
+What WP
+about IN
+Monday NNP
+afternoon NN
+
+
+Now RB
+I PRP
+need VBP
+a DT
+flight NN
+from IN
+Detroit NNP
+to TO
+San NNP
+Diego NNP
+leaving VBG
+Tuesday NNP
+evening NN
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+have VBP
+dinner NN
+
+
+Show VB
+me PRP
+these DT
+flights NNS
+that WDT
+serve VBP
+dinner NN
+
+
+Which WDT
+is VBZ
+the DT
+latest JJS
+flight NN
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+serve VBP
+dinner NN
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+depart VBP
+latest RBS
+
+
+Which WDT
+of IN
+the DT
+dinner NN
+flights NNS
+depart VBP
+last RB
+
+
+Show VB
+me PRP
+the DT
+dinner NN
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+is VBZ
+last JJ
+
+
+Show VB
+me PRP
+the DT
+dinner NN
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+is VBZ
+last JJ
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+is VBZ
+last JJ
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+serve VBP
+dinner NN
+
+
+Which WDT
+is VBZ
+last JJ
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Which WDT
+of IN
+these DT
+are VBP
+dinner NN
+flights NNS
+
+
+Which WDT
+of IN
+these DT
+are VBP
+dinner NN
+flights NNS
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+serve VBP
+dinner NN
+
+
+Which WDT
+of IN
+these DT
+flights NNS
+leave VBP
+latest RBS
+
+
+Show VB
+me PRP
+the DT
+latest JJS
+dinner NN
+flight NN
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Baltimore NNP
+to TO
+Oakland NNP
+please UH
+
+
+Which WDT
+serve VBP
+dinner NN
+
+
+Which WDT
+leaves VBZ
+latest RBS
+
+
+Show VB
+me PRP
+all PDT
+the DT
+fares NNS
+from IN
+one CD
+way NN
+fares NNS
+from IN
+Tacoma NNP
+to TO
+Montreal NNP
+
+
+Are VBP
+there EX
+any DT
+other JJ
+fares NNS
+from IN
+Tacoma NNP
+to TO
+Montreal NNP
+
+
+How WRB
+many JJ
+fares NNS
+are VBP
+there EX
+one CD
+way NN
+from IN
+Tacoma NNP
+to TO
+Montreal NNP
+
+
+How WRB
+many JJ
+fares NNS
+are VBP
+there EX
+one CD
+way NN
+from IN
+Tacoma NNP
+to TO
+Montreal NNP
+
+
+What WP
+is VBZ
+that DT
+fare NN
+
+
+Thank VB
+you PRP
+
+
+Please UH
+list VB
+the DT
+earliest JJS
+lunch NN
+flight NN
+from IN
+Columbus NNP
+to TO
+Phoenix NNP
+
+
+Please UH
+list VB
+the DT
+flights NNS
+from IN
+Charlotte NNP
+to TO
+Long NNP
+Beach NNP
+arriving VBG
+after IN
+lunch NN
+time NN
+
+
+What WDT
+type NN
+of IN
+aircraft NN
+is VBZ
+it PRP
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Dallas NNP
+to TO
+Tampa NNP
+
+
+Which WDT
+flights NNS
+serve VBP
+breakfast NN
+
+
+Which WDT
+is VBZ
+the DT
+latest JJS
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Seattle NNP
+to TO
+Boston NNP
+via IN
+Minneapolis NNP
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Philadelphia NNP
+to TO
+San NNP
+Francisco NNP
+via IN
+Dallas NNP
+
+
+What WP
+is VBZ
+the DT
+abbreviation NN
+D SYM
+ten CD
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Denver NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Which WDT
+are VBP
+nonstop JJ
+
+
+Which WDT
+make VBP
+at IN
+least JJS
+one CD
+stop NN
+
+
+I PRP
+want VBP
+to TO
+fly VB
+from IN
+Denver NNP
+to TO
+San NNP
+Francisco NNP
+with IN
+at IN
+least JJS
+one CD
+stop NN
+
+
+What WDT
+airline NN
+provides VBZ
+only RB
+connecting VBG
+flights NNS
+between IN
+Denver NNP
+and CC
+San NNP
+Francisco NNP
+
+
+What WDT
+type NN
+of IN
+aircraft NN
+is VBZ
+used VBN
+on IN
+those DT
+flights NNS
+
+
+Show VB
+me PRP
+the DT
+earliest JJS
+flight NN
+from IN
+San NNP
+Jose NNP
+to TO
+Pittsburgh NNP
+that WDT
+serves VBZ
+a DT
+snack NN
+
+
+Show VB
+me PRP
+the DT
+first JJ
+flight NN
+that WDT
+arrives VBZ
+in IN
+Toronto NNP
+from IN
+Cincinnati NNP
+
+
+Show VB
+me PRP
+all PDT
+the DT
+flights NNS
+from IN
+Cincinnati NNP
+to TO
+Toronto NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Toronto NNP
+to TO
+Cincinnati NNP
+
+
+List VB
+nonstop JJ
+flights NNS
+from IN
+Burbank NNP
+to TO
+Denver NNP
+arriving VBG
+by IN
+six CD
+p.m RB
+
+
+What WDT
+airlines NNS
+fly VBP
+from IN
+Burbank NNP
+to TO
+Denver NNP
+
+
+Which WDT
+flights NNS
+depart VBP
+Burbank NNP
+after IN
+noon NN
+and CC
+arrive VBP
+in IN
+Denver NNP
+by IN
+six CD
+p.m RB
+
+
+Which WDT
+flights NNS
+depart VBP
+Burbank NNP
+between IN
+twelve CD
+noon NN
+and CC
+six CD
+p.m RB
+
+
+List VB
+all DT
+flights NNS
+from IN
+Burbank NNP
+to TO
+Denver NNP
+
+
+What WP
+is VBZ
+the DT
+lowest JJS
+fare NN
+for IN
+United NNP
+Airlines NNP
+flight NN
+four CD
+thirty CD
+
+
+Is VBZ
+this DT
+is VBZ
+this DT
+flight NN
+nonstop JJ
+
+
+Is VBZ
+United NNP
+Airlines NNP
+flight NN
+four CD
+thirty CD
+a DT
+nonstop JJ
+flight NN
+
+
+Show VB
+me PRP
+the DT
+round JJ
+trip NN
+flights NNS
+between IN
+Phoenix NNP
+and CC
+Salt NNP
+Lake NNP
+City NNP
+
+
+Show VB
+me PRP
+the DT
+earliest JJS
+flight NN
+
+
+Show VB
+me PRP
+the DT
+latest JJS
+flight NN
+from IN
+Salt NNP
+Lake NNP
+City NNP
+to TO
+Phoenix NNP
+
+
+Show VB
+me PRP
+the DT
+ground NN
+transportation NN
+available JJ
+
+
+How WRB
+many JJ
+stops NNS
+are VBP
+there EX
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Phoenix NNP
+to TO
+Salt NNP
+Lake NNP
+City NNP
+
+
+Are VBP
+there EX
+any DT
+stopovers NNS
+for IN
+Delta NNP
+one CD
+seven CD
+three CD
+nine CD
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Salt NNP
+Lake NNP
+City NNP
+to TO
+Phoenix NNP
+
+
+Any DT
+stopovers NNS
+for IN
+Delta NNP
+seven CD
+fifty CD
+one CD
+
+
+Show VB
+me PRP
+the DT
+nonstop JJ
+nonstop JJ
+flights NNS
+from IN
+Nashville NNP
+to TO
+Saint NNP
+Louis NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+leaving VBG
+after IN
+noon NN
+and CC
+arriving VBG
+before IN
+six CD
+thirty CD
+
+
+Do VBP
+any DT
+of IN
+these DT
+flights NNS
+have VB
+stops NNS
+
+
+Are VBP
+these DT
+nonstop JJ
+flights NNS
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Milwaukee NNP
+to TO
+Phoenix NNP
+on IN
+Saturday NNP
+
+
+What WP
+is VBZ
+M SYM
+I SYM
+A SYM
+
+
+Show VB
+flights NNS
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Milwaukee NNP
+to TO
+Phoenix NNP
+on IN
+Saturday NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Phoenix NNP
+to TO
+Milwaukee NNP
+
+
+What WDT
+flights NNS
+arrive VBP
+in IN
+Milwaukee NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+leave VBP
+Phoenix NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+leave VBP
+Phoenix NNP
+on IN
+Wednesday NNP
+
+
+What WDT
+flights NNS
+leave VBP
+Phoenix NNP
+on IN
+Tuesday NNP
+after IN
+nine CD
+p.m RB
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Phoenix NNP
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Phoenix NNP
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Phoenix NNP
+to TO
+anywhere RB
+
+
+What WP
+is VBZ
+B SYM
+N SYM
+A SYM
+
+
+Show VB
+flights NNS
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Nashville NNP
+to TO
+Phoenix NNP
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Nashville NNP
+to TO
+Milwaukee NNP
+
+
+What WDT
+flights NNS
+leave VBP
+from IN
+Phoenix NNP
+to TO
+Nashville NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Los NNP
+Angeles NNP
+to TO
+Pittsburgh NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Pittsburgh NNP
+to TO
+Los NNP
+Angeles NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Dallas NNP
+to TO
+Houston NNP
+
+
+Is VBZ
+flight NN
+W NNP
+N NNP
+two CD
+zero CD
+one CD
+a DT
+round JJ
+trip NN
+flight NN
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Houston NNP
+to TO
+Dallas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Newark NNP
+to TO
+Tampa NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Tampa NNP
+to TO
+Charlotte NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Charlotte NNP
+to TO
+Baltimore NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Baltimore NNP
+to TO
+Newark NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Indianapolis NNP
+to TO
+Orlando NNP
+
+
+How WRB
+much RB
+do VBP
+these DT
+flights NNS
+cost VB
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+New NNP
+York NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+New NNP
+York NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+New NNP
+York NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Memphis NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+from IN
+Memphis NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+Memphis NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+are VBP
+there EX
+from IN
+New NNP
+York NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+Show VB
+flights NNS
+from IN
+Memphis NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+Show VB
+flights NNS
+from IN
+New NNP
+York NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+Show VB
+flights NNS
+from IN
+New NNP
+York NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+Flights NNS
+from IN
+Miami NNP
+to TO
+Cleveland NNP
+
+
+Leaving VBG
+Sunday NNP
+after IN
+twelve CD
+noon NN
+
+
+Show VB
+costs NNS
+
+
+Flights NNS
+from IN
+Cleveland NNP
+to TO
+Miami NNP
+
+
+Show VB
+cost NN
+of IN
+U NNP
+S NNP
+Air NNP
+fifteen CD
+twenty CD
+three CD
+and CC
+U NNP
+S NNP
+Air NNP
+seven CD
+eight CD
+one CD
+
+
+Flights NNS
+from IN
+Cleveland NNP
+to TO
+Miami NNP
+
+
+Arriving VBG
+before IN
+four CD
+p.m RB
+
+
+Cost NN
+
+
+Flights NNS
+from IN
+Los NNP
+Angeles NNP
+to TO
+Pittsburgh NNP
+
+
+On IN
+Tuesday NNP
+arriving VBG
+before IN
+five CD
+p.m RB
+
+
+Last JJ
+nonstop JJ
+flight NN
+from IN
+Los NNP
+Angeles NNP
+to TO
+Pittsburgh NNP
+on IN
+Monday NNP
+night NN
+
+
+Flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Los NNP
+Angeles NNP
+Thursday NNP
+evening NN
+
+
+Flights NNS
+on IN
+Friday NNP
+from IN
+Newark NNP
+to TO
+Tampa NNP
+
+
+Flights NNS
+on IN
+Sunday NNP
+from IN
+Tampa NNP
+to TO
+Charlotte NNP
+
+
+Flights NNS
+from IN
+Charlotte NNP
+to TO
+Baltimore NNP
+
+
+Wednesday NNP
+from IN
+Baltimore NNP
+to TO
+Newark NNP
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Tampa NNP
+on IN
+Friday NNP
+on IN
+U NNP
+S NNP
+Air NNP
+
+
+Flights NNS
+from IN
+Dallas NNP
+to TO
+Houston NNP
+in IN
+the DT
+morning NN
+
+
+Earliest JJS
+nonstop NN
+
+
+Last JJ
+nonstop NN
+returning VBG
+
+
+Which WDT
+airlines NNS
+fly VBP
+between IN
+Baltimore NNP
+and CC
+San NNP
+Francisco NNP
+
+
+Which WDT
+flights NNS
+arrive VBP
+in IN
+San NNP
+Francisco NNP
+at IN
+or CC
+before IN
+eight CD
+p.m RB
+on IN
+Friday NNP
+
+
+Show VB
+me PRP
+flights NNS
+from IN
+Dallas NNP
+to TO
+Houston NNP
+and CC
+from IN
+Houston NNP
+to TO
+Dallas NNP
+
+
+Show VB
+me PRP
+flights NNS
+that WDT
+leave VBP
+in IN
+the DT
+morning NN
+
+
+Show VB
+me PRP
+flights NNS
+that WDT
+leave VBP
+in IN
+the DT
+morning NN
+
+
+Show VB
+me PRP
+the DT
+flight NN
+that WDT
+leaves VBZ
+first RB
+
+
+Show VB
+afternoon NN
+flights NNS
+from IN
+Houston NNP
+to TO
+Dallas NNP
+
+
+Show VB
+me PRP
+the DT
+last JJ
+flight NN
+to TO
+leave VB
+
+
+Show VB
+me PRP
+flights NNS
+between IN
+New NNP
+York NNP
+City NNP
+and CC
+Las NNP
+Vegas NNP
+
+
+Show VB
+me PRP
+flights NNS
+between IN
+New NNP
+York NNP
+City NNP
+and CC
+Las NNP
+Vegas NNP
+on IN
+Sunday NNP
+
+
+Show VB
+me PRP
+flights NNS
+between IN
+Memphis NNP
+Tennessee NNP
+and CC
+Las NNP
+Vegas NNP
+
+
+Show VB
+me PRP
+flights NNS
+between IN
+Memphis NNP
+and CC
+Las NNP
+Vegas NNP
+on IN
+Sunday NNP
+
+
+Show VB
+flights NNS
+arriving VBG
+in IN
+Las NNP
+Vegas NNP
+from IN
+Memphis NNP
+and CC
+from IN
+New NNP
+York NNP
+City NNP
+that WDT
+are VBP
+less RBR
+than IN
+thirty CD
+minutes NNS
+apart RB
+
+
+Flights NNS
+arriving VBG
+in IN
+Las NNP
+Vegas NNP
+from IN
+Memphis NNP
+and CC
+New NNP
+York NNP
+City NNP
+on IN
+Sunday NNP
+
+
+Change VB
+Newark NNP
+City NNP
+to TO
+New NNP
+York NNP
+City NNP
+
+
+Give VB
+me PRP
+Sunday NNP
+'s POS
+flights NNS
+arriving VBG
+in IN
+Las NNP
+Vegas NNP
+from IN
+Memphis NNP
+and CC
+New NNP
+York NNP
+City NNP
+
+
+Show VB
+me PRP
+flights NNS
+arriving VBG
+within IN
+thirty CD
+minutes NNS
+of IN
+each DT
+other JJ
+
+
+Only RB
+show VB
+me PRP
+nonstop JJ
+flights NNS
+
+
+Show VB
+me PRP
+flights NNS
+arriving VBG
+from IN
+New NNP
+York NNP
+and CC
+Memphis NNP
+less RBR
+than IN
+thirty CD
+minutes NNS
+apart RB
+
+
+Show VB
+me PRP
+flights NNS
+arriving VBG
+from IN
+New NNP
+York NNP
+and CC
+Memphis NNP
+less RBR
+than IN
+thirty CD
+minutes NNS
+apart RB
+
+
+Show VB
+me PRP
+flights NNS
+arriving VBG
+at IN
+Las NNP
+Vegas NNP
+from IN
+New NNP
+York NNP
+and CC
+Memphis NNP
+less RBR
+than IN
+thirty CD
+minutes NNS
+apart RB
+
+
+Flights NNS
+arriving VBG
+at IN
+Las NNP
+Vegas NNP
+from IN
+New NNP
+York NNP
+and CC
+Memphis NNP
+on IN
+Sunday NNP
+
+
+Only RB
+display VB
+nonstop JJ
+flights NNS
+
+
+Display VB
+flights NNS
+arriving VBG
+within IN
+thirty CD
+minutes NNS
+of IN
+each DT
+other JJ
+
+
+Show VB
+me PRP
+flights NNS
+from IN
+Los NNP
+Angeles NNP
+to TO
+Pittsburgh NNP
+on IN
+Monday NNP
+evening NN
+
+
+Anytime RB
+Monday NNP
+
+
+Monday NNP
+around IN
+noon NN
+
+
+Monday NNP
+around IN
+noon NN
+
+
+Show VB
+me PRP
+flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Los NNP
+Angeles NNP
+Thursday NNP
+evening NN
+
+
+Thursday NNP
+afternoon NN
+
+
+Thursday NNP
+after IN
+seventeen CD
+hundred CD
+hours NNS
+
+
+U NNP
+S NNP
+Air NNP
+next JJ
+Wednesday NNP
+from IN
+Cleveland NNP
+to TO
+Miami NNP
+
+
+Show VB
+me PRP
+first JJ
+class NN
+
+
+Show VB
+me PRP
+the DT
+fare NN
+
+
+Show VB
+all DT
+fares NNS
+
+
+Next JJ
+Sunday NNP
+flights NNS
+from IN
+Miami NNP
+to TO
+Cleveland NNP
+after IN
+twelve CD
+hundred CD
+hours NNS
+
+
+Flights NNS
+after IN
+twelve CD
+hundred CD
+hours NNS
+
+
+Show VB
+the DT
+fares NNS
+
+
+What WDT
+flights NNS
+depart VBP
+Newark NNP
+for IN
+Tampa NNP
+on IN
+Friday NNP
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Tampa NNP
+to TO
+Charlotte NNP
+on IN
+Sunday NNP
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Charlotte NNP
+to TO
+Baltimore NNP
+in IN
+the DT
+morning NN
+
+
+Tuesday NNP
+
+
+What WDT
+flights NNS
+go VBP
+from IN
+Baltimore NNP
+to TO
+Newark NNP
+Wednesday NNP
+morning NN
+
+
+What WP
+'s VBZ
+the DT
+earliest JJS
+flight NN
+from IN
+Dallas NNP
+to TO
+Houston NNP
+
+
+What WP
+'s VBZ
+the DT
+latest JJS
+flight NN
+from IN
+Houston NNP
+to TO
+Dallas NNP
+
+
+From IN
+Baltimore NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Friday NNP
+night NN
+
+
+Friday NNP
+afternoon NN
+
+
+Early JJ
+morning NN
+flights NNS
+between IN
+Cincinnati NNP
+and CC
+Tampa NNP
+
+
+Morning NN
+flights NNS
+
+
+Shortest JJS
+morning NN
+flights NNS
+from IN
+Cincinnati NNP
+to TO
+Tampa NNP
+
+
+Shortest JJS
+evening NN
+flight NN
+from IN
+Tampa NNP
+to TO
+Cincinnati NNP
+
+
+From IN
+Philadelphia NNP
+to TO
+Toronto NNP
+
+
+From IN
+Toronto NNP
+to TO
+Atlanta NNP
+in IN
+the DT
+afternoon NN
+
+
+From IN
+Toronto NNP
+to TO
+Atlanta NNP
+in IN
+the DT
+afternoon NN
+
+
+From IN
+Philadelphia NNP
+to TO
+Toronto NNP
+
+
+From IN
+Atlanta NNP
+to TO
+Washington NNP
+D NNP
+C NNP
+
+
+Leaving VBG
+next JJ
+day NN
+in IN
+the DT
+morning NN
+
+
+From IN
+Washington NNP
+D NNP
+C NNP
+to TO
+Philadelphia NNP
+departing VBG
+in IN
+the DT
+afternoon NN
+
+
+What WDT
+flights NNS
+from IN
+Chicago NNP
+to TO
+Denver NNP
+in IN
+the DT
+morning NN
+
+
+What WDT
+flights NNS
+from IN
+Chicago NNP
+to TO
+Kansas NNP
+City NNP
+in IN
+the DT
+morning NN
+
+
+What WDT
+flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Denver NNP
+after IN
+eight CD
+forty CD
+five CD
+in IN
+the DT
+morning NN
+
+
+What WDT
+flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Denver NNP
+after IN
+eight CD
+forty CD
+five CD
+in IN
+the DT
+morning NN
+
+
+What WDT
+flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Denver NNP
+
+
+What WDT
+flights NNS
+from IN
+Denver NNP
+to TO
+Salt NNP
+Lake NNP
+City NNP
+
+
+What WDT
+flights NNS
+from IN
+Salt NNP
+Lake NNP
+City NNP
+to TO
+Las NNP
+Vegas NNP
+
+
+What WDT
+flights NNS
+from IN
+Las NNP
+Vegas NNP
+to TO
+San NNP
+Diego NNP
+
+
+What WDT
+flights NNS
+from IN
+Chicago NNP
+to TO
+Kansas NNP
+City NNP
+
+
+What WDT
+flights NNS
+from IN
+Philadelphia NNP
+to TO
+Atlanta NNP
+
+
+What WDT
+flights NNS
+from IN
+Atlanta NNP
+to TO
+Toronto NNP
+
+
+What WDT
+flights NNS
+from IN
+Atlanta NNP
+to TO
+Toronto NNP
+
+
+What WDT
+flights NNS
+from IN
+Atlanta NNP
+to TO
+Washington NNP
+
+
+What WDT
+flights NNS
+from IN
+Washington NNP
+to TO
+Toronto NNP
+
+
+What WDT
+flights NNS
+from IN
+Washington NNP
+D NNP
+C NNP
+to TO
+Toronto NNP
+
+
+What WDT
+flights NNS
+from IN
+Atlanta NNP
+to TO
+Washington NNP
+
+
+What WDT
+flights NNS
+from IN
+Toronto NNP
+to TO
+Philadelphia NNP
+
+
+What WDT
+flights NNS
+from IN
+Houston NNP
+to TO
+Milwaukee NNP
+on IN
+Friday NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+from IN
+Houston NNP
+to TO
+Milwaukee NNP
+on IN
+Friday NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+from IN
+Houston NNP
+to TO
+Milwaukee NNP
+on IN
+Friday NNP
+in IN
+the DT
+evening NN
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+from IN
+Houston NNP
+to TO
+Milwaukee NNP
+on IN
+Friday NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+from IN
+Milwaukee NNP
+to TO
+San NNP
+Jose NNP
+on IN
+Wednesday NNP
+on IN
+American NNP
+Airlines NNP
+
+
+What WDT
+flights NNS
+from IN
+San NNP
+Jose NNP
+to TO
+Dallas NNP
+on IN
+Friday NNP
+afternoon NN
+
+
+What WDT
+flights NNS
+from IN
+Dallas NNP
+to TO
+Houston NNP
+on IN
+Sunday NNP
+
+
+Are VBP
+any DT
+of IN
+those DT
+on IN
+American NNP
+Airlines NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+of IN
+flights NNS
+from IN
+Indianapolis NNP
+to TO
+Memphis NNP
+
+
+What WDT
+flights NNS
+from IN
+Indianapolis NNP
+to TO
+Memphis NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Memphis NNP
+to TO
+Miami NNP
+on IN
+Wednesday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Miami NNP
+to TO
+Indianapolis NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Miami NNP
+to TO
+Indianapolis NNP
+on IN
+Sunday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Montreal NNP
+to TO
+Las NNP
+Vegas NNP
+on IN
+Saturday NNP
+
+
+What WDT
+flights NNS
+from IN
+Phoenix NNP
+to TO
+Las NNP
+Vegas NNP
+on IN
+Saturday NNP
+
+
+What WDT
+flights NNS
+from IN
+Las NNP
+Vegas NNP
+to TO
+Montreal NNP
+on IN
+Saturday NNP
+
+
+What WDT
+flights NNS
+from IN
+Las NNP
+Vegas NNP
+to TO
+Phoenix NNP
+on IN
+Saturday NNP
+
+
+What WDT
+flights NNS
+from IN
+Tacoma NNP
+to TO
+Orlando NNP
+on IN
+Saturday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Orlando NNP
+to TO
+Tacoma NNP
+on IN
+Saturday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+airlines NNS
+from IN
+Washington NNP
+D NNP
+C NNP
+to TO
+Columbus NNP
+
+
+What WDT
+flights NNS
+have VBP
+meals NNS
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Detroit NNP
+to TO
+Saint NNP
+Petersburg NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+restrictions NNS
+on IN
+fare NN
+code NN
+H SYM
+
+
+What WDT
+flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Newark NNP
+on IN
+Monday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Newark NNP
+to TO
+Los NNP
+Angeles NNP
+on IN
+Wednesday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+of IN
+flight NN
+U NNP
+A NNP
+nine CD
+seven CD
+
+
+What WP
+is VBZ
+the DT
+price NN
+of IN
+United NNP
+Airlines NNP
+flight NN
+nine CD
+seven CD
+
+
+What WDT
+flights NNS
+from IN
+Los NNP
+Angeles NNP
+to TO
+Minneapolis NNP
+
+
+On IN
+Thursday NNP
+
+
+What WDT
+flights NNS
+from IN
+Minneapolis NNP
+to TO
+Pittsburgh NNP
+
+
+On IN
+Friday NNP
+
+
+What WP
+is VBZ
+the DT
+price NN
+
+
+What WDT
+flights NNS
+from IN
+Cincinnati NNP
+to TO
+Tampa NNP
+
+
+What WDT
+flights NNS
+from IN
+Tampa NNP
+to TO
+Cincinnati NNP
+
+
+What WDT
+flights NNS
+from IN
+Seattle NNP
+to TO
+Salt NNP
+Lake NNP
+City NNP
+
+
+What WP
+is VBZ
+the DT
+seating NN
+capacity NN
+
+
+What WP
+'re VBP
+the DT
+flights NNS
+
+
+What WDT
+kind NN
+of IN
+airplane NN
+do VBP
+they PRP
+use VB
+
+
+Flights NNS
+from IN
+Cleveland NNP
+to TO
+Kansas NNP
+City NNP
+
+
+Flights NNS
+from IN
+Cleveland NNP
+to TO
+Kansas NNP
+City NNP
+on IN
+Monday NNP
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+on IN
+Wednesday NNP
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+on IN
+Wednesday NNP
+before IN
+five CD
+p.m RB
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+on IN
+Wednesday NNP
+arriving VBG
+before IN
+five CD
+p.m RB
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+departing VBG
+after IN
+noon NN
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+
+
+Price NN
+of IN
+round JJ
+trip NN
+flight NN
+from IN
+Cleveland NNP
+to TO
+Kansas NNP
+City NNP
+
+
+Price NN
+from IN
+Cleveland NNP
+to TO
+Kansas NNP
+City NNP
+round JJ
+trip NN
+
+
+Price NN
+of IN
+flight NN
+W NNP
+N NNP
+one CD
+four CD
+five CD
+five CD
+
+
+Price NN
+from IN
+Cleveland NNP
+to TO
+Kansas NNP
+City NNP
+round JJ
+trip NN
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+
+
+Flights NNS
+from IN
+Kansas NNP
+City NNP
+to TO
+Cleveland NNP
+and CC
+price NN
+
+
+Flight NN
+from IN
+Cleveland NNP
+to TO
+Nashville NNP
+
+
+Flight NN
+from IN
+Nashville NNP
+to TO
+Cleveland NNP
+
+
+Price NN
+of IN
+flight NN
+A NNP
+A NNP
+one CD
+thousand CD
+three CD
+hundred CD
+nineteen CD
+
+
+Price NN
+of IN
+flight NN
+A NNP
+A NNP
+one CD
+three CD
+one CD
+nine CD
+
+
+Price NN
+of IN
+flight NN
+from IN
+Cleveland NNP
+to TO
+Nashville NNP
+
+
+Price NN
+of IN
+flight NN
+from IN
+Nashville NNP
+to TO
+Cleveland NNP
+
+
+Shortest JJS
+flight NN
+from IN
+Ontario NNP
+California NNP
+to TO
+Orlando NNP
+Florida NNP
+
+
+Flights NNS
+from IN
+Ontario NNP
+to TO
+Florida NNP
+
+
+Flights NNS
+from IN
+Ontario NNP
+to TO
+Orlando NNP
+
+
+Flight NN
+from IN
+Ontario NNP
+to TO
+Orlando NNP
+that WDT
+departs VBZ
+nine CD
+hours NNS
+before IN
+arriving VBG
+
+
+Flights NNS
+from IN
+Ontario NNP
+to TO
+Orlando NNP
+
+
+First JJ
+class NN
+from IN
+Detroit NNP
+to TO
+Saint NNP
+Petersburg NNP
+
+
+Cheapest JJS
+round JJ
+trip NN
+airfare NN
+from IN
+Detroit NNP
+to TO
+Saint NNP
+Petersburg NNP
+
+
+Cheapest JJS
+round JJ
+trip NN
+airfare NN
+from IN
+Tacoma NNP
+to TO
+Orlando NNP
+
+
+Cheapest JJS
+airfare NN
+from IN
+Tacoma NNP
+to TO
+Orlando NNP
+
+
+Cheapest JJS
+airfare NN
+from IN
+Orlando NNP
+to TO
+Tacoma NNP
+
+
+First JJ
+class NN
+round JJ
+trip NN
+airfare NN
+from IN
+Indianapolis NNP
+to TO
+Memphis NNP
+
+
+First JJ
+class NN
+round JJ
+trip NN
+airfare NN
+from IN
+Indianapolis NNP
+to TO
+Memphis NNP
+
+
+Cheapest JJS
+flight NN
+from IN
+Indianapolis NNP
+to TO
+Memphis NNP
+
+
+Cheapest JJS
+flight NN
+from IN
+Memphis NNP
+to TO
+Miami NNP
+
+
+Cheapest JJS
+flight NN
+from IN
+Miami NNP
+to TO
+Indianapolis NNP
+
+
+Flights NNS
+from IN
+Boston NNP
+to TO
+Pittsburgh NNP
+
+
+Flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Newark NNP
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Boston NNP
+
+
+Flights NNS
+from IN
+Boston NNP
+to TO
+Pittsburgh NNP
+
+
+Flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Newark NNP
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Boston NNP
+
+
+Flights NNS
+from IN
+Boston NNP
+to TO
+Pittsburgh NNP
+
+
+Flights NNS
+from IN
+Pittsburgh NNP
+to TO
+Newark NNP
+
+
+Hi UH
+could MD
+I PRP
+get VB
+a DT
+one CD
+way NN
+ticket NN
+from IN
+Milwaukee NNP
+to TO
+Orlando NNP
+
+
+Which WDT
+of IN
+those DT
+leaves VBZ
+either CC
+Wednesday NNP
+or CC
+Thursday NNP
+
+
+Which WDT
+of IN
+those DT
+depart VBP
+Wednesday NNP
+
+
+What WP
+about IN
+after IN
+seven CD
+p.m RB
+
+
+Okay UH
+cancel VB
+Wednesday NNP
+what WP
+about IN
+Thursday NNP
+
+
+Any DT
+of IN
+those DT
+leaving VBG
+on IN
+Thursday NNP
+
+
+Which WDT
+of IN
+those DT
+leave VBP
+before IN
+eight CD
+a.m RB
+
+
+What WP
+'s VBZ
+the DT
+cheapest JJS
+
+
+What WP
+does VBZ
+that DT
+mean NN
+
+
+Which WDT
+is VBZ
+better JJR
+
+
+Which WDT
+is VBZ
+better JJR
+
+
+Flights NNS
+from IN
+Long NNP
+Beach NNP
+to TO
+Nashville NNP
+
+
+Traveling VBG
+first JJ
+class NN
+
+
+Flights NNS
+from IN
+Westchester NNP
+County NNP
+to TO
+Saint NNP
+Paul NNP
+
+
+Cheapest JJS
+fare NN
+
+
+Flights NNS
+from IN
+Newark NNP
+New NNP
+Jersey NNP
+to TO
+Cleveland NNP
+Ohio NNP
+
+
+Round JJ
+trip NN
+flights NNS
+
+
+Restriction NN
+code NN
+A SYM
+P SYM
+slash SYM
+five CD
+seven CD
+
+
+Round JJ
+trip NN
+flights NNS
+without IN
+restriction NN
+code NN
+A SYM
+P SYM
+slash SYM
+five CD
+seven CD
+
+
+Flights NNS
+from IN
+Newark NNP
+New NNP
+Jersey NNP
+to TO
+Cleveland NNP
+Ohio NNP
+
+
+No DT
+stopovers NNS
+
+
+Flight NN
+number NN
+C NNP
+O NNP
+one CD
+seven CD
+one CD
+nine CD
+
+
+Return NN
+flight NN
+number NN
+
+
+All DT
+flights NNS
+from IN
+Cleveland NNP
+to TO
+Newark NNP
+
+
+Nonstop JJ
+
+
+Zero CD
+stops NNS
+
+
+Direct JJ
+flights NNS
+
+
+Flights NNS
+from IN
+New NNP
+York NNP
+to TO
+Miami NNP
+
+
+First JJ
+class NN
+fare NN
+
+
+Show VB
+business NN
+class NN
+fares NNS
+
+
+Show VB
+all DT
+flights NNS
+from IN
+Miami NNP
+to TO
+J NNP
+F NNP
+K NNP
+
+
+All DT
+flights NNS
+from IN
+Miami NNP
+to TO
+New NNP
+York NNP
+
+
+Show VB
+business NN
+class NN
+fares NNS
+
+
+What WP
+is VBZ
+airline NN
+F NNP
+F NNP
+
+
+All DT
+flights NNS
+from IN
+Miami NNP
+to TO
+New NNP
+York NNP
+
+
+Business NN
+class NN
+fares NNS
+
+
+Flights NNS
+between IN
+Tampa NNP
+and CC
+Saint NNP
+Louis NNP
+
+
+Departing VBG
+before IN
+ten CD
+a.m RB
+
+
+First JJ
+class NN
+
+
+Flights NNS
+between IN
+New NNP
+York NNP
+and CC
+San NNP
+Jose NNP
+
+
+Arrival NNP
+in IN
+San NNP
+Jose NNP
+before IN
+seven CD
+p.m RB
+
+
+With IN
+the DT
+least RBS
+expensive JJ
+fare NN
+
+
+Cheapest JJS
+fare NN
+
+
+Cheapest JJS
+fare NN
+one CD
+way NN
+
+
+Cheapest JJS
+round JJ
+trip NN
+fare NN
+
+
+Round JJ
+trip NN
+flights NNS
+between IN
+Houston NNP
+and CC
+Las NNP
+Vegas NNP
+
+
+Nonstop JJ
+
+
+Cheapest JJS
+fare NN
+
+
+Return NN
+flight NN
+
+
+Nonstop JJ
+
+
+Cheapest JJS
+fare NN
+round JJ
+trip NN
+
+
+Ground NN
+transportation NN
+
+
+Ground NN
+transportation NN
+in IN
+Las NNP
+Vegas NNP
+
+
+Flights NNS
+between IN
+Milwaukee NNP
+and CC
+Orlando NNP
+one CD
+way NN
+
+
+Leaving VBG
+after IN
+six CD
+p.m RB
+on IN
+Wednesdays NNPS
+
+
+With IN
+round JJ
+trip NN
+fares NNS
+
+
+Cheapest JJS
+fare NN
+
+
+Departing VBG
+after IN
+six CD
+p.m RB
+
+
+Departing VBG
+after IN
+five CD
+p.m RB
+
+
+Leaving VBG
+on IN
+Thursday NNP
+morning NN
+after IN
+ten CD
+a.m RB
+
+
+After IN
+ten CD
+a.m RB
+
+
+Lowest JJS
+round JJ
+trip NN
+fare NN
+
+
+Return NN
+flight NN
+numbers NNS
+
+
+Departure NN
+on IN
+Saturday NNP
+with IN
+lowest JJS
+fare NN
+round JJ
+trip NN
+
+
+Show VB
+me PRP
+one CD
+way NN
+flights NNS
+from IN
+Milwaukee NNP
+to TO
+Orlando NNP
+leaving VBG
+on IN
+Wednesday NNP
+morning NN
+
+
+Show VB
+me PRP
+one CD
+way NN
+flights NNS
+from IN
+Milwaukee NNP
+to TO
+Orlando NNP
+
+
+Cheapest JJS
+
+
+Departing VBG
+Wednesday NNP
+after IN
+five CD
+o'clock RB
+
+
+On IN
+Wednesdays NNP
+after IN
+five CD
+p.m RB
+
+
+Departing VBG
+on IN
+Wednesdays NNS
+after IN
+five CD
+o'clock RB
+p.m RB
+
+
+Departing VBG
+Thursday NNP
+mornings NNS
+before IN
+nine CD
+o'clock RB
+
+
+Show VB
+me PRP
+flights NNS
+from IN
+San NNP
+Francisco NNP
+to TO
+Denver NNP
+on IN
+weekdays NNS
+
+
+Show VB
+me PRP
+ground NN
+transportation NN
+in IN
+Denver NNP
+during IN
+weekdays NNS
+
+
+Weekday NN
+flights NNS
+from IN
+San NNP
+Francisco NNP
+to TO
+Denver NNP
+
+
+Flights NNS
+from IN
+Denver NNP
+to TO
+Westchester NNP
+County NNP
+New NNP
+York NNP
+weekdays NNS
+
+
+Denver NNP
+to TO
+Westchester NNP
+County NNP
+
+
+Ground NN
+transportation NN
+in IN
+Westchester NNP
+County NNP
+
+
+Show VB
+me PRP
+ground NN
+transportation NN
+in IN
+Westchester NNP
+County NNP
+
+
+Flights NNS
+from IN
+Westchester NNP
+County NNP
+to TO
+San NNP
+Francisco NNP
+daily RB
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Cleveland NNP
+daily RB
+five CD
+o'clock RB
+p.m RB
+
+
+Daily JJ
+flights NNS
+from IN
+Newark NNP
+to TO
+Cleveland NNP
+departing VBG
+five CD
+o'clock RB
+p.m RB
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Cleveland NNP
+five CD
+o'clock RB
+p.m RB
+daily RB
+
+
+Newark NNP
+to TO
+Cleveland NNP
+daily RB
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Cleveland NNP
+daily RB
+
+
+Flights NNS
+from IN
+Newark NNP
+to TO
+Cleveland NNP
+
+
+Flights NNS
+from IN
+Newark NNP
+New NNP
+Jersey NNP
+to TO
+Cleveland NNP
+
+
+Newark NNP
+to TO
+Cleveland NNP
+
+
+Newark NNP
+to TO
+Cleveland NNP
+
+
+Newark NNP
+to TO
+Cleveland NNP
+
+
+Airports NNS
+in IN
+New NNP
+York NNP
+
+
+Flights NNS
+from IN
+J NNP
+F NNP
+K NNP
+or CC
+La NNP
+Guardia NNP
+to TO
+Cleveland NNP
+
+
+Flights NNS
+from IN
+La NNP
+Guardia NNP
+to TO
+J NNP
+F NNP
+K NNP
+
+
+Flights NNS
+from IN
+La NNP
+Guardia NNP
+or CC
+J NNP
+F NNP
+K NNP
+to TO
+Cleveland NNP
+
+
+Airports NNS
+in IN
+New NNP
+York NNP
+
+
+Flights NNS
+from IN
+Columbus NNP
+to TO
+Milwaukee NNP
+
+
+Coach NN
+class NN
+
+
+Airline NN
+is VBZ
+T NNP
+W NNP
+A NNP
+
+
+Airline NNP
+T NNP
+W NNP
+A NNP
+
+
+Flights NNS
+on IN
+T NNP
+W NNP
+A NNP
+
+
+Flights NNS
+on IN
+T NNP
+W NNP
+A NNP
+from IN
+Columbus NNP
+to TO
+Saint NNP
+Louis NNP
+
+
+Coach NN
+class NN
+
+
+Coach NN
+class NN
+flights NNS
+on IN
+T NNP
+W NNP
+A NNP
+from IN
+Columbus NNP
+to TO
+Saint NNP
+Paul NNP
+
+
+All DT
+flights NNS
+from IN
+Montreal NNP
+less JJR
+than IN
+one CD
+hundred CD
+fifty CD
+dollars NNS
+
+
+Flights NNS
+from IN
+Montreal NNP
+
+
+Fares NNS
+of IN
+one CD
+hundred CD
+fifty CD
+dollars NNS
+or CC
+less JJR
+
+
+Fares NNS
+less JJR
+than IN
+one CD
+hundred CD
+fifty CD
+one CD
+dollars NNS
+
+
+With IN
+fares NNS
+of IN
+no RB
+more JJR
+than IN
+one CD
+hundred CD
+fifty CD
+dollars NNS
+
+
+Fares NNS
+
+
+Show VB
+the DT
+fares NNS
+
+
+Cheapest JJS
+flights NNS
+
+
+What WP
+are VBP
+the DT
+cheapest JJS
+fares NNS
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+from IN
+Ontario NNP
+to TO
+Tacoma NNP
+one CD
+way NN
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+that WDT
+depart VBP
+before IN
+ten CD
+a.m RB
+and CC
+have VBP
+first JJ
+class NN
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+that WDT
+depart VBP
+before IN
+ten CD
+a.m RB
+and CC
+have VBP
+first JJ
+class NN
+fares NNS
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+from IN
+Minneapolis NNP
+to TO
+San NNP
+Diego NNP
+that WDT
+arrive VBP
+before IN
+seven CD
+p.m RB
+
+
+Show VB
+me PRP
+the DT
+cheapest JJS
+round JJ
+trip NN
+fares NNS
+
+
+Show VB
+me PRP
+all DT
+nonstop JJ
+flights NNS
+from IN
+Salt NNP
+Lake NNP
+City NNP
+to TO
+Cincinnati NNP
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+
+
+Show VB
+me PRP
+the DT
+return NN
+trips NNS
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+from IN
+Philadelphia NNP
+to TO
+San NNP
+Francisco NNP
+with IN
+one CD
+stop NN
+in IN
+Dallas NNP
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+from IN
+Philadelphia NNP
+to TO
+San NNP
+Francisco NNP
+with IN
+one CD
+stop NN
+in IN
+Dallas NNP
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+
+
+Show VB
+me PRP
+the DT
+fare NN
+from IN
+Dallas NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Show VB
+me PRP
+the DT
+fare NN
+from IN
+San NNP
+Francisco NNP
+to TO
+oh UH
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+from IN
+Dallas NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+from IN
+San NNP
+Francisco NNP
+to TO
+Dallas NNP
+oops UH
+
+
+Show VB
+me PRP
+the DT
+fares NNS
+from IN
+Dallas NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Show VB
+me PRP
+all DT
+flights NNS
+on IN
+Southwest NNP
+Airlines NNP
+from IN
+San NNP
+Diego NNP
+to TO
+San NNP
+Francisco NNP
+
+
+What WP
+is VBZ
+the DT
+ground NN
+transportation NN
+in IN
+San NNP
+Diego NNP
+
+
+Show VB
+me PRP
+the DT
+fare NN
+
+
+Show VB
+me PRP
+the DT
+meals NNS
+
+
+Show VB
+me PRP
+the DT
+meals NNS
+on IN
+Southwest NNP
+Airlines NNP
+
+
+Show VB
+me PRP
+the DT
+Southwest NNP
+Airlines NNP
+flights NNS
+
+
+Show VB
+me PRP
+only RB
+the DT
+Southwest NNP
+Airlines NNP
+flights NNS
+
+
+Do VBP
+not RB
+show VB
+me PRP
+the DT
+U NNP
+S NNP
+Air NNP
+flights NNS
+
+
+Show VB
+me PRP
+the DT
+Southwest NNP
+Airlines NNP
+flights NNS
+from IN
+San NNP
+Diego NNP
+to TO
+San NNP
+Francisco NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+San NNP
+Diego NNP
+to TO
+San NNP
+Francisco NNP
+on IN
+Southwest NNP
+Airlines NNP
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+San NNP
+Diego NNP
+to TO
+Washington NNP
+D NNP
+C NNP
+
+
+Show VB
+me PRP
+the DT
+United NNP
+Airlines NNP
+flight NN
+into IN
+Dulles NNP
+
+
+Show VB
+me PRP
+the DT
+return NN
+flights NNS
+
+
+Show VB
+me PRP
+the DT
+stops NNS
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+from IN
+Dulles NNP
+International NNP
+to TO
+San NNP
+Diego NNP
+with IN
+one CD
+stop NN
+in IN
+Los NNP
+Angeles NNP
+
+
+Show VB
+me PRP
+the DT
+meals NNS
+
+
+Show VB
+me PRP
+the DT
+cheapest JJS
+fare NN
+that WDT
+has VBZ
+lunch NN
+
+
+Show VB
+me PRP
+the DT
+meal NN
+
+
+Show VB
+me PRP
+the DT
+stops NNS
+
+
+Show VB
+me PRP
+the DT
+restrictions NNS
+
+
+Explain VB
+the DT
+restrictions NNS
+
+
+Explain VB
+the DT
+codes NNS
+
+
+Explain VB
+the DT
+restriction NN
+A SYM
+P SYM
+slash SYM
+five CD
+seven CD
+
+
+Explain VB
+the DT
+fare NN
+code NN
+Q SYM
+
+
+Show VB
+me PRP
+the DT
+flights NNS
+that WDT
+accept VBP
+frequent JJ
+flyer NN
+tickets NNS
+
+
+Display VB
+the DT
+fare NN
+codes NNS
+
