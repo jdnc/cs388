@@ -37,6 +37,7 @@ import cc.mallet.pipe.iterator.LineGroupIterator;
 import cc.mallet.util.CommandOption;
 import cc.mallet.util.MalletLogger;
 
+
 /**
  * This class's main method trains, tests, or runs a generic HMM-based
  * sequence tagger.

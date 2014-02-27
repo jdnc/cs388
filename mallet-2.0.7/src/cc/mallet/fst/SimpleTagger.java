@@ -306,7 +306,9 @@ public class SimpleTagger
       boolean connected, int iterations, double var, CRF crf)
   {
     for(Instance inst : training){
-     ArrayList<String> tokens = OovUtils.getWords(inst.getData().toString());
+      String sentence =  inst.getData().toString();
+      //System.out.println("Input "+sentence.substring(sentence.indexOf("\n"), sentence.length()));
+      ArrayList<String> tokens = OovUtils.getWords(sentence);
        for(String tok : tokens){
           vocabulary.add(tok);
        }
