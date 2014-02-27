@@ -16,6 +16,7 @@ import java.io.ObjectOutputStream;
 import java.io.Reader;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Random;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -36,6 +37,7 @@ import cc.mallet.pipe.iterator.LineGroupIterator;
 
 import cc.mallet.util.CommandOption;
 import cc.mallet.util.MalletLogger;
+import cc.mallet.fst.OovUtils;
 
 /**
  * This class's main method trains, tests, or runs a generic HMM-based
@@ -54,7 +56,7 @@ public class HMMSimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(HMMSimpleTagger.class.getName());
-
+  public static HashSet vocabulary = new HashSet();
   /**
    * No <code>SimpleTagger</code> objects allowed.
    */
@@ -339,6 +341,12 @@ public class HMMSimpleTagger
 		logger.info("Trainer by likelihood done\n");
 //	}    
 //    hmm.train(training, null, testing, eval);
+      for(Instance inst : training){
+     ArrayList<String> tokens = OovUtils.getWords(inst.getData().toString());
+       for(String tok : tokens){
+          vocabulary.add(tok);
+       }
+    }
 
     return hmm;
   }
@@ -354,7 +362,7 @@ public class HMMSimpleTagger
   public static void test(TransducerTrainer tt, TransducerEvaluator eval,
       InstanceList testing)
   {
-    eval.evaluateInstanceList(tt, testing, "Testing");
+    eval.evaluateInstanceList2(tt, testing, "Testing", vocabulary);
   }
 
   /**
