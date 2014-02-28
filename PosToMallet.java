@@ -14,8 +14,8 @@ public class PosToMallet {
 			Pattern keep = Pattern.compile("([^\\s\\[\\]]+)/([^\\s\\[\\]]+)");
 			Pattern discard = Pattern.compile("\\[\\s*@.+/CD\\s*\\]");
 			Pattern newLine = Pattern.compile("=+");
-			String outFileName = args[0].substring(0, args[0].indexOf(".")) + ".txt";
-			FileWriter fstream = new FileWriter(outFileName);
+			//String outFileName = args[0].substring(0, args[0].indexOf(".")) + ".txt";
+			FileWriter fstream = new FileWriter(args[1]);
 			BufferedWriter outFile = new BufferedWriter(fstream);
 			BufferedReader inFile = new BufferedReader(new FileReader(args[0]));
 			String line = null;
