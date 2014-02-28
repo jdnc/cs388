@@ -56,7 +56,6 @@ public class HMMSimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(HMMSimpleTagger.class.getName());
-  public static HashSet vocabulary = new HashSet();
   /**
    * No <code>SimpleTagger</code> objects allowed.
    */
@@ -342,11 +341,8 @@ public class HMMSimpleTagger
 //	}    
 //    hmm.train(training, null, testing, eval);
       for(Instance inst : training){
-	System.out.println(inst.getData().toString());
-     ArrayList<String> tokens = OovUtils.getWords(inst.getData().toString());
-       for(String tok : tokens){
-          vocabulary.add(tok);
-       }
+    	  //System.out.println(inst.getData().toString());
+    	  OovUtils.populateVocabulary(inst.getData().toString());
     }
 
     return hmm;
@@ -363,7 +359,7 @@ public class HMMSimpleTagger
   public static void test(TransducerTrainer tt, TransducerEvaluator eval,
       InstanceList testing)
   {
-    eval.evaluateInstanceList2(tt, testing, "Testing", vocabulary);
+    eval.evaluateInstanceList(tt, testing, "Testing");
   }
 
   /**

@@ -307,11 +307,7 @@ public class SimpleTagger
   {
     for(Instance inst : training){
       String sentence =  inst.getData().toString();
-      //System.out.println("Input "+sentence.substring(sentence.indexOf("\n"), sentence.length()));
-      ArrayList<String> tokens = OovUtils.getWords(sentence);
-       for(String tok : tokens){
-          vocabulary.add(tok);
-       }
+      OovUtils.populateVocabulary(sentence);
     }
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
@@ -418,7 +414,7 @@ public class SimpleTagger
   public static void test(TransducerTrainer tt, TransducerEvaluator eval,
       InstanceList testing)
   {
-    eval.evaluateInstanceList2(tt, testing, "Testing", vocabulary);
+    eval.evaluateInstanceList(tt, testing, "Testing");
   }
 
   /**

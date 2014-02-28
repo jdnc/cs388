@@ -82,6 +82,6 @@ public abstract class TransducerEvaluator
 	}
 
   public abstract void evaluateInstanceList (TransducerTrainer transducer, InstanceList instances, String description);
-  public void evaluateInstanceList2 (TransducerTrainer transducer, InstanceList instances, String description, HashSet vocabulary) {}
+ // public void evaluateInstanceList2 (TransducerTrainer transducer, InstanceList instances, String description, HashSet vocabulary) {}
 
 }
