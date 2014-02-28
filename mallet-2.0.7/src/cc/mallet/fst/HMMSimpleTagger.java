@@ -295,6 +295,12 @@ public class HMMSimpleTagger
       String forbidden, String allowed,
       boolean connected, int iterations, double var, HMM hmm)
   {
+	  for(Instance inst : training){
+    	  //System.out.println(inst.getData().toString());
+    	  String sentence  =  inst.getData().toString();
+    	  //System.out.println("In HMM train: "+sentence);
+    	  OovUtils.populateVocabulary(sentence);
+    }
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
     if (hmm == null) {
@@ -340,10 +346,7 @@ public class HMMSimpleTagger
 		logger.info("Trainer by likelihood done\n");
 //	}    
 //    hmm.train(training, null, testing, eval);
-      for(Instance inst : training){
-    	  //System.out.println(inst.getData().toString());
-    	  OovUtils.populateVocabulary(inst.getData().toString());
-    }
+      
 
     return hmm;
   }

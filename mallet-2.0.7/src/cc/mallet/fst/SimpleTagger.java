@@ -56,7 +56,7 @@ public class SimpleTagger
   private static Logger logger =
     MalletLogger.getLogger(SimpleTagger.class.getName());
   
-  public static HashSet vocabulary = new HashSet();  
+  //public static HashSet vocabulary = new HashSet();  
   
    /**
    * No <code>SimpleTagger</code> objects allowed.
