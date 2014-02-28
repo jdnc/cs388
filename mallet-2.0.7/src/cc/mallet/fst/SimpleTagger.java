@@ -55,7 +55,7 @@ public class SimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(SimpleTagger.class.getName());
-  
+  public static OovUtils vocabStore = new OovUtils();
   //public static HashSet vocabulary = new HashSet();  
   
    /**
@@ -305,10 +305,14 @@ public class SimpleTagger
       String forbidden, String allowed,
       boolean connected, int iterations, double var, CRF crf)
   {
-    for(Instance inst : training){
-      String sentence =  inst.getData().toString();
-      OovUtils.populateVocabulary(sentence);
-    }
+	
+	if(vocabStore.vocabulary.isEmpty()){
+		System.out.println("CALLED POPULATE VOCAB");
+		for(Instance inst : training){
+			String sentence =  inst.getData().toString();
+			vocabStore.populateVocabulary(sentence);
+		}
+	}
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
     if (crf == null) {

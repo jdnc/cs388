@@ -56,6 +56,7 @@ public class HMMSimpleTagger
 {
   private static Logger logger =
     MalletLogger.getLogger(HMMSimpleTagger.class.getName());
+  public static OovUtils vocabStore = new OovUtils();
   /**
    * No <code>SimpleTagger</code> objects allowed.
    */
@@ -295,12 +296,15 @@ public class HMMSimpleTagger
       String forbidden, String allowed,
       boolean connected, int iterations, double var, HMM hmm)
   {
-	  for(Instance inst : training){
-    	  //System.out.println(inst.getData().toString());
-    	  String sentence  =  inst.getData().toString();
-    	  //System.out.println("In HMM train: "+sentence);
-    	  OovUtils.populateVocabulary(sentence);
-    }
+	  if(vocabStore.vocabulary.isEmpty()){
+		  System.out.println("CALLED POPULATE VOCAB");
+		  for(Instance inst : training){
+			  //System.out.println(inst.getData().toString());
+			  String sentence  =  inst.getData().toString();
+			  //System.out.println("In HMM train: "+sentence);
+			  vocabStore.populateVocabulary(sentence);
+		  }
+	  }
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
     if (hmm == null) {

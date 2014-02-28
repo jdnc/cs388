@@ -67,7 +67,7 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 		int numCorrectOovTokens;
 		Transducer transducer = trainer.getTransducer();
 		totalTokens = numCorrectTokens = numOovTokens = numCorrectOovTokens = 0;
-		System.out.println("VOCAB "+OovUtils.vocabulary);
+		//System.out.println("VOCAB "+OovUtils.vocabulary);
 		for (int i = 0; i < instances.size(); i++) {
 			Instance instance = instances.get(i);
 			Sequence input = (Sequence) instance.getData();
