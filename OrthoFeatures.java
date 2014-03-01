@@ -22,7 +22,7 @@ public class OrthoFeatures{
 					sb.append(tokens[0]);
 					Matcher matchSuff =  suffix.matcher(tokens[0]);
 					Matcher matchNumStart = numStart.matcher(tokens[0]);
-					/*
+					
 					if(matchSuff.matches()){
 						System.out.print(matchSuff.group(1));
 						sb.append(" " + matchSuff.group(1));
@@ -38,7 +38,7 @@ public class OrthoFeatures{
 					
 					if(matchNumStart.matches()){
 						sb.append(" " + "nums");
-					}*/
+					}
 					
 					sb.append(" " + tokens[1]);
 					
