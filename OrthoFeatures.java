@@ -9,7 +9,10 @@ public class OrthoFeatures{
 	public static void main(String[] args){
 		try{
 			//String outFileName = args[0].substring(0, args[0].indexOf(".")) + ".ortho";
-			FileWriter fstream = new FileWriter(args[1]);
+			boolean append = false;
+			if (args.length > 2)
+				append = args[2].equals("a");	
+			FileWriter fstream = new FileWriter(args[1], append);
 			BufferedWriter outFile = new BufferedWriter(fstream);
 			BufferedReader inFile = new BufferedReader(new FileReader(args[0]));
 			String line = null;
