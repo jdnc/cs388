@@ -41,9 +41,13 @@ public class OrthoFeatures{
 					}
 					
 					sb.append(" " + tokens[1]);
+					
+					outFile.write(sb.toString());
+					outFile.write("\n");
 				}
-				outFile.write(sb.toString());
-				outFile.write("\n");
+				else{
+					outFile.write("\n");
+				}
 				//System.out.println(sb.toString());
 			}
 			inFile.close();

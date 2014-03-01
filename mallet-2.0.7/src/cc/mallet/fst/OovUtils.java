@@ -6,6 +6,7 @@ import java.util.HashSet;
 public class OovUtils{
 	public static HashSet vocabulary = new HashSet();
 	public static ArrayList<String> getWords(String s){
+		System.out.println("SENTENCE "+s);
 		//System.out.println("in getwords");
 		ArrayList<String> words = new ArrayList();
 		//s = s.substring(s.indexOf("\n") + 1, s.length());
