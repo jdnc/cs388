@@ -67,7 +67,7 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 		int numCorrectOovTokens;
 		Transducer transducer = trainer.getTransducer();
 		totalTokens = numCorrectTokens = numOovTokens = numCorrectOovTokens = 0;
-		//System.out.println("VOCAB "+OovUtils.vocabulary);
+		System.out.println("VOCAB "+OovUtils.vocabulary);
 		for (int i = 0; i < instances.size(); i++) {
 			Instance instance = instances.get(i);
 			Sequence input = (Sequence) instance.getData();
@@ -76,6 +76,7 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 			Sequence predOutput = transducer.transduce (input);
 			assert (predOutput.size() == trueOutput.size());
 			ArrayList<String> tokens  = OovUtils.getWords(input.toString());
+			System.out.println("TOKENS "+ tokens);
 			ArrayList<Boolean> isOov = new ArrayList<Boolean>();
 			for (String t : tokens){
 				System.out.println(t);
@@ -87,10 +88,10 @@ public class TokenAccuracyEvaluator extends TransducerEvaluator
 					isOov.add(false);
 				}
 			}
-			System.out.println("OOV size:" + isOov.size());
-			System.out.println("op size:" + trueOutput.size());
-			System.out.println(isOov);
-			System.out.println(trueOutput);
+			//System.out.println("OOV size:" + isOov.size());
+			//System.out.println("op size:" + trueOutput.size());
+			//System.out.println(isOov);
+			//System.out.println(trueOutput);
 			assert (isOov.size() == trueOutput.size());
 			//System.err.println ("TokenAccuracyEvaluator "+i+" length="+input.size());
 			
