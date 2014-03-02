@@ -307,12 +307,12 @@ public class SimpleTagger
   {
 	
 	if(vocabStore.vocabulary.isEmpty()){
-		System.out.println("CALLED POPULATE VOCAB");
+		//System.out.println("CALLED POPULATE VOCAB");
 		for(Instance inst : training){
 			String sentence =  inst.getData().toString();
 			vocabStore.populateVocabulary(sentence);
 		}
-		System.out.println(vocabStore.vocabulary);
+		//System.out.println(vocabStore.vocabulary);
 	}
     Pattern forbiddenPat = Pattern.compile(forbidden);
     Pattern allowedPat = Pattern.compile(allowed);
@@ -701,8 +701,8 @@ public class SimpleTagger
         }
       }
     }
-    System.out.println("TRAIN: "+ trainingData.get(0).getData());
-    System.out.println("TEST: "+ testData.get(0).getData());
+    //System.out.println("TRAIN: "+ trainingData.get(0).getData());
+    //System.out.println("TEST: "+ testData.get(0).getData());
     
   }
 }

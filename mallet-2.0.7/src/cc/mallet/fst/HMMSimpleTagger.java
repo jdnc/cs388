@@ -297,7 +297,7 @@ public class HMMSimpleTagger
       boolean connected, int iterations, double var, HMM hmm)
   {
 	  if(vocabStore.vocabulary.isEmpty()){
-		  System.out.println("CALLED POPULATE VOCAB");
+		  //System.out.println("CALLED POPULATE VOCAB");
 		  for(Instance inst : training){
 			  //System.out.println(inst.getData().toString());
 			  String sentence  =  inst.getData().toString();

@@ -9,7 +9,7 @@ public class OovUtils{
 	public static HashSet<String> features = new HashSet<String>(Arrays.asList(featureList));
 	public static HashSet vocabulary = new HashSet();
 	public static ArrayList<String> getWords(String s){
-		System.out.println("SENTENCE "+s);
+		//System.out.println("SENTENCE "+s);
 		//System.out.println("in getwords");
 		ArrayList<String> words = new ArrayList();
 		//s = s.substring(s.indexOf("\n") + 1, s.length());
@@ -20,7 +20,7 @@ public class OovUtils{
 					//words.add(t.split("\\s+")[1]);
 					String[] wordies =  t.split("\\s+");
 					for(int k = 1; k < wordies.length; k++){
-						System.out.println("WORDIES "+wordies[k]);
+						//System.out.println("WORDIES "+wordies[k]);
 						if(features.contains(wordies[k]))
 							continue;
 						else{
