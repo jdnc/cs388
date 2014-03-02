@@ -1,5 +1,5 @@
 universe = vanilla
-environment = CLASSPATH=/u/mparikh/cs388/mallet-2.0.7/class:mallet-2.0.7/lib/mallet-deps.jar
+environment = CLASSPATH=/u/mparikh/cs388/mallet-2.0.7/class:/u/mparikh/cs388/mallet-2.0.7/lib/mallet-deps.jar
 
 Initialdir = /u/mparikh/cs388/hmm_large
 Executable = /usr/bin/java
