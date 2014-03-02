@@ -1,0 +1,20 @@
+universe = vanilla
+environment = CLASSPATH=/u/mparikh/cs388/mallet-2.0.7/lib/mallet-deps.jar
+
+Initialdir = /u/mparikh/cs388/crf_small
+Executable = /usr/bin/java
+
++Group   = "GRAD"
++Project = "INSTRUCTIONAL"
++ProjectDescription = "CS388 Homework 2"
+
+Log = /u/mparikh/cs388/crf_small/experiment.log
+
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+
+Arguments = cc.mallet.fst.SimpleTagger --train true --model-file /u/mparikh/cs388/out.model --training-proportion 1.0 --test lab /u/mparikh/cs388/wsj00.txt /u/mparikh/cs388/wsj01.txt
+
+Output = /u/mparikh/cs388/crf_small/experiment.out
+Error  = /u/mparikh/cs388/crf_small/experiment.err
+Queue 1
