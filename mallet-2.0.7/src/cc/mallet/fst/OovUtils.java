@@ -5,8 +5,8 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 public class OovUtils{
-	//public static String[] featureList = new String[] {"caps", "hyp", "nums", "ing", "ogy", "ed", "s",  "ly", "ion", "tion", "ies"};
-	public static String[] featureList = new String[] {"hyp", "nums"};
+	public static String[] featureList = new String[] {"caps", "hyp", "nums", "ing", "ogy", "ed", "s",  "ly", "ion", "tion", "ies"};
+	//public static String[] featureList = new String[] {"hyp", "nums"};
 	public static String[] featureList2 = new String[] {"anti", "non", "un", "re", "in", "pre", "sub", "de", "w_s", "w_m", "w_l", "CC", "CD", "DT", "EX", "FW", "IN", "JJ", "JJR", "JJS", "LS", "MD", "NN", "NNS", "NNP", "NNPS", "PDT", "POS", "PRP", "PRP$", "RB", "RBR", "RBS", "RP", "TO", "UH", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "WDT", "WP", "WP$", "WRB", "w_dot"};
 	public static HashSet<String> features = new HashSet<String>(Arrays.asList(featureList));
 	public static HashSet<String> features2 = new HashSet<String>(Arrays.asList(featureList2));
@@ -24,7 +24,7 @@ public class OovUtils{
 					String[] wordies =  t.split("\\s+");
 					for(int k = 1; k < wordies.length; k++){
 						//System.out.println("WORDIES "+wordies[k]);
-						if(features.contains(wordies[k]))//|| features2.contains(wordies[k]))
+						if(features.contains(wordies[k])|| features2.contains(wordies[k]))
 							continue;
 						else{
 							words.add(wordies[k]);		
