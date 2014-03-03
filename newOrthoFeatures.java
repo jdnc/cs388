@@ -16,11 +16,11 @@ public class newOrthoFeatures{
 			BufferedWriter outFile = new BufferedWriter(fstream);
 			BufferedReader inFile = new BufferedReader(new FileReader(args[0]));
 			String line = null;
+			String prevToken = null;
 			Pattern suffix = Pattern.compile(".+(ing|ogy|ed|s|ly|ion|tion|ies)$");
 			Pattern prefix = Pattern.compile("^(anti|non|un|re|in|pre|sub|de).+$");
 			Pattern numStart = Pattern.compile("^[1-9].*");
 			while((line = inFile.readLine()) != null){
-				String prevToken = null;
 				StringBuilder sb = new StringBuilder();
 				if (!line.isEmpty()){
 					String[] tokens = line.split("\\s+");
@@ -74,6 +74,7 @@ public class newOrthoFeatures{
 				}
 				else{
 					outFile.write("\n");
+					prevToken = null;
 				}
 				//System.out.println(sb.toString());
 			}
