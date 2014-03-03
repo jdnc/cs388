@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-public class OrthoFeatures{
+public class newOrthoFeatures{
 	public static void main(String[] args){
 		try{
 			//String outFileName = args[0].substring(0, args[0].indexOf(".")) + ".ortho";
