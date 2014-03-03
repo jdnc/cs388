@@ -1,0 +1,20 @@
+universe = vanilla
+environment = CLASSPATH=/u/mparikh/cs388/mallet-2.0.7/class:/u/mparikh/cs388/mallet-2.0.7/lib/mallet-deps.jar
+
+Initialdir = /u/mparikh/cs388/crf_xs_ortho2
+Executable = /usr/bin/java
+
++Group   = "GRAD"
++Project = "INSTRUCTIONAL"
++ProjectDescription = "CS388 Homework 2"
+
+Log = /u/mparikh/cs388/crf_xs_ortho2/experiment.log
+
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+
+Arguments = cc.mallet.fst.SimpleTagger --train true --model-file /u/mparikh/cs388/out.model --training-proportion 0.8 --test lab atis3.ortho2
+
+Output = /u/mparikh/cs388/crf_xs_ortho2/experiment.out
+Error  = /u/mparikh/cs388/crf_xs_ortho2/experiment.err
+Queue 1
