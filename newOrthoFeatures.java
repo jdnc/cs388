@@ -19,8 +19,8 @@ public class newOrthoFeatures{
 			Pattern suffix = Pattern.compile(".+(ing|ogy|ed|s|ly|ion|tion|ies)$");
 			Pattern prefix = Pattern.compile("^(anti|non|un|re|in|pre|sub|de).+$");
 			Pattern numStart = Pattern.compile("^[1-9].*");
-			String prevToken = null;
 			while((line = inFile.readLine()) != null){
+				String prevToken = null;
 				StringBuilder sb = new StringBuilder();
 				if (!line.isEmpty()){
 					String[] tokens = line.split("\\s+");
