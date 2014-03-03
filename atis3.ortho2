@@ -1,0 +1,5507 @@
+
+List caps w_m VB
+the w_s VB DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Seattle caps w_l TO NNP
+that w_m NNP WDT
+stop w_m WDT VBP
+in w_s VBP IN
+Minneapolis s caps w_l IN NNP
+
+
+Does s caps w_m VBZ
+this s w_m VBZ DT
+flight w_m DT NN
+serve w_m NN VB
+dinner w_m VB NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+to w_s NN TO
+Seattle caps w_l TO NNP
+leaving ing w_l NNP VBG
+from w_m VBG IN
+Baltimore caps w_l IN NNP
+making ing w_m NNP VBG
+a w_s VBG DT
+stop w_m DT NN
+in w_s NN IN
+Minneapolis s caps w_l IN NNP
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+to w_s VBP TO
+have w_m TO VB
+dinner w_m VB NN
+served ed w_m NN VBN
+
+
+I caps w_s PRP
+have w_m PRP VBP
+two w_s VBP CD
+friends s w_l CD NNS
+that w_m NNS WDT
+would w_m WDT MD
+like w_m MD VB
+to w_s VB TO
+visit w_m TO VB
+me w_s VB PRP
+on w_s PRP IN
+Wednesday caps w_l IN NNP
+here w_m NNP RB
+in w_s RB IN
+Washington caps w_l IN NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+one w_s NNP CD
+of w_s CD IN
+them w_m IN PRP
+lives s w_m PRP VBZ
+in w_s VBZ IN
+Denver caps w_m IN NNP
+and w_s NNP CC
+the w_s CC DT
+other w_m DT JJ
+lives s w_m JJ VBZ
+in w_s VBZ IN
+Miami caps w_m IN NNP
+
+
+I caps w_s PRP
+have w_m PRP VBP
+a w_s VBP DT
+friend w_m DT NN
+living ing w_m NN VBG
+in w_s VBG IN
+Denver caps w_m IN NNP
+that w_m NNP WDT
+would w_m WDT MD
+like w_m MD VB
+to w_s VB TO
+visit w_m TO VB
+me w_s VB PRP
+here w_m PRP RB
+in w_s RB IN
+Washington caps w_l IN NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+on w_s NNP IN
+T caps w_s IN NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+
+
+The caps w_s DT
+flight w_m DT NN
+should w_m NN MD
+be w_s MD VB
+eleven w_m VB CD
+a.m w_s CD RB
+tomorrow w_l RB NN
+
+
+The caps w_s DT
+flight w_m DT NN
+should w_m NN MD
+arrive w_m MD VB
+at w_s VB IN
+eleven w_m IN CD
+a.m w_s CD RB
+tomorrow w_l RB NN
+
+
+The caps w_s DT
+flight w_m DT NN
+should w_m NN MD
+arrive w_m MD VB
+at w_s VB IN
+around w_m IN RB
+eleven w_m RB CD
+a.m w_s CD RB
+tomorrow w_l RB NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Charlotte caps w_l TO NNP
+North caps w_m NNP NNP
+Carolina caps w_l NNP NNP
+next w_m NNP JJ
+Monday caps w_m JJ NNP
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+to w_s VBP TO
+arrive w_m TO VB
+at w_s VB IN
+Charlotte caps w_l IN NNP
+at w_s NNP IN
+around w_m IN RB
+five w_m RB CD
+p.m w_s CD RB
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+to w_s VBP TO
+return re w_m TO VB
+on w_s VB IN
+Tuesday caps w_l IN NNP
+
+
+The caps w_s DT
+return re w_m DT NN
+flight w_m NN NN
+should w_m NN MD
+leave w_m MD VB
+at w_s VB IN
+around w_m IN RB
+seven w_m RB CD
+p.m w_s CD RB
+
+
+How caps w_s WRB
+much w_m WRB RB
+extra w_m RB JJ
+would w_m JJ MD
+a w_s MD DT
+first w_m DT JJ
+class s w_m JJ NN
+fare w_m NN NN
+cost w_m NN VB
+
+
+How caps w_s WRB
+much w_m WRB RB
+would w_m RB MD
+the w_s MD DT
+coach w_m DT NN
+fare w_m NN NN
+cost w_m NN VB
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+find w_m TO VB
+a w_s VB DT
+flight w_m DT NN
+that w_m NN WDT
+goes s w_m WDT VBZ
+from w_m VBZ IN
+Boston caps w_m IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+I caps w_s NNP PRP
+would w_m PRP MD
+like w_m MD VB
+it w_s VB PRP
+to w_s PRP TO
+have w_m TO VB
+a w_s VB DT
+stop w_m DT NN
+in w_s NN IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+I caps w_s CC PRP
+would w_m PRP MD
+like w_m MD VB
+a w_s VB DT
+flight w_m DT NN
+that w_m NN WDT
+serves s w_m WDT VBZ
+breakfast w_l VBZ NN
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+find w_m TO VB
+a w_s VB DT
+flight w_m DT NN
+that w_m NN WDT
+goes s w_m WDT VBZ
+from w_m VBZ IN
+La caps w_s IN NNP
+Guardia caps w_l NNP NNP
+airport w_l NNP NN
+to w_s NN TO
+San caps w_s TO NNP
+Jose caps w_m NNP NNP
+I caps w_s NNP PRP
+would w_m PRP MD
+like w_m MD VB
+the w_s VB DT
+flight w_m DT NN
+to w_s NN TO
+be w_s TO VB
+on w_s VB IN
+United ed caps w_m IN NNP
+Airlines s caps w_l NNP NNP
+and w_s NNP CC
+arrive w_m CC VB
+in w_s VB IN
+San caps w_s IN NNP
+Jose caps w_m NNP NNP
+around w_m NNP IN
+ten w_s IN CD
+p.m w_s CD RB
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+find w_m TO VB
+out w_s VB RP
+the w_s RP DT
+flight w_m DT NN
+number w_m NN NN
+for w_s NN IN
+the w_s IN DT
+United ed caps w_m DT NNP
+flight w_m NNP NN
+that w_m NN WDT
+arrives s w_l WDT VBZ
+in w_s VBZ IN
+San caps w_s IN NNP
+Jose caps w_m NNP NNP
+around w_m NNP IN
+ten w_s IN CD
+p.m w_s CD RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP PDT
+the w_s PDT DT
+flights s w_l DT NNS
+leaving ing w_l NNS VBG
+Baltimore caps w_l VBG NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP PDT
+the w_s PDT DT
+flights s w_l DT NNS
+that w_m NNS WDT
+go w_s WDT VB
+from w_m VB IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Seattle caps w_l TO NNP
+
+
+Of caps w_s IN
+those w_m IN DT
+flights s w_l DT NNS
+which w_m NNS WDT
+ones s w_m WDT NNS
+stop w_m NNS VBP
+in w_s VBP IN
+Minneapolis s caps w_l IN NNP
+
+
+Does s caps w_m VBZ
+that w_m VBZ DT
+flight w_m DT NN
+serve w_m NN VB
+dinner w_m VB NN
+
+
+What caps w_m WP
+are w_s WP VBP
+the w_s VBP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+stop w_m DT VBP
+in w_s VBP IN
+Nashville caps w_l IN NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+serve w_m DT VBP
+dinner w_m VBP NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+New caps w_s NNP NNP
+Jersey caps w_m NNP NNP
+to w_s NNP TO
+Ontario caps w_l TO NNP
+International caps w_l NNP NNP
+next w_m NNP JJ
+Saturday caps w_l JJ NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+leave w_m DT VBP
+after w_m VBP IN
+noon w_m IN NN
+and w_s NN CC
+stop w_m CC VBP
+in w_s VBP IN
+Phoenix caps w_l IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Montreal caps w_l IN NNP
+to w_s NNP TO
+Chicago caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Chicago caps w_l IN NNP
+to w_s NNP TO
+Indianapolis s caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+Tell caps w_m VB
+me w_s VB PRP
+about w_m PRP IN
+the w_s IN DT
+ground w_m DT NN
+ground w_m NN NN
+transportation ion w_l NN NN
+in w_s NN IN
+Chicago caps w_l IN NNP
+
+
+What caps w_m WP
+about w_m WP IN
+in w_s IN IN
+Indianapolis s caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+do w_s NNS VBP
+you w_s VBP PRP
+have w_m PRP VB
+from w_m VB IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+Which caps w_m WDT
+ones s w_m WDT NNS
+stop w_m NNS VBP
+in w_s VBP IN
+Nashville caps w_l IN NNP
+
+
+What caps w_m WDT
+airline w_l WDT NN
+is s w_s NN VBZ
+this s w_m VBZ DT
+
+
+Thank caps w_m VB
+you w_s VB PRP
+what w_m PRP WDT
+time w_m WDT NN
+is s w_s NN VBZ
+it w_s VBZ PRP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Seattle caps w_l TO NNP
+
+
+Which caps w_m WDT
+are w_s WDT VBP
+the w_s VBP DT
+flights s w_l DT NNS
+that w_m NNS WDT
+make w_m WDT VBP
+a w_s VBP DT
+stop w_m DT NN
+in w_s NN IN
+Minneapolis s caps w_l IN NNP
+
+
+Does s caps w_m VBZ
+that w_m VBZ DT
+flight w_m DT NN
+serve w_m NN VB
+dinner w_m VB NN
+
+
+Book caps w_m VB
+that w_m VB DT
+flight w_m DT NN
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+travel w_m TO VB
+from w_m VB IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+
+
+The caps w_s DT
+flight w_m DT NN
+should w_m NN MD
+arrive w_m MD VB
+around w_m VB IN
+ten w_s IN CD
+or w_s CD CC
+eleven w_m CC CD
+a.m w_s CD RB
+
+
+Are caps w_s VBP
+there w_m VBP EX
+any w_s EX DT
+flights s w_l DT NNS
+arriving ing w_l NNS VBG
+after w_m VBG IN
+eleven w_m IN CD
+a.m w_s CD RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+T caps w_s DT NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+flight w_m NNP NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+first w_m DT JJ
+one w_s JJ NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+the w_s VBZ DT
+aircraft w_l DT NN
+used ed w_m NN VBN
+by w_s VBN IN
+this s w_m IN DT
+flight w_m DT NN
+
+
+I caps w_s PRP
+am w_s PRP VBP
+interested ed in w_l VBP JJ
+in w_s JJ IN
+a w_s IN DT
+flight w_m DT NN
+from w_m NN IN
+Cincinnati caps w_l IN NNP
+to w_s NNP TO
+Burbank caps w_l TO NNP
+the w_s NNP DT
+flight w_m DT NN
+should w_m NN MD
+be w_s MD VB
+American caps w_l VB NNP
+and w_s NNP CC
+leave w_m CC VB
+in w_s VB IN
+the w_s IN DT
+afternoon w_l DT NN
+I caps w_s NN PRP
+need ed w_m PRP VBP
+to w_s VBP TO
+know w_m TO VB
+the w_s VB DT
+aircraft w_l DT NN
+and w_s NN CC
+flight w_m CC NN
+number w_m NN NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Charlotte caps w_l TO NNP
+today w_m NNP NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Charlotte caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+leaving ing w_l NNP VBG
+today w_m VBG NN
+evening ing w_l NN NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+leaving ing w_l NNP VBG
+tomorrow w_l VBG NN
+evening ing w_l NN NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+do w_s NNS VBP
+you w_s VBP PRP
+have w_m PRP VB
+from w_m VB IN
+Ontario caps w_l IN NNP
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+travel w_m TO VB
+to w_s VB TO
+Westchester caps w_l TO NNP
+
+
+Do caps w_s VBP
+any w_s VBP DT
+flights s w_l DT NNS
+stop w_m NNS VB
+in w_s VB IN
+Chicago caps w_l IN NNP
+
+
+What caps w_m WDT
+meals s w_m WDT NNS
+are w_s NNS VBP
+served ed w_m VBP VBN
+on w_s VBN IN
+these w_m IN DT
+flights s w_l DT NNS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+do w_s NNS VBP
+you w_s VBP PRP
+have w_m PRP VB
+from w_m VB IN
+Burbank caps w_l IN NNP
+to w_s NNP TO
+to w_s TO TO
+Tacoma caps w_m TO NNP
+Washington caps w_l NNP NNP
+
+
+I caps w_s PRP
+would w_m PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+on w_s VB IN
+the w_s IN DT
+ninth w_m DT JJ
+of w_s JJ IN
+July ly caps w_m IN NNP
+
+
+Where caps w_m WRB
+do w_s WRB VBP
+these w_m VBP DT
+flights s w_l DT NNS
+stop w_m NNS VB
+
+
+How caps w_s WRB
+much w_m WRB RB
+is s w_s RB VBZ
+the w_s VBZ DT
+cost w_m DT NN
+of w_s NN IN
+the w_s IN DT
+round w_m DT JJ
+trip w_m JJ NN
+flight w_m NN NN
+on w_s NN IN
+Alaska caps w_m IN NNP
+
+
+How caps w_s WRB
+much w_m WRB RB
+is s w_s RB VBZ
+the w_s VBZ DT
+cost w_m DT NN
+of w_s NN IN
+the w_s IN DT
+round w_m DT JJ
+trip w_m JJ NN
+flight w_m NN NN
+on w_s NN IN
+United ed caps w_m IN NNP
+Airlines s caps w_l NNP NNP
+
+
+Please caps w_m UH
+list w_m UH VB
+all w_s VB DT
+details s de w_l DT NNS
+of w_s NNS IN
+the w_s IN DT
+A caps w_s DT NNP
+P caps w_s NNP NNP
+fifty w_m NNP CD
+seven w_m CD CD
+flight w_m CD NN
+
+
+Where caps w_m WRB
+does s w_m WRB VBZ
+this s w_m VBZ DT
+flight w_m DT NN
+stop w_m NN VB
+
+
+List caps w_m VB
+American caps w_l VB NNP
+Airlines s caps w_l NNP NNP
+flights s w_l NNP NNS
+from w_m NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+Newark caps w_m NNP NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+
+
+List caps w_m VB
+all w_s VB DT
+flights s w_l DT NNS
+between w_l NNS IN
+five w_m IN CD
+and w_s CD CC
+seven w_m CC CD
+p.m w_s CD RB
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+aircraft w_l DT NN
+type w_m NN NN
+for w_s NN IN
+the w_s IN DT
+American caps w_l DT NNP
+flight w_m NNP NN
+
+
+Okay caps w_m UH
+I caps w_s UH PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+make w_m TO VB
+a w_s VB DT
+reservation ion re w_l DT NN
+on w_s NN IN
+flight w_m IN NN
+six w_s NN CD
+oh w_s CD CD
+six w_s CD CD
+on w_s CD IN
+Delta caps w_m IN NNP
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+the w_s VB DT
+coach w_m DT NN
+discount w_l NN NN
+class s w_m NN NN
+
+
+The caps w_s DT
+eighth w_m DT JJ
+of w_s JJ IN
+July ly caps w_m IN NNP
+
+
+Do caps w_s VBP
+I caps w_s VBP PRP
+have w_m PRP VB
+a w_s VB DT
+reservation ion re w_l DT NN
+on w_s NN IN
+flight w_m IN NN
+six w_s NN CD
+oh w_s CD CD
+six w_s CD CD
+from w_m CD IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+July ly caps w_m NNP
+sixteenth w_l NNP JJ
+please w_m JJ UH
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+a w_s VB DT
+flight w_m DT NN
+tomorrow w_l NN NN
+from w_m NN IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+What caps w_m WDT
+type w_m WDT NN
+of w_s NN IN
+aircraft w_l IN NN
+is s w_s NN VBZ
+Alaska caps w_m VBZ NNP
+'s s w_s NNP POS
+flight w_m POS NN
+two w_s NN CD
+eighty w_m CD CD
+two w_s CD CD
+
+
+Thanks s caps w_m UH
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+a w_s VB DT
+flight w_m DT NN
+tomorrow w_l NN NN
+from w_m NN IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+with w_m NNP IN
+a w_s IN DT
+stopover w_l DT NN
+in w_s NN IN
+Nashville caps w_l IN NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+have w_m NNS VBP
+the w_s VBP DT
+longest w_l DT JJS
+layover w_l JJS NN
+in w_s NN IN
+Nashville caps w_l IN NNP
+
+
+Does s caps w_m VBZ
+this s w_m VBZ DT
+flight w_m DT NN
+serve w_m NN VB
+dinner w_m VB NN
+
+
+Is s caps w_s VBZ
+dinner w_m VBZ NN
+served ed w_m NN VBN
+on w_s VBN IN
+the w_s IN DT
+first w_m DT JJ
+leg w_s JJ NN
+or w_s NN CC
+the w_s CC DT
+second w_m DT JJ
+leg w_s JJ NN
+
+
+Is s caps w_s VBZ
+this s w_m VBZ DT
+flight w_m DT NN
+for w_s NN IN
+tomorrow w_l IN NN
+
+
+Is s caps w_s VBZ
+there w_m VBZ EX
+a w_s EX DT
+flight w_m DT NN
+tomorrow w_l NN NN
+morning ing w_l NN NN
+from w_m NN IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+to w_s TO TO
+Nashville caps w_l TO NNP
+
+
+Is s caps w_s VBZ
+there w_m VBZ EX
+a w_s EX DT
+flight w_m DT NN
+from w_m NN IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+in w_s NNP IN
+the w_s IN DT
+evening ing w_l DT NN
+tomorrow w_l NN NN
+
+
+Does s caps w_m VBZ
+American caps w_l VBZ NNP
+'s s w_s NNP POS
+flight w_m POS NN
+eighteen w_l NN CD
+twenty w_m CD CD
+five w_m CD CD
+serve w_m CD VB
+dinner w_m VB NN
+
+
+Does s caps w_m VBZ
+the w_s VBZ DT
+other w_m DT JJ
+American caps w_l JJ NNP
+flight w_m NNP NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+tomorrow w_l NNP NN
+evening ing w_l NN NN
+that w_m NN WDT
+serve w_m WDT VBP
+dinner w_m VBP NN
+
+
+Thanks s caps w_m UH
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+on w_s NNP IN
+the w_s IN DT
+first w_m DT JJ
+of w_s JJ IN
+July ly caps w_m IN NNP
+
+
+I caps w_s PRP
+prefer pre w_m PRP VBP
+a w_s VBP DT
+morning ing w_l DT NN
+flight w_m NN NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+the w_s NN DT
+next w_m DT JJ
+day w_s JJ NN
+from w_m NN IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Which caps w_m WDT
+are w_s WDT VBP
+the w_s VBP DT
+morning ing w_l DT NN
+flights s w_l NN NNS
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+back w_m VB RB
+to w_s RB TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+the w_s NNP DT
+next w_m DT JJ
+day w_s JJ NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+the w_s VBZ DT
+latest w_m DT JJS
+flight w_m JJS NN
+that w_m NN WDT
+Continental caps w_l WDT NNP
+has s w_s NNP VBZ
+
+
+Thanks s caps w_m UH
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+from w_m VB IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+next w_m VB JJ
+Friday caps w_m JJ NNP
+
+
+Which caps w_m WDT
+ones s w_m WDT NNS
+go w_s NNS VBP
+through w_l VBP IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+
+
+Does s caps w_m VBZ
+the w_s VBZ DT
+twelve w_m DT CD
+fourteen w_l CD CD
+flight w_m CD NN
+serve w_m NN VB
+lunch w_m VB NN
+
+
+Does s caps w_m VBZ
+the w_s VBZ DT
+ten w_s DT CD
+thirty w_m CD CD
+five w_m CD CD
+flight w_m CD NN
+serve w_m NN VB
+lunch w_m VB NN
+
+
+How caps w_s WRB
+about w_m WRB IN
+the w_s IN DT
+one w_s DT NN
+that w_m NN WDT
+leaves s w_m WDT VBZ
+at w_s VBZ IN
+ten w_s IN CD
+thirty w_m CD CD
+five w_m CD CD
+
+
+I caps w_s PRP
+meant w_m PRP VBD
+ten w_s VBD CD
+thirty w_m CD CD
+five w_m CD CD
+a.m w_s CD RB
+
+
+I caps w_s PRP
+'m w_s PRP VBP
+in w_s VBP IN
+Miami caps w_m IN NNP
+and w_s NNP CC
+I caps w_s CC PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+travel w_m TO VB
+to w_s VB TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+On caps w_s IN
+Monday caps w_m IN NNP
+I caps w_s NNP PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+travel w_m TO VB
+from w_m VB IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+to w_s NNP TO
+Detroit caps w_l TO NNP
+Michigan caps w_l NNP NNP
+
+
+Can caps w_s MD
+you w_s MD PRP
+list w_m PRP VB
+the w_s VB DT
+nonstop non w_l DT JJ
+afternoon w_l JJ NN
+flights s w_l NN NNS
+
+
+On caps w_s IN
+Tuesday caps w_l IN NNP
+I caps w_s NNP PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+from w_m VB IN
+Detroit caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Petersburg caps w_l NNP NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+those w_m IN DT
+are w_s DT VBP
+nonstop non w_l VBP JJ
+
+
+On caps w_s IN
+Thursday caps w_l IN NNP
+I caps w_s NNP PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+return re w_m TO VB
+home w_m VB RB
+to w_s RB TO
+Miami caps w_m TO NNP
+as s w_s NNP RB
+early ly w_m RB RB
+as s w_s RB IN
+possible w_l IN JJ
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+to w_s VB TO
+fly ly w_s TO VB
+from w_m VB IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+tomorrow w_l NNP NN
+morning ing w_l NN NN
+
+
+Can caps w_s MD
+you w_s MD PRP
+show w_m PRP VB
+me w_s VB PRP
+evening ing w_l PRP NN
+flights s w_l NN NNS
+from w_m NNS IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+that w_m NNP WDT
+serve w_m WDT VBP
+dinner w_m VBP NN
+
+
+Flight caps w_m NN
+from w_m NN IN
+Saint caps w_m IN NNP
+Petersburg caps w_l NNP NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+and w_s NNP CC
+also w_m CC RB
+flight w_m RB NN
+from w_m NN IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Tacoma caps w_m TO NNP
+stay w_m NNP NN
+in w_s NN IN
+Milwaukee caps w_l IN NNP
+direct w_m NNP JJ
+flight w_m JJ NN
+same w_m NN JJ
+airline w_l JJ NN
+
+
+Airline caps w_l NN
+and w_s NN CC
+flight w_m CC NN
+number w_m NN NN
+from w_m NN IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Minneapolis s caps w_l TO NNP
+
+
+Tomorrow caps w_l NN
+
+
+Flight caps w_m NN
+numbers s w_l NN NNS
+from w_m NNS IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Minneapolis s caps w_l TO NNP
+tomorrow w_l NNP NN
+
+
+Flight caps w_m NN
+numbers s w_l NN NNS
+from w_m NNS IN
+Minneapolis s caps w_l IN NNP
+to w_s NNP TO
+Long caps w_m TO NNP
+Beach caps w_m NNP NNP
+on w_s NNP IN
+June caps w_m IN NNP
+twenty w_m NNP CD
+six w_s CD CD
+
+
+Flight caps w_m NN
+from w_m NN IN
+Long caps w_m IN NNP
+Beach caps w_m NNP NNP
+to w_s NNP TO
+Columbus s caps w_l TO NNP
+on w_s NNP IN
+twenty w_m IN CD
+seventh w_l CD JJ
+
+
+I caps w_s PRP
+want w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Chicago caps w_l TO NNP
+
+
+I caps w_s PRP
+actually ly w_l PRP RB
+want w_m RB VBP
+to w_s VBP TO
+go w_s TO VB
+from w_m VB IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Chicago caps w_l TO NNP
+I caps w_s NNP PRP
+mean w_m PRP VBP
+Ontario caps w_l VBP NNP
+to w_s NNP TO
+Westchester caps w_l TO NNP
+via w_s NNP IN
+Chicago caps w_l IN NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+serves s w_m NNS VBZ
+dinner w_m VBZ NN
+
+
+I caps w_s PRP
+'d w_s PRP MD
+like w_m MD VB
+a w_s VB DT
+flight w_m DT NN
+on w_s NN IN
+American caps w_l IN NNP
+from w_m NNP IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+
+
+I caps w_s PRP
+plan w_m PRP VBP
+to w_s VBP TO
+leave w_m TO VB
+on w_s VB IN
+July ly caps w_m IN NNP
+first w_m NNP JJ
+around w_m JJ IN
+six w_s IN CD
+thirty w_m CD CD
+in w_s CD IN
+the w_s IN DT
+evening ing w_l DT NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+nonstop non w_l DT JJ
+flight w_m JJ NN
+from w_m NN IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+
+
+I caps w_s PRP
+want w_m PRP VBP
+to w_s VBP TO
+leave w_m TO VB
+Monday caps w_m VB NNP
+morning ing w_l NNP NN
+
+
+Now caps w_s RB
+I caps w_s RB PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+on w_s NN IN
+Tuesday caps w_l IN NNP
+from w_m NNP IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Detroit caps w_l TO NNP
+
+
+Which caps w_m WDT
+ones s w_m WDT NNS
+leave w_m NNS VBP
+in w_s VBP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+Which caps w_m WDT
+ones s w_m WDT NNS
+arrive w_m NNS VBP
+early ly w_m VBP RB
+in w_s RB IN
+the w_s IN DT
+day w_s DT NN
+
+
+I caps w_s PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Detroit caps w_l TO NNP
+leaving ing w_l NNP VBG
+Monday caps w_m VBG NNP
+evening ing w_l NNP NN
+
+
+What caps w_m WP
+about w_m WP IN
+Monday caps w_m IN NNP
+afternoon w_l NNP NN
+
+
+Now caps w_s RB
+I caps w_s RB PRP
+need ed w_m PRP VBP
+a w_s VBP DT
+flight w_m DT NN
+from w_m NN IN
+Detroit caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Diego caps w_m NNP NNP
+leaving ing w_l NNP VBG
+Tuesday caps w_l VBG NNP
+evening ing w_l NNP NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+have w_m NNS VBP
+dinner w_m VBP NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+these w_m PRP DT
+flights s w_l DT NNS
+that w_m NNS WDT
+serve w_m WDT VBP
+dinner w_m VBP NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+the w_s VBZ DT
+latest w_m DT JJS
+flight w_m JJS NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+serve w_m NNS VBP
+dinner w_m VBP NN
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+depart de w_m NNS VBP
+latest w_m VBP RBS
+
+
+Which caps w_m WDT
+of w_s WDT IN
+the w_s IN DT
+dinner w_m DT NN
+flights s w_l NN NNS
+depart de w_m NNS VBP
+last w_m VBP RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+dinner w_m DT NN
+flights s w_l NN NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+is s w_s DT VBZ
+last w_m VBZ JJ
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+dinner w_m DT NN
+flights s w_l NN NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+is s w_s DT VBZ
+last w_m VBZ JJ
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+is s w_s NNS VBZ
+last w_m VBZ JJ
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+serve w_m DT VBP
+dinner w_m VBP NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+last w_m VBZ JJ
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+are w_s DT VBP
+dinner w_m VBP NN
+flights s w_l NN NNS
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+are w_s DT VBP
+dinner w_m VBP NN
+flights s w_l NN NNS
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+serve w_m NNS VBP
+dinner w_m VBP NN
+
+
+Which caps w_m WDT
+of w_s WDT IN
+these w_m IN DT
+flights s w_l DT NNS
+leave w_m NNS VBP
+latest w_m VBP RBS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+latest w_m DT JJS
+dinner w_m JJS NN
+flight w_m NN NN
+from w_m NN IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Oakland caps w_l TO NNP
+please w_m NNP UH
+
+
+Which caps w_m WDT
+serve w_m WDT VBP
+dinner w_m VBP NN
+
+
+Which caps w_m WDT
+leaves s w_m WDT VBZ
+latest w_m VBZ RBS
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP PDT
+the w_s PDT DT
+fares s w_m DT NNS
+from w_m NNS IN
+one w_s IN CD
+way w_s CD NN
+fares s w_m NN NNS
+from w_m NNS IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+Are caps w_s VBP
+there w_m VBP EX
+any w_s EX DT
+other w_m DT JJ
+fares s w_m JJ NNS
+from w_m NNS IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+How caps w_s WRB
+many w_m WRB JJ
+fares s w_m JJ NNS
+are w_s NNS VBP
+there w_m VBP EX
+one w_s EX CD
+way w_s CD NN
+from w_m NN IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+How caps w_s WRB
+many w_m WRB JJ
+fares s w_m JJ NNS
+are w_s NNS VBP
+there w_m VBP EX
+one w_s EX CD
+way w_s CD NN
+from w_m NN IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+that w_m VBZ DT
+fare w_m DT NN
+
+
+Thank caps w_m VB
+you w_s VB PRP
+
+
+Please caps w_m UH
+list w_m UH VB
+the w_s VB DT
+earliest w_l DT JJS
+lunch w_m JJS NN
+flight w_m NN NN
+from w_m NN IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+
+
+Please caps w_m UH
+list w_m UH VB
+the w_s VB DT
+flights s w_l DT NNS
+from w_m NNS IN
+Charlotte caps w_l IN NNP
+to w_s NNP TO
+Long caps w_m TO NNP
+Beach caps w_m NNP NNP
+arriving ing w_l NNP VBG
+after w_m VBG IN
+lunch w_m IN NN
+time w_m NN NN
+
+
+What caps w_m WDT
+type w_m WDT NN
+of w_s NN IN
+aircraft w_l IN NN
+is s w_s NN VBZ
+it w_s VBZ PRP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+Which caps w_m WDT
+flights s w_l WDT NNS
+serve w_m NNS VBP
+breakfast w_l VBP NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+the w_s VBZ DT
+latest w_m DT JJS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Seattle caps w_l IN NNP
+to w_s NNP TO
+Boston caps w_m TO NNP
+via w_s NNP IN
+Minneapolis s caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+via w_s NNP IN
+Dallas s caps w_m IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+abbreviation ion w_l DT NN
+D caps w_s NN SYM
+ten w_s SYM CD
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Denver caps w_m IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Which caps w_m WDT
+are w_s WDT VBP
+nonstop non w_l VBP JJ
+
+
+Which caps w_m WDT
+make w_m WDT VBP
+at w_s VBP IN
+least w_m IN JJS
+one w_s JJS CD
+stop w_m CD NN
+
+
+I caps w_s PRP
+want w_m PRP VBP
+to w_s VBP TO
+fly ly w_s TO VB
+from w_m VB IN
+Denver caps w_m IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+with w_m NNP IN
+at w_s IN IN
+least w_m IN JJS
+one w_s JJS CD
+stop w_m CD NN
+
+
+What caps w_m WDT
+airline w_l WDT NN
+provides s w_l NN VBZ
+only ly w_m VBZ RB
+connecting ing w_l RB VBG
+flights s w_l VBG NNS
+between w_l NNS IN
+Denver caps w_m IN NNP
+and w_s NNP CC
+San caps w_s CC NNP
+Francisco caps w_l NNP NNP
+
+
+What caps w_m WDT
+type w_m WDT NN
+of w_s NN IN
+aircraft w_l IN NN
+is s w_s NN VBZ
+used ed w_m VBZ VBN
+on w_s VBN IN
+those w_m IN DT
+flights s w_l DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+earliest w_l DT JJS
+flight w_m JJS NN
+from w_m NN IN
+San caps w_s IN NNP
+Jose caps w_m NNP NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+that w_m NNP WDT
+serves s w_m WDT VBZ
+a w_s VBZ DT
+snack w_m DT NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+first w_m DT JJ
+flight w_m JJ NN
+that w_m NN WDT
+arrives s w_l WDT VBZ
+in w_s VBZ IN
+Toronto caps w_l IN NNP
+from w_m NNP IN
+Cincinnati caps w_l IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP PDT
+the w_s PDT DT
+flights s w_l DT NNS
+from w_m NNS IN
+Cincinnati caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Toronto caps w_l IN NNP
+to w_s NNP TO
+Cincinnati caps w_l TO NNP
+
+
+List caps w_m VB
+nonstop non w_l VB JJ
+flights s w_l JJ NNS
+from w_m NNS IN
+Burbank caps w_l IN NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+arriving ing w_l NNP VBG
+by w_s VBG IN
+six w_s IN CD
+p.m w_s CD RB
+
+
+What caps w_m WDT
+airlines s w_l WDT NNS
+fly ly w_s NNS VBP
+from w_m VBP IN
+Burbank caps w_l IN NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+
+
+Which caps w_m WDT
+flights s w_l WDT NNS
+depart de w_m NNS VBP
+Burbank caps w_l VBP NNP
+after w_m NNP IN
+noon w_m IN NN
+and w_s NN CC
+arrive w_m CC VBP
+in w_s VBP IN
+Denver caps w_m IN NNP
+by w_s NNP IN
+six w_s IN CD
+p.m w_s CD RB
+
+
+Which caps w_m WDT
+flights s w_l WDT NNS
+depart de w_m NNS VBP
+Burbank caps w_l VBP NNP
+between w_l NNP IN
+twelve w_m IN CD
+noon w_m CD NN
+and w_s NN CC
+six w_s CC CD
+p.m w_s CD RB
+
+
+List caps w_m VB
+all w_s VB DT
+flights s w_l DT NNS
+from w_m NNS IN
+Burbank caps w_l IN NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+lowest w_m DT JJS
+fare w_m JJS NN
+for w_s NN IN
+United ed caps w_m IN NNP
+Airlines s caps w_l NNP NNP
+flight w_m NNP NN
+four w_m NN CD
+thirty w_m CD CD
+
+
+Is s caps w_s VBZ
+this s w_m VBZ DT
+is s w_s DT VBZ
+this s w_m VBZ DT
+flight w_m DT NN
+nonstop non w_l NN JJ
+
+
+Is s caps w_s VBZ
+United ed caps w_m VBZ NNP
+Airlines s caps w_l NNP NNP
+flight w_m NNP NN
+four w_m NN CD
+thirty w_m CD CD
+a w_s CD DT
+nonstop non w_l DT JJ
+flight w_m JJ NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+round w_m DT JJ
+trip w_m JJ NN
+flights s w_l NN NNS
+between w_l NNS IN
+Phoenix caps w_l IN NNP
+and w_s NNP CC
+Salt caps w_m CC NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+earliest w_l DT JJS
+flight w_m JJS NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+latest w_m DT JJS
+flight w_m JJS NN
+from w_m NN IN
+Salt caps w_m IN NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+ground w_m DT NN
+transportation ion w_l NN NN
+available w_l NN JJ
+
+
+How caps w_s WRB
+many w_m WRB JJ
+stops s w_m JJ NNS
+are w_s NNS VBP
+there w_m VBP EX
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Salt caps w_m TO NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+Are caps w_s VBP
+there w_m VBP EX
+any w_s EX DT
+stopovers s w_l DT NNS
+for w_s NNS IN
+Delta caps w_m IN NNP
+one w_s NNP CD
+seven w_m CD CD
+three w_m CD CD
+nine w_m CD CD
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Salt caps w_m IN NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+
+
+Any caps w_s DT
+stopovers s w_l DT NNS
+for w_s NNS IN
+Delta caps w_m IN NNP
+seven w_m NNP CD
+fifty w_m CD CD
+one w_s CD CD
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+nonstop non w_l DT JJ
+nonstop non w_l JJ JJ
+flights s w_l JJ NNS
+from w_m NNS IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Louis s caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+leaving ing w_l NNS VBG
+after w_m VBG IN
+noon w_m IN NN
+and w_s NN CC
+arriving ing w_l CC VBG
+before w_m VBG IN
+six w_s IN CD
+thirty w_m CD CD
+
+
+Do caps w_s VBP
+any w_s VBP DT
+of w_s DT IN
+these w_m IN DT
+flights s w_l DT NNS
+have w_m NNS VB
+stops s w_m VB NNS
+
+
+Are caps w_s VBP
+these w_m VBP DT
+nonstop non w_l DT JJ
+flights s w_l JJ NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+M caps w_s VBZ SYM
+I caps w_s SYM SYM
+A caps w_s SYM SYM
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+arrive w_m NNS VBP
+in w_s VBP IN
+Milwaukee caps w_l IN NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+Phoenix caps w_l VBP NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+Phoenix caps w_l VBP NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+Phoenix caps w_l VBP NNP
+on w_s NNP IN
+Tuesday caps w_l IN NNP
+after w_m NNP IN
+nine w_m IN CD
+p.m w_s CD RB
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Phoenix caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Phoenix caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+anywhere w_l TO RB
+
+
+What caps w_m WP
+is s w_s WP VBZ
+B caps w_s VBZ SYM
+N caps w_s SYM SYM
+A caps w_s SYM SYM
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+leave w_m NNS VBP
+from w_m VBP IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+
+
+Is s caps w_s VBZ
+flight w_m VBZ NN
+W caps w_s NN NNP
+N caps w_s NNP NNP
+two w_s NNP CD
+zero w_m CD CD
+one w_s CD CD
+a w_s CD DT
+round w_m DT JJ
+trip w_m JJ NN
+flight w_m NN NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Charlotte caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Charlotte caps w_l IN NNP
+to w_s NNP TO
+Baltimore caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+How caps w_s WRB
+much w_m WRB RB
+do w_s RB VBP
+these w_m VBP DT
+flights s w_l DT NNS
+cost w_m NNS VB
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+from w_m VBP IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+are w_s NNS VBP
+there w_m VBP EX
+from w_m EX IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+from w_m NNS IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+from w_m NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+from w_m NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Leaving ing caps w_l VBG
+Sunday caps w_m VBG NNP
+after w_m NNP IN
+twelve w_m IN CD
+noon w_m CD NN
+
+
+Show caps w_m VB
+costs s w_m VB NNS
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+
+
+Show caps w_m VB
+cost w_m VB NN
+of w_s NN IN
+U caps w_s IN NNP
+S caps w_s NNP NNP
+Air caps w_s NNP NNP
+fifteen w_l NNP CD
+twenty w_m CD CD
+three w_m CD CD
+and w_s CD CC
+U caps w_s CC NNP
+S caps w_s NNP NNP
+Air caps w_s NNP NNP
+seven w_m NNP CD
+eight w_m CD CD
+one w_s CD CD
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+
+
+Arriving ing caps w_l VBG
+before w_m VBG IN
+four w_m IN CD
+p.m w_s CD RB
+
+
+Cost caps w_m NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+On caps w_s IN
+Tuesday caps w_l IN NNP
+arriving ing w_l NNP VBG
+before w_m VBG IN
+five w_m IN CD
+p.m w_s CD RB
+
+
+Last caps w_m JJ
+nonstop non w_l JJ JJ
+flight w_m JJ NN
+from w_m NN IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+on w_s NNP IN
+Monday caps w_m IN NNP
+night w_m NNP NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+Thursday caps w_l NNP NNP
+evening ing w_l NNP NN
+
+
+Flights s caps w_l NNS
+on w_s NNS IN
+Friday caps w_m IN NNP
+from w_m NNP IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+on w_s NNS IN
+Sunday caps w_m IN NNP
+from w_m NNP IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Charlotte caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Charlotte caps w_l IN NNP
+to w_s NNP TO
+Baltimore caps w_l TO NNP
+
+
+Wednesday caps w_l NNP
+from w_m NNP IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+on w_s NNP IN
+U caps w_s IN NNP
+S caps w_s NNP NNP
+Air caps w_s NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+in w_s NNP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+Earliest caps w_l JJS
+nonstop non w_l JJS NN
+
+
+Last caps w_m JJ
+nonstop non w_l JJ NN
+returning ing re w_l NN VBG
+
+
+Which caps w_m WDT
+airlines s w_l WDT NNS
+fly ly w_s NNS VBP
+between w_l VBP IN
+Baltimore caps w_l IN NNP
+and w_s NNP CC
+San caps w_s CC NNP
+Francisco caps w_l NNP NNP
+
+
+Which caps w_m WDT
+flights s w_l WDT NNS
+arrive w_m NNS VBP
+in w_s VBP IN
+San caps w_s IN NNP
+Francisco caps w_l NNP NNP
+at w_s NNP IN
+or w_s IN CC
+before w_m CC IN
+eight w_m IN CD
+p.m w_s CD RB
+on w_s RB IN
+Friday caps w_m IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+from w_m NNS IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+and w_s NNP CC
+from w_m CC IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+that w_m NNS WDT
+leave w_m WDT VBP
+in w_s VBP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+that w_m NNS WDT
+leave w_m WDT VBP
+in w_s VBP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flight w_m DT NN
+that w_m NN WDT
+leaves s w_m WDT VBZ
+first w_m VBZ RB
+
+
+Show caps w_m VB
+afternoon w_l VB NN
+flights s w_l NN NNS
+from w_m NNS IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+last w_m DT JJ
+flight w_m JJ NN
+to w_s NN TO
+leave w_m TO VB
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+between w_l NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+and w_s NNP CC
+Las s caps w_s CC NNP
+Vegas s caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+between w_l NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+and w_s NNP CC
+Las s caps w_s CC NNP
+Vegas s caps w_m NNP NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+between w_l NNS IN
+Memphis s caps w_l IN NNP
+Tennessee caps w_l NNP NNP
+and w_s NNP CC
+Las s caps w_s CC NNP
+Vegas s caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+between w_l NNS IN
+Memphis s caps w_l IN NNP
+and w_s NNP CC
+Las s caps w_s CC NNP
+Vegas s caps w_m NNP NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+Show caps w_m VB
+flights s w_l VB NNS
+arriving ing w_l NNS VBG
+in w_s VBG IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+from w_m NNP IN
+Memphis s caps w_l IN NNP
+and w_s NNP CC
+from w_m CC IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+that w_m NNP WDT
+are w_s WDT VBP
+less s w_m VBP RBR
+than w_m RBR IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+apart w_m NNS RB
+
+
+Flights s caps w_l NNS
+arriving ing w_l NNS VBG
+in w_s VBG IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+from w_m NNP IN
+Memphis s caps w_l IN NNP
+and w_s NNP CC
+New caps w_s CC NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+Change caps w_m VB
+Newark caps w_m VB NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+New caps w_s TO NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+Give caps w_m VB
+me w_s VB PRP
+Sunday caps w_m PRP NNP
+'s s w_s NNP POS
+flights s w_l POS NNS
+arriving ing w_l NNS VBG
+in w_s VBG IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+from w_m NNP IN
+Memphis s caps w_l IN NNP
+and w_s NNP CC
+New caps w_s CC NNP
+York caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+arriving ing w_l NNS VBG
+within w_m VBG IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+of w_s NNS IN
+each w_m IN DT
+other w_m DT JJ
+
+
+Only ly caps w_m RB
+show w_m RB VB
+me w_s VB PRP
+nonstop non w_l PRP JJ
+flights s w_l JJ NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+arriving ing w_l NNS VBG
+from w_m VBG IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+Memphis s caps w_l CC NNP
+less s w_m NNP RBR
+than w_m RBR IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+apart w_m NNS RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+arriving ing w_l NNS VBG
+from w_m VBG IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+Memphis s caps w_l CC NNP
+less s w_m NNP RBR
+than w_m RBR IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+apart w_m NNS RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+arriving ing w_l NNS VBG
+at w_s VBG IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+from w_m NNP IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+Memphis s caps w_l CC NNP
+less s w_m NNP RBR
+than w_m RBR IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+apart w_m NNS RB
+
+
+Flights s caps w_l NNS
+arriving ing w_l NNS VBG
+at w_s VBG IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+from w_m NNP IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+Memphis s caps w_l CC NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+Only ly caps w_m RB
+display w_l RB VB
+nonstop non w_l VB JJ
+flights s w_l JJ NNS
+
+
+Display caps w_l VB
+flights s w_l VB NNS
+arriving ing w_l NNS VBG
+within w_m VBG IN
+thirty w_m IN CD
+minutes s w_l CD NNS
+of w_s NNS IN
+each w_m IN DT
+other w_m DT JJ
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+from w_m NNS IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+on w_s NNP IN
+Monday caps w_m IN NNP
+evening ing w_l NNP NN
+
+
+Anytime caps w_l RB
+Monday caps w_m RB NNP
+
+
+Monday caps w_m NNP
+around w_m NNP IN
+noon w_m IN NN
+
+
+Monday caps w_m NNP
+around w_m NNP IN
+noon w_m IN NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+Thursday caps w_l NNP NNP
+evening ing w_l NNP NN
+
+
+Thursday caps w_l NNP
+afternoon w_l NNP NN
+
+
+Thursday caps w_l NNP
+after w_m NNP IN
+seventeen w_l IN CD
+hundred ed w_l CD CD
+hours s w_m CD NNS
+
+
+U caps w_s NNP
+S caps w_s NNP NNP
+Air caps w_s NNP NNP
+next w_m NNP JJ
+Wednesday caps w_l JJ NNP
+from w_m NNP IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+first w_m PRP JJ
+class s w_m JJ NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fare w_m DT NN
+
+
+Show caps w_m VB
+all w_s VB DT
+fares s w_m DT NNS
+
+
+Next caps w_m JJ
+Sunday caps w_m JJ NNP
+flights s w_l NNP NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+after w_m NNP IN
+twelve w_m IN CD
+hundred ed w_l CD CD
+hours s w_m CD NNS
+
+
+Flights s caps w_l NNS
+after w_m NNS IN
+twelve w_m IN CD
+hundred ed w_l CD CD
+hours s w_m CD NNS
+
+
+Show caps w_m VB
+the w_s VB DT
+fares s w_m DT NNS
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+depart de w_m NNS VBP
+Newark caps w_m VBP NNP
+for w_s NNP IN
+Tampa caps w_m IN NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Charlotte caps w_l TO NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Charlotte caps w_l IN NNP
+to w_s NNP TO
+Baltimore caps w_l TO NNP
+in w_s NNP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+Tuesday caps w_l NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+go w_s NNS VBP
+from w_m VBP IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+Wednesday caps w_l NNP NNP
+morning ing w_l NNP NN
+
+
+What caps w_m WP
+'s s w_s WP VBZ
+the w_s VBZ DT
+earliest w_l DT JJS
+flight w_m JJS NN
+from w_m NN IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+
+
+What caps w_m WP
+'s s w_s WP VBZ
+the w_s VBZ DT
+latest w_m DT JJS
+flight w_m JJS NN
+from w_m NN IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+
+
+From caps w_m IN
+Baltimore caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Friday caps w_m NNP
+night w_m NNP NN
+
+
+Friday caps w_m NNP
+afternoon w_l NNP NN
+
+
+Early ly caps w_m JJ
+morning ing w_l JJ NN
+flights s w_l NN NNS
+between w_l NNS IN
+Cincinnati caps w_l IN NNP
+and w_s NNP CC
+Tampa caps w_m CC NNP
+
+
+Morning ing caps w_l NN
+flights s w_l NN NNS
+
+
+Shortest caps w_l JJS
+morning ing w_l JJS NN
+flights s w_l NN NNS
+from w_m NNS IN
+Cincinnati caps w_l IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+Shortest caps w_l JJS
+evening ing w_l JJS NN
+flight w_m NN NN
+from w_m NN IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Cincinnati caps w_l TO NNP
+
+
+From caps w_m IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+From caps w_m IN
+Toronto caps w_l IN NNP
+to w_s NNP TO
+Atlanta caps w_l TO NNP
+in w_s NNP IN
+the w_s IN DT
+afternoon w_l DT NN
+
+
+From caps w_m IN
+Toronto caps w_l IN NNP
+to w_s NNP TO
+Atlanta caps w_l TO NNP
+in w_s NNP IN
+the w_s IN DT
+afternoon w_l DT NN
+
+
+From caps w_m IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+From caps w_m IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Washington caps w_l TO NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+
+
+Leaving ing caps w_l VBG
+next w_m VBG JJ
+day w_s JJ NN
+in w_s NN IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+From caps w_m IN
+Washington caps w_l IN NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+to w_s NNP TO
+Philadelphia caps w_l TO NNP
+departing ing de w_l NNP VBG
+in w_s VBG IN
+the w_s IN DT
+afternoon w_l DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Chicago caps w_l IN NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+in w_s NNP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Chicago caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+in w_s NNP IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+after w_m NNP IN
+eight w_m IN CD
+forty w_m CD CD
+five w_m CD CD
+in w_s CD IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+after w_m NNP IN
+eight w_m IN CD
+forty w_m CD CD
+five w_m CD CD
+in w_s CD IN
+the w_s IN DT
+morning ing w_l DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Denver caps w_m IN NNP
+to w_s NNP TO
+Salt caps w_m TO NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Salt caps w_m IN NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Diego caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Chicago caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+Atlanta caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Washington caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Washington caps w_l IN NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Washington caps w_l IN NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+to w_s NNP TO
+Toronto caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Atlanta caps w_l IN NNP
+to w_s NNP TO
+Washington caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Toronto caps w_l IN NNP
+to w_s NNP TO
+Philadelphia caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+in w_s NNP IN
+the w_s IN DT
+evening ing w_l DT NN
+on w_s NN IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Houston caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Jose caps w_m NNP NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+on w_s NNP IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Jose caps w_m NNP NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+on w_s NNP IN
+Friday caps w_m IN NNP
+afternoon w_l NNP NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+Houston caps w_l TO NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+Are caps w_s VBP
+any w_s VBP DT
+of w_s DT IN
+those w_m IN DT
+on w_s DT IN
+American caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+of w_s NN IN
+flights s w_l IN NNS
+from w_m NNS IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Memphis s caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Memphis s caps w_l TO NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+Indianapolis s caps w_l TO NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+Indianapolis s caps w_l TO NNP
+on w_s NNP IN
+Sunday caps w_m IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Montreal caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Phoenix caps w_l IN NNP
+to w_s NNP TO
+Las s caps w_s TO NNP
+Vegas s caps w_m NNP NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+to w_s NNP TO
+Montreal caps w_l TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+to w_s NNP TO
+Phoenix caps w_l TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Orlando caps w_l IN NNP
+to w_s NNP TO
+Tacoma caps w_m TO NNP
+on w_s NNP IN
+Saturday caps w_l IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+airlines s w_l WDT NNS
+from w_m NNS IN
+Washington caps w_l IN NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+to w_s NNP TO
+Columbus s caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+have w_m NNS VBP
+meals s w_m VBP NNS
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Detroit caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Petersburg caps w_l NNP NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+restrictions s re w_l WDT NNS
+on w_s NNS IN
+fare w_m IN NN
+code w_m NN NN
+H caps w_s NN SYM
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+on w_s NNP IN
+Monday caps w_m IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Los s caps w_s TO NNP
+Angeles s caps w_l NNP NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+of w_s NN IN
+flight w_m IN NN
+U caps w_s NN NNP
+A caps w_s NNP NNP
+nine w_m NNP CD
+seven w_m CD CD
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+of w_s NN IN
+United ed caps w_m IN NNP
+Airlines s caps w_l NNP NNP
+flight w_m NNP NN
+nine w_m NN CD
+seven w_m CD CD
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+to w_s NNP TO
+Minneapolis s caps w_l TO NNP
+
+
+On caps w_s IN
+Thursday caps w_l IN NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Minneapolis s caps w_l IN NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+On caps w_s IN
+Friday caps w_m IN NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+price w_m DT NN
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Cincinnati caps w_l IN NNP
+to w_s NNP TO
+Tampa caps w_m TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Tampa caps w_m IN NNP
+to w_s NNP TO
+Cincinnati caps w_l TO NNP
+
+
+What caps w_m WDT
+flights s w_l WDT NNS
+from w_m NNS IN
+Seattle caps w_l IN NNP
+to w_s NNP TO
+Salt caps w_m TO NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+seating ing w_l DT NN
+capacity w_l NN NN
+
+
+What caps w_m WP
+'re w_s WP VBP
+the w_s VBP DT
+flights s w_l DT NNS
+
+
+What caps w_m WDT
+kind w_m WDT NN
+of w_s NN IN
+airplane w_l IN NN
+do w_s NN VBP
+they w_m VBP PRP
+use w_s PRP VB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+on w_s NNP IN
+Monday caps w_m IN NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+before w_m NNP IN
+five w_m IN CD
+p.m w_s CD RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+on w_s NNP IN
+Wednesday caps w_l IN NNP
+arriving ing w_l NNP VBG
+before w_m VBG IN
+five w_m IN CD
+p.m w_s CD RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+departing ing de w_l NNP VBG
+after w_m VBG IN
+noon w_m IN NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Price caps w_m NN
+of w_s NN IN
+round w_m IN JJ
+trip w_m JJ NN
+flight w_m NN NN
+from w_m NN IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+
+
+Price caps w_m NN
+from w_m NN IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+round w_m NNP JJ
+trip w_m JJ NN
+
+
+Price caps w_m NN
+of w_s NN IN
+flight w_m IN NN
+W caps w_s NN NNP
+N caps w_s NNP NNP
+one w_s NNP CD
+four w_m CD CD
+five w_m CD CD
+five w_m CD CD
+
+
+Price caps w_m NN
+from w_m NN IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Kansas s caps w_m TO NNP
+City caps w_m NNP NNP
+round w_m NNP JJ
+trip w_m JJ NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Kansas s caps w_m IN NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+and w_s NNP CC
+price w_m CC NN
+
+
+Flight caps w_m NN
+from w_m NN IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+
+
+Flight caps w_m NN
+from w_m NN IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Price caps w_m NN
+of w_s NN IN
+flight w_m IN NN
+A caps w_s NN NNP
+A caps w_s NNP NNP
+one w_s NNP CD
+thousand w_l CD CD
+three w_m CD CD
+hundred ed w_l CD CD
+nineteen w_l CD CD
+
+
+Price caps w_m NN
+of w_s NN IN
+flight w_m IN NN
+A caps w_s NN NNP
+A caps w_s NNP NNP
+one w_s NNP CD
+three w_m CD CD
+one w_s CD CD
+nine w_m CD CD
+
+
+Price caps w_m NN
+of w_s NN IN
+flight w_m IN NN
+from w_m NN IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+
+
+Price caps w_m NN
+of w_s NN IN
+flight w_m IN NN
+from w_m NN IN
+Nashville caps w_l IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Shortest caps w_l JJS
+flight w_m JJS NN
+from w_m NN IN
+Ontario caps w_l IN NNP
+California caps w_l NNP NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+Florida caps w_l NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Florida caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Flight caps w_m NN
+from w_m NN IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+that w_m NNP WDT
+departs s de w_l WDT VBZ
+nine w_m VBZ CD
+hours s w_m CD NNS
+before w_m NNS IN
+arriving ing w_l IN VBG
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+First caps w_m JJ
+class s w_m JJ NN
+from w_m NN IN
+Detroit caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Petersburg caps w_l NNP NNP
+
+
+Cheapest caps w_l JJS
+round w_m JJS JJ
+trip w_m JJ NN
+airfare w_l NN NN
+from w_m NN IN
+Detroit caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Petersburg caps w_l NNP NNP
+
+
+Cheapest caps w_l JJS
+round w_m JJS JJ
+trip w_m JJ NN
+airfare w_l NN NN
+from w_m NN IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Cheapest caps w_l JJS
+airfare w_l JJS NN
+from w_m NN IN
+Tacoma caps w_m IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Cheapest caps w_l JJS
+airfare w_l JJS NN
+from w_m NN IN
+Orlando caps w_l IN NNP
+to w_s NNP TO
+Tacoma caps w_m TO NNP
+
+
+First caps w_m JJ
+class s w_m JJ NN
+round w_m NN JJ
+trip w_m JJ NN
+airfare w_l NN NN
+from w_m NN IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Memphis s caps w_l TO NNP
+
+
+First caps w_m JJ
+class s w_m JJ NN
+round w_m NN JJ
+trip w_m JJ NN
+airfare w_l NN NN
+from w_m NN IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Memphis s caps w_l TO NNP
+
+
+Cheapest caps w_l JJS
+flight w_m JJS NN
+from w_m NN IN
+Indianapolis s caps w_l IN NNP
+to w_s NNP TO
+Memphis s caps w_l TO NNP
+
+
+Cheapest caps w_l JJS
+flight w_m JJS NN
+from w_m NN IN
+Memphis s caps w_l IN NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+
+
+Cheapest caps w_l JJS
+flight w_m JJS NN
+from w_m NN IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+Indianapolis s caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Boston caps w_m IN NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Boston caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Boston caps w_m IN NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Boston caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Boston caps w_m IN NNP
+to w_s NNP TO
+Pittsburgh caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Pittsburgh caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+Hi caps w_s UH
+could w_m UH MD
+I caps w_s MD PRP
+get w_s PRP VB
+a w_s VB DT
+one w_s DT CD
+way w_s CD NN
+ticket w_m NN NN
+from w_m NN IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+those w_m IN DT
+leaves s w_m DT VBZ
+either w_m VBZ CC
+Wednesday caps w_l CC NNP
+or w_s NNP CC
+Thursday caps w_l CC NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+those w_m IN DT
+depart de w_m DT VBP
+Wednesday caps w_l VBP NNP
+
+
+What caps w_m WP
+about w_m WP IN
+after w_m IN IN
+seven w_m IN CD
+p.m w_s CD RB
+
+
+Okay caps w_m UH
+cancel w_m UH VB
+Wednesday caps w_l VB NNP
+what w_m NNP WP
+about w_m WP IN
+Thursday caps w_l IN NNP
+
+
+Any caps w_s DT
+of w_s DT IN
+those w_m IN DT
+leaving ing w_l DT VBG
+on w_s VBG IN
+Thursday caps w_l IN NNP
+
+
+Which caps w_m WDT
+of w_s WDT IN
+those w_m IN DT
+leave w_m DT VBP
+before w_m VBP IN
+eight w_m IN CD
+a.m w_s CD RB
+
+
+What caps w_m WP
+'s s w_s WP VBZ
+the w_s VBZ DT
+cheapest w_l DT JJS
+
+
+What caps w_m WP
+does s w_m WP VBZ
+that w_m VBZ DT
+mean w_m DT NN
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+better w_m VBZ JJR
+
+
+Which caps w_m WDT
+is s w_s WDT VBZ
+better w_m VBZ JJR
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Long caps w_m IN NNP
+Beach caps w_m NNP NNP
+to w_s NNP TO
+Nashville caps w_l TO NNP
+
+
+Traveling ing caps w_l VBG
+first w_m VBG JJ
+class s w_m JJ NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Westchester caps w_l IN NNP
+County caps w_m NNP NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Paul caps w_m NNP NNP
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+New caps w_s NNP NNP
+Jersey caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+Ohio caps w_m NNP NNP
+
+
+Round caps w_m JJ
+trip w_m JJ NN
+flights s w_l NN NNS
+
+
+Restriction ion caps w_l NN
+code w_m NN NN
+A caps w_s NN SYM
+P caps w_s SYM SYM
+slash w_m SYM SYM
+five w_m SYM CD
+seven w_m CD CD
+
+
+Round caps w_m JJ
+trip w_m JJ NN
+flights s w_l NN NNS
+without w_l NNS IN
+restriction ion re w_l IN NN
+code w_m NN NN
+A caps w_s NN SYM
+P caps w_s SYM SYM
+slash w_m SYM SYM
+five w_m SYM CD
+seven w_m CD CD
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+New caps w_s NNP NNP
+Jersey caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+Ohio caps w_m NNP NNP
+
+
+No caps w_s DT
+stopovers s w_l DT NNS
+
+
+Flight caps w_m NN
+number w_m NN NN
+C caps w_s NN NNP
+O caps w_s NNP NNP
+one w_s NNP CD
+seven w_m CD CD
+one w_s CD CD
+nine w_m CD CD
+
+
+Return caps w_m NN
+flight w_m NN NN
+number w_m NN NN
+
+
+All caps w_s DT
+flights s w_l DT NNS
+from w_m NNS IN
+Cleveland caps w_l IN NNP
+to w_s NNP TO
+Newark caps w_m TO NNP
+
+
+Nonstop caps w_l JJ
+
+
+Zero caps w_m CD
+stops s w_m CD NNS
+
+
+Direct caps w_m JJ
+flights s w_l JJ NNS
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+to w_s NNP TO
+Miami caps w_m TO NNP
+
+
+First caps w_m JJ
+class s w_m JJ NN
+fare w_m NN NN
+
+
+Show caps w_m VB
+business s w_l VB NN
+class s w_m NN NN
+fares s w_m NN NNS
+
+
+Show caps w_m VB
+all w_s VB DT
+flights s w_l DT NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+J caps w_s TO NNP
+F caps w_s NNP NNP
+K caps w_s NNP NNP
+
+
+All caps w_s DT
+flights s w_l DT NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+New caps w_s TO NNP
+York caps w_m NNP NNP
+
+
+Show caps w_m VB
+business s w_l VB NN
+class s w_m NN NN
+fares s w_m NN NNS
+
+
+What caps w_m WP
+is s w_s WP VBZ
+airline w_l VBZ NN
+F caps w_s NN NNP
+F caps w_s NNP NNP
+
+
+All caps w_s DT
+flights s w_l DT NNS
+from w_m NNS IN
+Miami caps w_m IN NNP
+to w_s NNP TO
+New caps w_s TO NNP
+York caps w_m NNP NNP
+
+
+Business s caps w_l NN
+class s w_m NN NN
+fares s w_m NN NNS
+
+
+Flights s caps w_l NNS
+between w_l NNS IN
+Tampa caps w_m IN NNP
+and w_s NNP CC
+Saint caps w_m CC NNP
+Louis s caps w_m NNP NNP
+
+
+Departing ing caps w_l VBG
+before w_m VBG IN
+ten w_s IN CD
+a.m w_s CD RB
+
+
+First caps w_m JJ
+class s w_m JJ NN
+
+
+Flights s caps w_l NNS
+between w_l NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+and w_s NNP CC
+San caps w_s CC NNP
+Jose caps w_m NNP NNP
+
+
+Arrival caps w_l NNP
+in w_s NNP IN
+San caps w_s IN NNP
+Jose caps w_m NNP NNP
+before w_m NNP IN
+seven w_m IN CD
+p.m w_s CD RB
+
+
+With caps w_m IN
+the w_s IN DT
+least w_m DT RBS
+expensive w_l RBS JJ
+fare w_m JJ NN
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+one w_s NN CD
+way w_s CD NN
+
+
+Cheapest caps w_l JJS
+round w_m JJS JJ
+trip w_m JJ NN
+fare w_m NN NN
+
+
+Round caps w_m JJ
+trip w_m JJ NN
+flights s w_l NN NNS
+between w_l NNS IN
+Houston caps w_l IN NNP
+and w_s NNP CC
+Las s caps w_s CC NNP
+Vegas s caps w_m NNP NNP
+
+
+Nonstop caps w_l JJ
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+
+
+Return caps w_m NN
+flight w_m NN NN
+
+
+Nonstop caps w_l JJ
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+round w_m NN JJ
+trip w_m JJ NN
+
+
+Ground caps w_m NN
+transportation ion w_l NN NN
+
+
+Ground caps w_m NN
+transportation ion w_l NN NN
+in w_s NN IN
+Las s caps w_s IN NNP
+Vegas s caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+between w_l NNS IN
+Milwaukee caps w_l IN NNP
+and w_s NNP CC
+Orlando caps w_l CC NNP
+one w_s NNP CD
+way w_s CD NN
+
+
+Leaving ing caps w_l VBG
+after w_m VBG IN
+six w_s IN CD
+p.m w_s CD RB
+on w_s RB IN
+Wednesdays s caps w_l IN NNPS
+
+
+With caps w_m IN
+round w_m IN JJ
+trip w_m JJ NN
+fares s w_m NN NNS
+
+
+Cheapest caps w_l JJS
+fare w_m JJS NN
+
+
+Departing ing caps w_l VBG
+after w_m VBG IN
+six w_s IN CD
+p.m w_s CD RB
+
+
+Departing ing caps w_l VBG
+after w_m VBG IN
+five w_m IN CD
+p.m w_s CD RB
+
+
+Leaving ing caps w_l VBG
+on w_s VBG IN
+Thursday caps w_l IN NNP
+morning ing w_l NNP NN
+after w_m NN IN
+ten w_s IN CD
+a.m w_s CD RB
+
+
+After caps w_m IN
+ten w_s IN CD
+a.m w_s CD RB
+
+
+Lowest caps w_m JJS
+round w_m JJS JJ
+trip w_m JJ NN
+fare w_m NN NN
+
+
+Return caps w_m NN
+flight w_m NN NN
+numbers s w_l NN NNS
+
+
+Departure caps w_l NN
+on w_s NN IN
+Saturday caps w_l IN NNP
+with w_m NNP IN
+lowest w_m IN JJS
+fare w_m JJS NN
+round w_m NN JJ
+trip w_m JJ NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+one w_s PRP CD
+way w_s CD NN
+flights s w_l NN NNS
+from w_m NNS IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+leaving ing w_l NNP VBG
+on w_s VBG IN
+Wednesday caps w_l IN NNP
+morning ing w_l NNP NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+one w_s PRP CD
+way w_s CD NN
+flights s w_l NN NNS
+from w_m NNS IN
+Milwaukee caps w_l IN NNP
+to w_s NNP TO
+Orlando caps w_l TO NNP
+
+
+Cheapest caps w_l JJS
+
+
+Departing ing caps w_l VBG
+Wednesday caps w_l VBG NNP
+after w_m NNP IN
+five w_m IN CD
+o'clock w_l CD RB
+
+
+On caps w_s IN
+Wednesdays s caps w_l IN NNP
+after w_m NNP IN
+five w_m IN CD
+p.m w_s CD RB
+
+
+Departing ing caps w_l VBG
+on w_s VBG IN
+Wednesdays s caps w_l IN NNS
+after w_m NNS IN
+five w_m IN CD
+o'clock w_l CD RB
+p.m w_s RB RB
+
+
+Departing ing caps w_l VBG
+Thursday caps w_l VBG NNP
+mornings s w_l NNP NNS
+before w_m NNS IN
+nine w_m IN CD
+o'clock w_l CD RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+flights s w_l PRP NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Francisco caps w_l NNP NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+on w_s NNP IN
+weekdays s w_l IN NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+ground w_m PRP NN
+transportation ion w_l NN NN
+in w_s NN IN
+Denver caps w_m IN NNP
+during ing w_m NNP IN
+weekdays s w_l IN NNS
+
+
+Weekday caps w_l NN
+flights s w_l NN NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Francisco caps w_l NNP NNP
+to w_s NNP TO
+Denver caps w_m TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Denver caps w_m IN NNP
+to w_s NNP TO
+Westchester caps w_l TO NNP
+County caps w_m NNP NNP
+New caps w_s NNP NNP
+York caps w_m NNP NNP
+weekdays s w_l NNP NNS
+
+
+Denver caps w_m NNP
+to w_s NNP TO
+Westchester caps w_l TO NNP
+County caps w_m NNP NNP
+
+
+Ground caps w_m NN
+transportation ion w_l NN NN
+in w_s NN IN
+Westchester caps w_l IN NNP
+County caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+ground w_m PRP NN
+transportation ion w_l NN NN
+in w_s NN IN
+Westchester caps w_l IN NNP
+County caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Westchester caps w_l IN NNP
+County caps w_m NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+daily ly w_m NNP RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+daily ly w_m NNP RB
+five w_m RB CD
+o'clock w_l CD RB
+p.m w_s RB RB
+
+
+Daily ly caps w_m JJ
+flights s w_l JJ NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+departing ing de w_l NNP VBG
+five w_m VBG CD
+o'clock w_l CD RB
+p.m w_s RB RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+five w_m NNP CD
+o'clock w_l CD RB
+p.m w_s RB RB
+daily ly w_m RB RB
+
+
+Newark caps w_m NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+daily ly w_m NNP RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+daily ly w_m NNP RB
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Newark caps w_m IN NNP
+New caps w_s NNP NNP
+Jersey caps w_m NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Newark caps w_m NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Newark caps w_m NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Newark caps w_m NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Airports s caps w_l NNS
+in w_s NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+J caps w_s IN NNP
+F caps w_s NNP NNP
+K caps w_s NNP NNP
+or w_s NNP CC
+La caps w_s CC NNP
+Guardia caps w_l NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+La caps w_s IN NNP
+Guardia caps w_l NNP NNP
+to w_s NNP TO
+J caps w_s TO NNP
+F caps w_s NNP NNP
+K caps w_s NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+La caps w_s IN NNP
+Guardia caps w_l NNP NNP
+or w_s NNP CC
+J caps w_s CC NNP
+F caps w_s NNP NNP
+K caps w_s NNP NNP
+to w_s NNP TO
+Cleveland caps w_l TO NNP
+
+
+Airports s caps w_l NNS
+in w_s NNS IN
+New caps w_s IN NNP
+York caps w_m NNP NNP
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Milwaukee caps w_l TO NNP
+
+
+Coach caps w_m NN
+class s w_m NN NN
+
+
+Airline caps w_l NN
+is s w_s NN VBZ
+T caps w_s VBZ NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+
+
+Airline caps w_l NNP
+T caps w_s NNP NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+
+
+Flights s caps w_l NNS
+on w_s NNS IN
+T caps w_s IN NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+
+
+Flights s caps w_l NNS
+on w_s NNS IN
+T caps w_s IN NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+from w_m NNP IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Louis s caps w_m NNP NNP
+
+
+Coach caps w_m NN
+class s w_m NN NN
+
+
+Coach caps w_m NN
+class s w_m NN NN
+flights s w_l NN NNS
+on w_s NNS IN
+T caps w_s IN NNP
+W caps w_s NNP NNP
+A caps w_s NNP NNP
+from w_m NNP IN
+Columbus s caps w_l IN NNP
+to w_s NNP TO
+Saint caps w_m TO NNP
+Paul caps w_m NNP NNP
+
+
+All caps w_s DT
+flights s w_l DT NNS
+from w_m NNS IN
+Montreal caps w_l IN NNP
+less s w_m NNP JJR
+than w_m JJR IN
+one w_s IN CD
+hundred ed w_l CD CD
+fifty w_m CD CD
+dollars s w_l CD NNS
+
+
+Flights s caps w_l NNS
+from w_m NNS IN
+Montreal caps w_l IN NNP
+
+
+Fares s caps w_m NNS
+of w_s NNS IN
+one w_s IN CD
+hundred ed w_l CD CD
+fifty w_m CD CD
+dollars s w_l CD NNS
+or w_s NNS CC
+less s w_m CC JJR
+
+
+Fares s caps w_m NNS
+less s w_m NNS JJR
+than w_m JJR IN
+one w_s IN CD
+hundred ed w_l CD CD
+fifty w_m CD CD
+one w_s CD CD
+dollars s w_l CD NNS
+
+
+With caps w_m IN
+fares s w_m IN NNS
+of w_s NNS IN
+no w_s IN RB
+more w_m RB JJR
+than w_m JJR IN
+one w_s IN CD
+hundred ed w_l CD CD
+fifty w_m CD CD
+dollars s w_l CD NNS
+
+
+Fares s caps w_m NNS
+
+
+Show caps w_m VB
+the w_s VB DT
+fares s w_m DT NNS
+
+
+Cheapest caps w_l JJS
+flights s w_l JJS NNS
+
+
+What caps w_m WP
+are w_s WP VBP
+the w_s VBP DT
+cheapest w_l DT JJS
+fares s w_m JJS NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Ontario caps w_l IN NNP
+to w_s NNP TO
+Tacoma caps w_m TO NNP
+one w_s NNP CD
+way w_s CD NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+that w_m NNS WDT
+depart de w_m WDT VBP
+before w_m VBP IN
+ten w_s IN CD
+a.m w_s CD RB
+and w_s RB CC
+have w_m CC VBP
+first w_m VBP JJ
+class s w_m JJ NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+that w_m NNS WDT
+depart de w_m WDT VBP
+before w_m VBP IN
+ten w_s IN CD
+a.m w_s CD RB
+and w_s RB CC
+have w_m CC VBP
+first w_m VBP JJ
+class s w_m JJ NN
+fares s w_m NN NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Minneapolis s caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Diego caps w_m NNP NNP
+that w_m NNP WDT
+arrive w_m WDT VBP
+before w_m VBP IN
+seven w_m IN CD
+p.m w_s CD RB
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+cheapest w_l DT JJS
+round w_m JJS JJ
+trip w_m JJ NN
+fares s w_m NN NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+nonstop non w_l DT JJ
+flights s w_l JJ NNS
+from w_m NNS IN
+Salt caps w_m IN NNP
+Lake caps w_m NNP NNP
+City caps w_m NNP NNP
+to w_s NNP TO
+Cincinnati caps w_l TO NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+return re w_m DT NN
+trips s w_m NN NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+with w_m NNP IN
+one w_s IN CD
+stop w_m CD NN
+in w_s NN IN
+Dallas s caps w_m IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Philadelphia caps w_l IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+with w_m NNP IN
+one w_s IN CD
+stop w_m CD NN
+in w_s NN IN
+Dallas s caps w_m IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fare w_m DT NN
+from w_m NN IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fare w_m DT NN
+from w_m NN IN
+San caps w_s IN NNP
+Francisco caps w_l NNP NNP
+to w_s NNP TO
+oh w_s TO UH
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+from w_m NNS IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Francisco caps w_l NNP NNP
+to w_s NNP TO
+Dallas s caps w_m TO NNP
+oops s w_m NNP UH
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fares s w_m DT NNS
+from w_m NNS IN
+Dallas s caps w_m IN NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+all w_s PRP DT
+flights s w_l DT NNS
+on w_s NNS IN
+Southwest caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+from w_m NNP IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+What caps w_m WP
+is s w_s WP VBZ
+the w_s VBZ DT
+ground w_m DT NN
+transportation ion w_l NN NN
+in w_s NN IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+fare w_m DT NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+meals s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+meals s w_m DT NNS
+on w_s NNS IN
+Southwest caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+Southwest caps w_l DT NNP
+Airlines s caps w_l NNP NNP
+flights s w_l NNP NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+only ly w_m PRP RB
+the w_s RB DT
+Southwest caps w_l DT NNP
+Airlines s caps w_l NNP NNP
+flights s w_l NNP NNS
+
+
+Do caps w_s VBP
+not w_s VBP RB
+show w_m RB VB
+me w_s VB PRP
+the w_s PRP DT
+U caps w_s DT NNP
+S caps w_s NNP NNP
+Air caps w_s NNP NNP
+flights s w_l NNP NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+Southwest caps w_l DT NNP
+Airlines s caps w_l NNP NNP
+flights s w_l NNP NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Francisco caps w_l NNP NNP
+on w_s NNP IN
+Southwest caps w_l IN NNP
+Airlines s caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+San caps w_s IN NNP
+Diego caps w_m NNP NNP
+to w_s NNP TO
+Washington caps w_l TO NNP
+D caps w_s NNP NNP
+C caps w_s NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+United ed caps w_m DT NNP
+Airlines s caps w_l NNP NNP
+flight w_m NNP NN
+into in w_m NN IN
+Dulles s caps w_m IN NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+return re w_m DT NN
+flights s w_l NN NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+stops s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+from w_m NNS IN
+Dulles s caps w_m IN NNP
+International caps w_l NNP NNP
+to w_s NNP TO
+San caps w_s TO NNP
+Diego caps w_m NNP NNP
+with w_m NNP IN
+one w_s IN CD
+stop w_m CD NN
+in w_s NN IN
+Los s caps w_s IN NNP
+Angeles s caps w_l NNP NNP
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+meals s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+cheapest w_l DT JJS
+fare w_m JJS NN
+that w_m NN WDT
+has s w_s WDT VBZ
+lunch w_m VBZ NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+meal w_m DT NN
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+stops s w_m DT NNS
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+restrictions s re w_l DT NNS
+
+
+Explain caps w_l VB
+the w_s VB DT
+restrictions s re w_l DT NNS
+
+
+Explain caps w_l VB
+the w_s VB DT
+codes s w_m DT NNS
+
+
+Explain caps w_l VB
+the w_s VB DT
+restriction ion re w_l DT NN
+A caps w_s NN SYM
+P caps w_s SYM SYM
+slash w_m SYM SYM
+five w_m SYM CD
+seven w_m CD CD
+
+
+Explain caps w_l VB
+the w_s VB DT
+fare w_m DT NN
+code w_m NN NN
+Q caps w_s NN SYM
+
+
+Show caps w_m VB
+me w_s VB PRP
+the w_s PRP DT
+flights s w_l DT NNS
+that w_m NNS WDT
+accept w_m WDT VBP
+frequent w_l VBP JJ
+flyer w_m JJ NN
+tickets s w_l NN NNS
+
+
+Display caps w_l VB
+the w_s VB DT
+fare w_m DT NN
+codes s w_m NN NNS
+
