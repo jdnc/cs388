@@ -16,32 +16,32 @@ public class OrthoFeatures{
 			BufferedWriter outFile = new BufferedWriter(fstream);
 			BufferedReader inFile = new BufferedReader(new FileReader(args[0]));
 			String line = null;
-			Pattern suffix = Pattern.compile(".+(ing|ogy|ed|s|ly|ion|tion|ies)$");
-			//Pattern numStart = Pattern.compile("^[1-9].*");
+			//Pattern suffix = Pattern.compile(".+(ing|ogy|ed|s|ly|ion|tion|ies)$");
+			Pattern numStart = Pattern.compile("^[1-9].*");
 			while((line = inFile.readLine()) != null){
 				StringBuilder sb = new StringBuilder();
 				if (!line.isEmpty()){
 					String[] tokens = line.split("\\s+");
 					sb.append(tokens[0]);
-					Matcher matchSuff =  suffix.matcher(tokens[0]);
-					//Matcher matchNumStart = numStart.matcher(tokens[0]);
+					//Matcher matchSuff =  suffix.matcher(tokens[0]);
+					Matcher matchNumStart = numStart.matcher(tokens[0]);
 					
-					if(matchSuff.matches()){
+					/*if(matchSuff.matches()){
 						System.out.print(matchSuff.group(1));
 						sb.append(" " + matchSuff.group(1));
-					}
+					}*/
 					
-					/*if (tokens[0].contains("-")){
+					if (tokens[0].contains("-")){
 						sb.append(" " + "hyp");
-					}*/
-					
-					if(Character.isUpperCase(tokens[0].charAt(0))){
-						sb.append(" " + "caps");
 					}
 					
-					/*if(matchNumStart.matches()){
-						sb.append(" " + "nums");
+					/*if(Character.isUpperCase(tokens[0].charAt(0))){
+						sb.append(" " + "caps");
 					}*/
+					
+					if(matchNumStart.matches()){
+						sb.append(" " + "nums");
+					}
 					
 					sb.append(" " + tokens[1]);
 					
