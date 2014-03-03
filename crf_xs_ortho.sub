@@ -13,7 +13,7 @@ Log = /u/mparikh/cs388/crf_xs_ortho/experiment.log
 Notification = complete
 Notify_user = mparikh@cs.utexas.edu
 
-Arguments = cc.mallet.fst.SimpleTagger --train true --model-file /u/mparikh/cs388/out.model --training-proportion 0.8 --test lab atis3.ortho
+Arguments = cc.mallet.fst.SimpleTagger --train true --model-file /u/mparikh/cs388/out.model --training-proportion 0.8 --test lab /u/mparikh/cs388/atis3.ortho
 
 Output = /u/mparikh/cs388/crf_xs_ortho/experiment.out
 Error  = /u/mparikh/cs388/crf_xs_ortho/experiment.err
