@@ -24,7 +24,7 @@ public class OovUtils{
 					String[] wordies =  t.split("\\s+");
 					for(int k = 1; k < wordies.length; k++){
 						//System.out.println("WORDIES "+wordies[k]);
-						if(features.contains(wordies[k])|| features2.contains(wordies[k]))
+						if(features.contains(wordies[k]))//|| features2.contains(wordies[k]))
 							continue;
 						else{
 							words.add(wordies[k]);		
