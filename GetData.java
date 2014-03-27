@@ -16,7 +16,7 @@ public class GetData {
 	public static String wsjSeed = "wsjSeed.mrg";
 	public static String brownTrain = "brownTrain.mrg";
 	public static String brownTest = "brownTest.mrg";
-	public static Pattern endOfTree = Pattern.compile("^\\s*(. .) ))\\s*$");
+	public static Pattern endOfTree = Pattern.compile("^\\s*\\(. .\\) \\)\\)\\s*$");
 	
 	public static void createWsjSeed(String dirName){
 		String outFileName = wsjSeed;
@@ -39,9 +39,9 @@ public class GetData {
 					}
 					inFile.close();
 				}
-				outFile.close();
-			}
-			
+		  }
+		  outFile.close();
+	
 			
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
@@ -71,7 +71,10 @@ public class GetData {
 					String line = null;
 					StringBuilder sb = new StringBuilder();
 					while((line = inFile.readLine()) != null){
+            if(line.startsWith("*x*"))
+                continue;
 						sb.append(line);
+            sb.append("\n");
 						Matcher endTree = endOfTree.matcher(line);
 						if(endTree.find()){
 							trees.add(sb.toString());
@@ -114,12 +117,13 @@ public class GetData {
 			StringBuilder sb = new StringBuilder();
 			while((line = inFile.readLine()) != null){
 				sb.append(line);
+        sb.append("\n");
 				Matcher endTree = endOfTree.matcher(line);
 				if(endTree.find()){
+					outFile.write(sb.toString());
 					numSentences++;
 					if(numSentences == n)
 						break;
-					outFile.write(sb.toString());
 					sb.setLength(0);
 				}
 			}
@@ -147,14 +151,16 @@ public class GetData {
 		// args[1] is the number of sentences (k)
 		// args[2] is name of output file
 		
-		if (args[0] == "brown"){
+		if (args[0].equals("brown")){
 			getTrainTestFromBrown(args[1]);
 		}
-		else if (args[0] == "wsj"){
+		else if (args[0].equals("wsj")){
 			createWsjSeed(args[1]);
 		}
-		else if(args[0] == "wsj-k"){
-			int n = Integer.getInteger(args[1]);
+		else if(args[0].equals("wsjk")){
+     // System.out.println(args[1]);
+     // System.out.println(args[2]);
+			int n = Integer.parseInt(args[1]);
 			getWsjK(args[2], n);
 		}
 		else{
