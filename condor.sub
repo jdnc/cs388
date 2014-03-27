@@ -12,7 +12,7 @@ Notify_user = mparikh@cs.utexas.edu
  
 Arguments = UnsupervisedParser -seed /u/mparikh/cs388/1k.mrg -test /u/mparikh/cs388/brownTest.mrg 
  
-jar_files = /u/mparikh/cs388/lib/stanford-parser.jar:/u/mparikh/cs388/lib/commons-cli-1.2.jar
+jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
  
 Output = /u/mparikh/cs388/experiment.out
 Error = /u/mparikh/cs388/experiment.err
