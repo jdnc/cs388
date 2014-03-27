@@ -108,16 +108,23 @@ public class GetData {
 		return;
 	}
 	
-	public static void getWsjK(String outFileName, int n){
+	public static void getKSentences(String outFileName, int n, String corpus){
 		int numSentences = 0;
 		try {
-			BufferedReader inFile = new BufferedReader(new FileReader(wsjSeed));
+      String filename = null;
+      if(corpus.equals("brown"))
+        filename = brownTrain;
+      else(corpus.equals("wsj"))
+        filename = wsjSeed;
+			BufferedReader inFile = new BufferedReader(new FileReader(filename));
 			FileWriter outFile = new FileWriter(outFileName);
 			String line = null;
 			StringBuilder sb = new StringBuilder();
 			while((line = inFile.readLine()) != null){
+				if(line.startsWith("*x*"))
+                	continue;
 				sb.append(line);
-        sb.append("\n");
+        		sb.append("\n");
 				Matcher endTree = endOfTree.matcher(line);
 				if(endTree.find()){
 					outFile.write(sb.toString());
@@ -160,8 +167,9 @@ public class GetData {
 		else if(args[0].equals("wsjk")){
      // System.out.println(args[1]);
      // System.out.println(args[2]);
+     // args[3] is the either wsj or brown
 			int n = Integer.parseInt(args[1]);
-			getWsjK(args[2], n);
+			getKSentences(args[2], n, args[3]);
 		}
 		else{
 			System.out.println("Error: Unrecognized args to program.");
