@@ -114,7 +114,7 @@ public class GetData {
       String filename = null;
       if(corpus.equals("brown"))
         filename = brownTrain;
-      else(corpus.equals("wsj"))
+      else
         filename = wsjSeed;
 			BufferedReader inFile = new BufferedReader(new FileReader(filename));
 			FileWriter outFile = new FileWriter(outFileName);
