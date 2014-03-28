@@ -14,6 +14,7 @@ import java.util.regex.Pattern;
 
 public class GetData {
 	public static String wsjSeed = "wsjSeed.mrg";
+	public static String wsjTest = "wsjTest.mrg";
 	public static String brownTrain = "brownTrain.mrg";
 	public static String brownTest = "brownTest.mrg";
 	public static Pattern endOfTree = Pattern.compile("^\\s*\\(. .\\) \\)\\)\\s*$");
@@ -42,6 +43,33 @@ public class GetData {
 		  }
 		  outFile.close();
 	
+			
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}		
+		return;
+	}
+
+
+	public static void createWsjTest(String dirName){
+		String outFileName = wsjTest;
+		FileWriter fstream;
+		try {
+			fstream = new FileWriter(outFileName, true);
+			BufferedWriter outFile = new BufferedWriter(fstream);
+			File wsjDir = new File(dirName);
+			File[] wsjSub = wsjDir.listFiles();
+			for (File f : wsjSub){
+				BufferedReader inFile = new BufferedReader(new FileReader(f));
+				String line = null;
+				while((line = inFile.readLine()) != null){
+					outFile.write(line);
+					outFile.newLine();
+				}
+				inFile.close();				
+		  }
+		  outFile.close();
 			
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
@@ -146,13 +174,16 @@ public class GetData {
 	
 	public static void main(String args[]){
 		// args[0] is which operation to perform
-		// can be "brown"||"wsj"||"wsj-k"
+		// can be "brown"||"wsj"||"wsj-k"||wsjTest
 		
 		// for brown 
 		// args[1] = name of brown directory
 		
 		// for wsj 
 		// args[1] is name of wsj dir
+
+		// for wsjTest
+		// args[1] is name of dir
 		
 		// for wsj-k 
 		// args[1] is the number of sentences (k)
@@ -163,6 +194,9 @@ public class GetData {
 		}
 		else if (args[0].equals("wsj")){
 			createWsjSeed(args[1]);
+		}
+		else if (args[0].equals("wsjTest")){
+			createWsjTest(args[1]);
 		}
 		else if(args[0].equals("wsjk")){
      // System.out.println(args[1]);
