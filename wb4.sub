@@ -1,0 +1,63 @@
+universe = java
+Initialdir = /u/mparikh/cs388/
+Executable = /u/mparikh/cs388/UnsupervisedParser.class
+ 
++Group = "GRAD"
++Project = "INSTRUCTIONAL"
+ 
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+ 
+ 
+jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
+ 
+Output = /u/mparikh/cs388/wb4/experiment.$(Process).out
+Error = /u/mparikh/cs388/wb4/experiment.$(Process).err
+Log = /u/mparikh/cs388/wb4/experiment.$(Process).log
+
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brownTrain.mrg -test brownTest.mrg
+
+Queue
+
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown1k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown2k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown3k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown4k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown5k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown7k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown10k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown13k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown17k.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg -selftrain brown21k.mrg -test brownTest.mrg
+
+Queue
+
