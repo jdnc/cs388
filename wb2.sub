@@ -11,9 +11,9 @@ Notify_user = mparikh@cs.utexas.edu
  
 jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
  
-Output = /u/mparikh/cs388/wb1/experiment.$(Process).out
-Error = /u/mparikh/cs388/wb1/experiment.$(Process).err
-Log = /u/mparikh/cs388/wb1/experiment.$(Process).log
+Output = /u/mparikh/cs388/wb2/experiment.$(Process).out
+Error = /u/mparikh/cs388/wb2/experiment.$(Process).err
+Log = /u/mparikh/cs388/wb2/experiment.$(Process).log
 
 
 Arguments =  UnsupervisedParser -seed 1k.mrg -test brownTest.mrg
