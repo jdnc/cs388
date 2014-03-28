@@ -1,0 +1,70 @@
+universe = java
+Initialdir = /u/mparikh/cs388/
+Executable = /u/mparikh/cs388/UnsupervisedParser.class
+ 
++Group = "GRAD"
++Project = "INSTRUCTIONAL"
+ 
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+ 
+ 
+jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
+ 
+Output = /u/mparikh/cs388/wb3/experiment.$(Process).out
+Error = /u/mparikh/cs388/wb3/experiment.$(Process).err
+Log = /u/mparikh/cs388/wb3/experiment.$(Process).log
+
+
+Arguments =  UnsupervisedParser -seed 1k.mrg -test wsjTest.mrg
+
+Queue
+
+
+Arguments =  UnsupervisedParser -seed 2k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 3k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 4k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 5k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 7k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 10k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 13k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 16k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 20k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 25k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 30k.mrg  -test wsjTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 35k.mrg  -test wsjTest.mrg
+
+Queue
