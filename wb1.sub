@@ -1,5 +1,5 @@
 universe = java
-Initialdir = /u/mparikh/cs388/wb1
+Initialdir = /u/mparikh/cs388/
 Executable = /u/mparikh/cs388/UnsupervisedParser.class
  
 +Group = "GRAD"
