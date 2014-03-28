@@ -1,0 +1,58 @@
+universe = java
+Initialdir = /u/mparikh/cs388/
+Executable = /u/mparikh/cs388/UnsupervisedParser.class
+ 
++Group = "GRAD"
++Project = "INSTRUCTIONAL"
+ 
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+ 
+ 
+jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
+ 
+Output = /u/mparikh/cs388/bw3/experiment.$(Process).out
+Error = /u/mparikh/cs388/bw3/experiment.$(Process).err
+Log = /u/mparikh/cs388/bw3/experiment.$(Process).log
+
+
+Arguments =  UnsupervisedParser -seed brown1k.mrg -test brownTest.mrg
+
+Queue
+
+
+Arguments =  UnsupervisedParser -seed brown2k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown3k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown4k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown5k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown7k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown10k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown13k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown17k.mrg  -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed brown21k.mrg  -test brownTest.mrg
+
+Queue
