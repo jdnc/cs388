@@ -1,0 +1,27 @@
+universe = java
+Initialdir = /u/mparikh/cs388/
+Executable = /u/mparikh/cs388/UnsupervisedParser.class
+ 
++Group = "GRAD"
++Project = "INSTRUCTIONAL"
+ 
+Notification = complete
+Notify_user = mparikh@cs.utexas.edu
+ 
+ 
+jar_files = /u/mparikh/cs388/lib/stanford-parser.jar,/u/mparikh/cs388/lib/commons-cli-1.2.jar
+ 
+Output = /u/mparikh/cs388/experiment.$(Process).out
+Error = /u/mparikh/cs388/experiment.$(Process).err
+Log = /u/mparikh/cs388/experiment.$(Process).log
+
+
+
+
+Arguments =  UnsupervisedParser -seed 30k.mrg -selftrain brownTrain.mrg -test brownTest.mrg
+
+Queue
+
+Arguments =  UnsupervisedParser -seed 35k.mrg -selftrain brownTrain.mrg -test brownTest.mrg
+
+Queue
