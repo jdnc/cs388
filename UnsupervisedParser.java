@@ -147,10 +147,10 @@ public class UnsupervisedParser {
 		EvaluateTreebank et = new EvaluateTreebank(lp);
 		double f1Score = et.testOnTreebank(testBank);
 		System.out.println("-----Results-------");
-		System.out.println("Seed size: "+seedSize);
-		System.out.println("Self train size: "+selftrainSize);
-		System.out.println("Combined Training size: "+newTrainSize);
-		System.out.println("Test size: "+testSize);
+		//System.out.println("Seed size: "+seedSize);
+		//System.out.println("Self train size: "+selftrainSize);
+		//System.out.println("Combined Training size: "+newTrainSize);
+		//System.out.println("Test size: "+testSize);
 		System.out.println("f1 score: "+f1Score);
 		System.out.println("-------------------\n");
 		return;
