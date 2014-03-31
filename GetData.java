@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -13,12 +12,16 @@ import java.util.regex.Pattern;
 
 
 public class GetData {
+	// initialize some common filenames
 	public static String wsjSeed = "wsjSeed.mrg";
 	public static String wsjTest = "wsjTest.mrg";
 	public static String brownTrain = "brownTrain.mrg";
 	public static String brownTest = "brownTest.mrg";
 	public static Pattern endOfTree = Pattern.compile("^\\s*\\(. .\\) \\)\\)\\s*$");
 	
+	// given the parent directory that has all the WSJ sections, 
+	// go through all the files in each section and create the large
+	// seed set from sections 02-22
 	public static void createWsjSeed(String dirName){
 		String outFileName = wsjSeed;
 		FileWriter fstream;
@@ -45,13 +48,13 @@ public class GetData {
 	
 			
 		} catch (IOException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}		
 		return;
 	}
 
-
+	// Given the path to the WSJ section 23, combines all the 
+	// files therein to one single wsjTest file
 	public static void createWsjTest(String dirName){
 		String outFileName = wsjTest;
 		FileWriter fstream;
@@ -78,6 +81,9 @@ public class GetData {
 		return;
 	}
 	
+	// Given the absolute path to the main Brown directory, 
+	// combine all the genres and use the top 90% of each genre for
+	// the train set and the remaining for the test
 	public static void getTrainTestFromBrown(String dirName){
 		String trainFile = brownTrain;
 		String testFile = brownTest;
@@ -130,20 +136,20 @@ public class GetData {
 			outTrain.close();
 			outTest.close();	
 		} catch (IOException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}		
 		return;
 	}
 	
+	// get the top K sentences from either the brown or the WSJ corpus
 	public static void getKSentences(String outFileName, int n, String corpus){
 		int numSentences = 0;
 		try {
-      String filename = null;
-      if(corpus.equals("brown"))
-        filename = brownTrain;
-      else
-        filename = wsjSeed;
+			String filename = null;
+			if(corpus.equals("brown"))
+			 	filename = brownTrain;
+      			else
+				filename = wsjSeed;
 			BufferedReader inFile = new BufferedReader(new FileReader(filename));
 			FileWriter outFile = new FileWriter(outFileName);
 			String line = null;
