@@ -156,6 +156,7 @@ public class UnsupervisedParser {
 		return;
 	}
 	
+	// generate a treebank given the absolute path to the raw data file
 	public static MemoryTreebank makeTreebank(String treebankPath, Options op) {
 	    System.err.println("Training a parser from treebank dir: " + treebankPath);
 	    MemoryTreebank treebank = op.tlpParams.memoryTreebank();
