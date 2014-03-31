@@ -180,7 +180,7 @@ public class GetData {
 	
 	public static void main(String args[]){
 		// args[0] is which operation to perform
-		// can be "brown"||"wsj"||"wsj-k"||wsjTest
+		// can be "brown"||"wsj"||"wsjk"||wsjTest
 		
 		// for brown 
 		// args[1] = name of brown directory
