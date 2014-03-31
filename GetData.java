@@ -191,9 +191,10 @@ public class GetData {
 		// for wsjTest
 		// args[1] is name of dir
 		
-		// for wsj-k 
+		// for wsjk 
 		// args[1] is the number of sentences (k)
 		// args[2] is name of output file
+		// args[3] is 'wsj' or 'brown' (name of corpus)
 		
 		if (args[0].equals("brown")){
 			getTrainTestFromBrown(args[1]);
@@ -207,7 +208,7 @@ public class GetData {
 		else if(args[0].equals("wsjk")){
      // System.out.println(args[1]);
      // System.out.println(args[2]);
-     // args[3] is the either wsj or brown
+ 
 			int n = Integer.parseInt(args[1]);
 			getKSentences(args[2], n, args[3]);
 		}
